@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Cli, Compatibility",
+      "file": "references/sql-reference.md",
+      "summary": "Reference: Cli, Compatibility.",
+      "keywords": [
+        "cli-compatibility",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Data Types, Experimental Features",
+      "file": "references/sql-reference-2.md",
+      "summary": "Reference: Data Types, Experimental Features.",
+      "keywords": [
+        "data-types-experimental-features",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Expressions, Extensions",
+      "file": "references/sql-reference-3.md",
+      "summary": "Reference: Expressions, Extensions.",
+      "keywords": [
+        "expressions-extensions",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Aggregate",
+      "file": "references/aggregate.md",
+      "summary": "Reference: Aggregate.",
+      "keywords": [
+        "aggregate",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Array",
+      "file": "references/array.md",
+      "summary": "Reference: Array.",
+      "keywords": [
+        "array",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Date Time",
+      "file": "references/date-time.md",
+      "summary": "Reference: Date Time.",
+      "keywords": [
+        "date-time",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Fts",
+      "file": "references/fts.md",
+      "summary": "Reference: Fts.",
+      "keywords": [
+        "fts",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Json",
+      "file": "references/json.md",
+      "summary": "Reference: Json.",
+      "keywords": [
+        "json",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Math",
+      "file": "references/math.md",
+      "summary": "Reference: Math.",
+      "keywords": [
+        "math",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Scalar",
+      "file": "references/scalar.md",
+      "summary": "Reference: Scalar.",
+      "keywords": [
+        "scalar",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Vector, Window",
+      "file": "references/functions.md",
+      "summary": "Reference: Vector, Window.",
+      "keywords": [
+        "vector-window",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Multiprocess Access, Pragmas",
+      "file": "references/sql-reference-4.md",
+      "summary": "Reference: Multiprocess Access, Pragmas.",
+      "keywords": [
+        "multiprocess-access-pragmas",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Alter Table, Analyze, Attach Database, Create Domain",
+      "file": "references/statements.md",
+      "summary": "Reference: Alter Table, Analyze, Attach Database, Create Domain.",
+      "keywords": [
+        "alter-table-analyze-attach-database-create-domain",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Create Index, Create Materialized View, Create Table",
+      "file": "references/statements-2.md",
+      "summary": "Reference: Create Index, Create Materialized View, Create Table.",
+      "keywords": [
+        "create-index-create-materialized-view-create-table",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Create Trigger",
+      "file": "references/create-trigger.md",
+      "summary": "Reference: Create Trigger.",
+      "keywords": [
+        "create-trigger",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Create Type, Create View",
+      "file": "references/statements-3.md",
+      "summary": "Reference: Create Type, Create View.",
+      "keywords": [
+        "create-type-create-view",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Create Virtual Table, Delete, Detach Database, Drop Domain ...",
+      "file": "references/statements-4.md",
+      "summary": "Reference: Create Virtual Table, Delete, Detach Database, Drop Domain ....",
+      "keywords": [
+        "create-virtual-table-delete-detach-database-drop-domain",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Explain, Insert, Replace",
+      "file": "references/statements-5.md",
+      "summary": "Reference: Explain, Insert, Replace.",
+      "keywords": [
+        "explain-insert-replace",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Select, Transactions",
+      "file": "references/statements-6.md",
+      "summary": "Reference: Select, Transactions.",
+      "keywords": [
+        "select-transactions",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Update, Upsert, Vacuum",
+      "file": "references/statements-7.md",
+      "summary": "Reference: Update, Upsert, Vacuum.",
+      "keywords": [
+        "update-upsert-vacuum",
+        "reference"
+      ]
+    }
+  ]
+}

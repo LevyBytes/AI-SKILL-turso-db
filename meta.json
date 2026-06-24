@@ -1,0 +1,52 @@
+{
+  "name": "turso-db",
+  "title": "Turso",
+  "description": "Use when working with Turso Database, Turso Cloud, libSQL, AgentFS, Turso CLI, Turso Platform API, SDKs, SQL reference, sync, migrations, auth tokens, groups, organizations, vector search, embedded replicas, local development, SQLite compatible databases, or Turso connection code.",
+  "when_to_use": "Turso Database, Turso Cloud, libSQL, AgentFS, Turso CLI commands, Turso Platform API endpoints, Turso SDK setup or reference work, SQL reference questions, sync, vector search, embedded replicas, local development, migrations, auth tokens, groups, organizations, billing, or SQLite compatible Turso database behavior.",
+  "source_url": "https://docs.turso.tech/",
+  "verbatim": false,
+  "gotchas": [
+    "Turso spans several product areas (Database, Cloud, libSQL, CLI, Platform API, SDKs, SQL) — this is a router; open the sub-skill that matches and use its `references/INDEX.md` to find the exact file.",
+    "Turso docs change over time; verify version-sensitive CLI flags, API endpoints, SDK imports, auth scopes, quotas, and beta features against the live docs or installed toolchain before acting.",
+    "Preserve exact identifiers including command names, endpoint paths, SDK symbols, SQL functions, PRAGMAs, enum values, flags, URLs, numbers, and file names.",
+    "This package was built from HTML documentation pages; `api-reference/openapi.json` was reported but not ingested unless a future task explicitly asks for OpenAPI schema coverage."
+  ],
+  "router": true,
+  "subskills": {
+    "agentfs": {
+      "title": "AgentFS",
+      "description": "Use when working with AgentFS for AI agent filesystems, audit logs, copy on write overlays, MCP access, NFS access, sessions, sandboxing, sync, Python SDK, Rust SDK, or TypeScript SDK.",
+      "when_to_use": "AgentFS installation, CLI reference, audit logs, copy on write overlays, MCP server integration, NFS exports, sandboxing, shared sessions, sync with Turso Cloud, and AgentFS SDKs."
+    },
+    "cli": {
+      "title": "Turso CLI",
+      "description": "Use when using the Turso CLI for auth login, API tokens, database creation, database shell, import, export, groups, organizations, plans, headless mode, and command help.",
+      "when_to_use": "Turso CLI installation, authentication, headless mode, auth token commands, database commands, group commands, organization commands, plan commands, and command line help."
+    },
+    "database-core": {
+      "title": "Turso Database Core",
+      "description": "Use when working with Turso Database core docs, libSQL, quickstarts, local development, sync, database guides, vector search, AI memory, content caching, secrets vault, and Turso Database beta features.",
+      "when_to_use": "Turso Database introductions, quickstarts, libSQL, local development, Turso Database beta features, sync, AI and agent guides, vector search, change data capture, concurrent writes, encryption, and database concepts."
+    },
+    "platform-api": {
+      "title": "Turso Platform API",
+      "description": "Use when calling the Turso Platform API for authentication, databases, groups, locations, organizations, invites, members, plans, usage, API tokens, response codes, and HTTP endpoints.",
+      "when_to_use": "Turso Platform API authentication, database endpoints, group endpoints, location endpoints, organization endpoints, invite and member management, plans, usage, API tokens, response codes, and HTTP API workflows."
+    },
+    "sdks": {
+      "title": "Turso SDKs",
+      "description": "Use when connecting applications to Turso with TypeScript, JavaScript, Python, Rust, Go, Java, Dart, Flutter, Kotlin, Swift, Ruby, PHP, C, ActiveRecord, SQL over HTTP, ORMs, or framework integrations.",
+      "when_to_use": "Turso SDK authentication, authorization, platform tokens, fine grained permissions, JavaScript and TypeScript, Python, Rust, Go, Java, Dart, Flutter, Kotlin, Swift, Ruby, PHP, C, ActiveRecord, SQL over HTTP, ORM setup, and framework guides."
+    },
+    "sql-reference": {
+      "title": "Turso SQL Reference",
+      "description": "Use when checking Turso SQL compatibility, data types, expressions, PRAGMA statements, extensions, SQL functions, CLI shell commands, and SQL statements.",
+      "when_to_use": "SQLite compatibility, Turso SQL data types, expressions, functions, extensions, PRAGMAs, CLI shell commands, command line options, experimental SQL features, and SQL statement syntax."
+    },
+    "turso-cloud": {
+      "title": "Turso Cloud",
+      "description": "Use when working with Turso Cloud managed database features, allow rules, durability, BYOK encryption, private endpoints, migrations, branching, embedded replicas, billing, and deployment guides.",
+      "when_to_use": "Turso Cloud overview, access allow rules, durability guarantees, BYOK encryption, private endpoints, cloud limitations, migration to Turso, managed features, branching, embedded replicas, billing, and hosting platform guides."
+    }
+  }
+}

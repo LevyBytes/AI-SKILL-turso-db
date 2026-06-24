@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Auth, Authentication, Contact",
+      "file": "references/cli.md",
+      "summary": "Reference: Auth, Authentication, Contact.",
+      "keywords": [
+        "auth-authentication-contact",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Db, Dev",
+      "file": "references/cli-2.md",
+      "summary": "Reference: Db, Dev.",
+      "keywords": [
+        "db-dev",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Group, Headless Mode, Help, Installation ...",
+      "file": "references/cli-3.md",
+      "summary": "Reference: Group, Headless Mode, Help, Installation ....",
+      "keywords": [
+        "group-headless-mode-help-installation",
+        "reference"
+      ]
+    }
+  ]
+}

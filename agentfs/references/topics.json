@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Guides, Installation",
+      "file": "references/agentfs.md",
+      "summary": "Reference: Guides, Installation.",
+      "keywords": [
+        "guides-installation",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Introduction, Reference",
+      "file": "references/agentfs-2.md",
+      "summary": "Reference: Introduction, Reference.",
+      "keywords": [
+        "introduction-reference",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Python, Rust, Typescript",
+      "file": "references/sdk.md",
+      "summary": "Reference: Python, Rust, Typescript.",
+      "keywords": [
+        "python-rust-typescript",
+        "reference"
+      ]
+    }
+  ]
+}

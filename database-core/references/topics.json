@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Agent Databases, Ai Memory, Code Indexing",
+      "file": "references/guides.md",
+      "summary": "Reference: Agent Databases, Ai Memory, Code Indexing.",
+      "keywords": [
+        "agent-databases-ai-memory-code-indexing",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Content Caching, Secrets Vault, Vector Search",
+      "file": "references/guides-2.md",
+      "summary": "Reference: Content Caching, Secrets Vault, Vector Search.",
+      "keywords": [
+        "content-caching-secrets-vault-vector-search",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Introduction, Libsql, Local Development, Quickstart",
+      "file": "references/get-started.md",
+      "summary": "Reference: Introduction, Libsql, Local Development, Quickstart.",
+      "keywords": [
+        "introduction-libsql-local-development-quickstart",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Checkpoint, Conflict Resolution, Local Sync Server, Partial ...",
+      "file": "references/sync.md",
+      "summary": "Reference: Checkpoint, Conflict Resolution, Local Sync Server, Partial ....",
+      "keywords": [
+        "checkpoint-conflict-resolution-local-sync-server-partial",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Cdc",
+      "file": "references/cdc.md",
+      "summary": "Reference: Cdc.",
+      "keywords": [
+        "cdc",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 1)",
+      "file": "references/changelog.md",
+      "summary": "Reference: Changelog (part 1).",
+      "keywords": [
+        "changelog-part-1",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 2)",
+      "file": "references/changelog-2.md",
+      "summary": "Reference: Changelog (part 2).",
+      "keywords": [
+        "changelog-part-2",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 3)",
+      "file": "references/changelog-3.md",
+      "summary": "Reference: Changelog (part 3).",
+      "keywords": [
+        "changelog-part-3",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 4)",
+      "file": "references/changelog-4.md",
+      "summary": "Reference: Changelog (part 4).",
+      "keywords": [
+        "changelog-part-4",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 5)",
+      "file": "references/changelog-5.md",
+      "summary": "Reference: Changelog (part 5).",
+      "keywords": [
+        "changelog-part-5",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 6)",
+      "file": "references/changelog-6.md",
+      "summary": "Reference: Changelog (part 6).",
+      "keywords": [
+        "changelog-part-6",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 7)",
+      "file": "references/changelog-7.md",
+      "summary": "Reference: Changelog (part 7).",
+      "keywords": [
+        "changelog-part-7",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 8)",
+      "file": "references/changelog-8.md",
+      "summary": "Reference: Changelog (part 8).",
+      "keywords": [
+        "changelog-part-8",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 9)",
+      "file": "references/changelog-9.md",
+      "summary": "Reference: Changelog (part 9).",
+      "keywords": [
+        "changelog-part-9",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 10)",
+      "file": "references/changelog-10.md",
+      "summary": "Reference: Changelog (part 10).",
+      "keywords": [
+        "changelog-part-10",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Changelog (part 11)",
+      "file": "references/changelog-11.md",
+      "summary": "Reference: Changelog (part 11).",
+      "keywords": [
+        "changelog-part-11",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Concurrent Writes, Encryption, Quickstart",
+      "file": "references/tursodb.md",
+      "summary": "Reference: Concurrent Writes, Encryption, Quickstart.",
+      "keywords": [
+        "concurrent-writes-encryption-quickstart",
+        "reference"
+      ]
+    }
+  ]
+}

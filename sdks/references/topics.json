@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Connect, Integrations",
+      "file": "references/dart.md",
+      "summary": "Reference: Connect, Integrations.",
+      "keywords": [
+        "connect-integrations",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Activerecord, Authentication, Authorization",
+      "file": "references/sdk.md",
+      "summary": "Reference: Activerecord, Authentication, Authorization.",
+      "keywords": [
+        "activerecord-authentication-authorization",
+        "reference"
+      ]
+    },
+    {
+      "topic": "C, Flutter",
+      "file": "references/sdk-2.md",
+      "summary": "Reference: C, Flutter.",
+      "keywords": [
+        "c-flutter",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Examples, Quickstart, Reference",
+      "file": "references/go.md",
+      "summary": "Reference: Examples, Quickstart, Reference.",
+      "keywords": [
+        "examples-quickstart-reference",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Http, Introduction",
+      "file": "references/sdk-3.md",
+      "summary": "Reference: Http, Introduction.",
+      "keywords": [
+        "http-introduction",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Kotlin, Php",
+      "file": "references/sdk-4.md",
+      "summary": "Reference: Kotlin, Php.",
+      "keywords": [
+        "kotlin-php",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Python, Ruby",
+      "file": "references/sdk-5.md",
+      "summary": "Reference: Python, Ruby.",
+      "keywords": [
+        "python-ruby",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Examples, Guides, Orm, Quickstart",
+      "file": "references/rust.md",
+      "summary": "Reference: Examples, Guides, Orm, Quickstart.",
+      "keywords": [
+        "examples-guides-orm-quickstart",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Rust — Reference",
+      "file": "references/reference.md",
+      "summary": "Reference: Rust — Reference.",
+      "keywords": [
+        "rust-reference",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Quickstart, Reference",
+      "file": "references/swift.md",
+      "summary": "Reference: Quickstart, Reference.",
+      "keywords": [
+        "quickstart-reference",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Examples, Guides, Integrations",
+      "file": "references/ts.md",
+      "summary": "Reference: Examples, Guides, Integrations.",
+      "keywords": [
+        "examples-guides-integrations",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Orm, Quickstart",
+      "file": "references/ts-2.md",
+      "summary": "Reference: Orm, Quickstart.",
+      "keywords": [
+        "orm-quickstart",
+        "reference"
+      ]
+    },
+    {
+      "topic": "Ts — Reference",
+      "file": "references/reference-2.md",
+      "summary": "Reference: Ts — Reference.",
+      "keywords": [
+        "ts-reference",
+        "reference"
+      ]
+    }
+  ]
+}
