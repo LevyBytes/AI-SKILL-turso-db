@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Vector types and document storage",
+      "file": "vector-types-and-document-storage.md",
+      "summary": "Open when using Vector types and document storage.",
+      "keywords": ["Vector types and document storage"]},
+    {
+      "topic": "Vector distances and utility functions",
+      "file": "vector-distances-and-utility-functions.md",
+      "summary": "Open when using Vector distances and utility functions.",
+      "keywords": ["Vector distances and utility functions"]},
+    {
+      "topic": "Vector slicing and semantic search",
+      "file": "vector-slicing-and-semantic-search.md",
+      "summary": "Open when using Vector slicing and semantic search.",
+      "keywords": ["Vector slicing and semantic search"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

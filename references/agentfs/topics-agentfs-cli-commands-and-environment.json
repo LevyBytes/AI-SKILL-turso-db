@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "CLI install init and run",
+      "file": "cli-install-init-and-run.md",
+      "summary": "Open when using CLI install init and run.",
+      "keywords": ["CLI install init and run"]},
+    {
+      "topic": "CLI mount and MCP serving",
+      "file": "cli-mount-and-mcp-serving.md",
+      "summary": "Open when using CLI mount and MCP serving.",
+      "keywords": ["CLI mount and MCP serving"]},
+    {
+      "topic": "CLI NFS sync and file reading",
+      "file": "cli-nfs-sync-and-file-reading.md",
+      "summary": "Open when using CLI NFS sync and file reading.",
+      "keywords": ["CLI NFS sync and file reading"]},
+    {
+      "topic": "CLI writing diffs and timeline",
+      "file": "cli-writing-diffs-and-timeline.md",
+      "summary": "Open when using CLI writing diffs and timeline.",
+      "keywords": ["CLI writing diffs and timeline"]},
+    {
+      "topic": "CLI storage paths and setup",
+      "file": "cli-storage-paths-and-setup.md",
+      "summary": "Open when using CLI storage paths and setup.",
+      "keywords": ["CLI storage paths and setup"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

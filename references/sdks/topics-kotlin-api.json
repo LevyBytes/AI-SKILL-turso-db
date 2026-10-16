@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Kotlin client configuration and queries",
+      "file": "kotlin-client-configuration-and-queries.md",
+      "summary": "Open when using Kotlin client configuration and queries.",
+      "keywords": ["Kotlin client configuration and queries"]},
+    {
+      "topic": "Kotlin parameters batches and transactions",
+      "file": "kotlin-parameters-batches-and-transactions.md",
+      "summary": "Open when using Kotlin parameters batches and transactions.",
+      "keywords": ["Kotlin parameters batches and transactions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

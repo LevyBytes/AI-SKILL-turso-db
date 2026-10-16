@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript sync and checkpoint API",
+      "file": "typescript-sync-and-checkpoint-api.md",
+      "summary": "Open when using TypeScript sync and checkpoint API.",
+      "keywords": ["TypeScript sync and checkpoint API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

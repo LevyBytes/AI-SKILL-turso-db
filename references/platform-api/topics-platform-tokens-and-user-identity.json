@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Create platform token request",
+      "file": "create-platform-token-request.md",
+      "summary": "Open when using Create platform token request.",
+      "keywords": ["Create platform token request"]},
+    {
+      "topic": "Create platform token fields",
+      "file": "create-platform-token-fields.md",
+      "summary": "Open when using Create platform token fields.",
+      "keywords": ["Create platform token fields"]},
+    {
+      "topic": "List user platform tokens",
+      "file": "list-user-platform-tokens.md",
+      "summary": "Open when using List user platform tokens.",
+      "keywords": ["List user platform tokens"]},
+    {
+      "topic": "Token list response fields",
+      "file": "token-list-response-fields.md",
+      "summary": "Open when using Token list response fields.",
+      "keywords": ["Token list response fields"]},
+    {
+      "topic": "List organization platform tokens",
+      "file": "list-organization-platform-tokens.md",
+      "summary": "Open when using List organization platform tokens.",
+      "keywords": ["List organization platform tokens"]},
+    {
+      "topic": "Organization token response fields",
+      "file": "organization-token-response-fields.md",
+      "summary": "Open when using Organization token response fields.",
+      "keywords": ["Organization token response fields"]},
+    {
+      "topic": "Revoke platform token by name",
+      "file": "revoke-platform-token-by-name.md",
+      "summary": "Open when using Revoke platform token by name.",
+      "keywords": ["Revoke platform token by name"]},
+    {
+      "topic": "Revoke organization token by ID",
+      "file": "revoke-organization-token-by-id.md",
+      "summary": "Open when using Revoke organization token by ID.",
+      "keywords": ["Revoke organization token by ID"]},
+    {
+      "topic": "Validate platform token",
+      "file": "validate-platform-token.md",
+      "summary": "Open when using Validate platform token.",
+      "keywords": ["Validate platform token"]},
+    {
+      "topic": "Retrieve current user",
+      "file": "retrieve-current-user.md",
+      "summary": "Open when using Retrieve current user.",
+      "keywords": ["Retrieve current user"]},
+    {
+      "topic": "Current user response fields",
+      "file": "current-user-response-fields.md",
+      "summary": "Open when using Current user response fields.",
+      "keywords": ["Current user response fields"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

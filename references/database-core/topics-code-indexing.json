@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Code index schema and connection",
+      "file": "code-index-schema-and-connection.md",
+      "summary": "Open when using Code index schema and connection.",
+      "keywords": ["Code index schema and connection"]},
+    {
+      "topic": "Code index upserts and embeddings",
+      "file": "code-index-upserts-and-embeddings.md",
+      "summary": "Open when using Code index upserts and embeddings.",
+      "keywords": ["Code index upserts and embeddings"]},
+    {
+      "topic": "Code index fulltext and vector queries",
+      "file": "code-index-fulltext-and-vector-queries.md",
+      "summary": "Open when using Code index fulltext and vector queries.",
+      "keywords": ["Code index fulltext and vector queries"]},
+    {
+      "topic": "Code index hybrid search and cleanup",
+      "file": "code-index-hybrid-search-and-cleanup.md",
+      "summary": "Open when using Code index hybrid search and cleanup.",
+      "keywords": ["Code index hybrid search and cleanup"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

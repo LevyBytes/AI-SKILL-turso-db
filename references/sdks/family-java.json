@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Java connection",
+      "file": "topics-java-connection.json",
+      "summary": "Open when using Java connection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Java connection"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

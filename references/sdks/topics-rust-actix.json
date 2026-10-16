@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Actix dependencies and database credentials",
+      "file": "actix-dependencies-and-database-credentials.md",
+      "summary": "Open when using Actix dependencies and database credentials.",
+      "keywords": ["Actix dependencies and database credentials"]},
+    {
+      "topic": "Actix database query handler",
+      "file": "actix-database-query-handler.md",
+      "summary": "Open when using Actix database query handler.",
+      "keywords": ["Actix database query handler"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

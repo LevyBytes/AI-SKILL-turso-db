@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Flutter libSQL client configuration",
+      "file": "flutter-libsql-client-configuration.md",
+      "summary": "Open when using Flutter libSQL client configuration.",
+      "keywords": ["Flutter libSQL client configuration"]},
+    {
+      "topic": "Flutter libSQL sync queries and batches",
+      "file": "flutter-libsql-sync-queries-and-batches.md",
+      "summary": "Open when using Flutter libSQL sync queries and batches.",
+      "keywords": ["Flutter libSQL sync queries and batches"]},
+    {
+      "topic": "Flutter libSQL transactions and attach",
+      "file": "flutter-libsql-transactions-and-attach.md",
+      "summary": "Open when using Flutter libSQL transactions and attach.",
+      "keywords": ["Flutter libSQL transactions and attach"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

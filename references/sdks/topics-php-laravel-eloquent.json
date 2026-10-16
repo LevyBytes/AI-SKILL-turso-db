@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Laravel installation and local configuration",
+      "file": "laravel-installation-and-local-configuration.md",
+      "summary": "Open when using Laravel installation and local configuration.",
+      "keywords": ["Laravel installation and local configuration"]},
+    {
+      "topic": "Laravel remote replicas and migration schema",
+      "file": "laravel-remote-replicas-and-migration-schema.md",
+      "summary": "Open when using Laravel remote replicas and migration schema.",
+      "keywords": ["Laravel remote replicas and migration schema"]},
+    {
+      "topic": "Laravel migrations and eloquent inserts",
+      "file": "laravel-migrations-and-eloquent-inserts.md",
+      "summary": "Open when using Laravel migrations and eloquent inserts.",
+      "keywords": ["Laravel migrations and eloquent inserts"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

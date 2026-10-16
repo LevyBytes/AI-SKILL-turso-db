@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Attach database and cross database queries",
+      "file": "attach-database-and-cross-database-queries.md",
+      "summary": "Open when using Attach database and cross database queries.",
+      "keywords": ["Attach database and cross database queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

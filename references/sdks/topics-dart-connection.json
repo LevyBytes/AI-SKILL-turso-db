@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Dart installation connection and queries",
+      "file": "dart-installation-connection-and-queries.md",
+      "summary": "Open when using Dart installation connection and queries.",
+      "keywords": ["Dart installation connection and queries"]},
+    {
+      "topic": "Dart prepared statements",
+      "file": "dart-prepared-statements.md",
+      "summary": "Open when using Dart prepared statements.",
+      "keywords": ["Dart prepared statements"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

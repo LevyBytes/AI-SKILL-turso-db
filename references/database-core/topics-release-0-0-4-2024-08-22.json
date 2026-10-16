@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Turso 0.0.4 release records",
+      "file": "release-0.0.4-index.md",
+      "summary": "Open when using Turso 0.0.4 release records.",
+      "keywords": ["Turso 0.0.4 release records"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "IP and VPC allow rules",
+      "file": "topics-ip-and-vpc-allow-rules.json",
+      "summary": "Open when inspecting, setting or clearing IP, CIDR and VPC endpoint restrictions through the CLI or API.",
+      "keywords": ["IP and VPC allow rules"]},
+    {
+      "topic": "Durability guarantees",
+      "file": "topics-durability-guarantees.json",
+      "summary": "Open when checking the documented account-date and plan-specific durability and commit-latency guarantees.",
+      "keywords": ["Durability guarantees"]},
+    {
+      "topic": "Bring your own encryption key",
+      "file": "topics-bring-your-own-encryption-key.json",
+      "summary": "Open when generating BYOK keys, choosing ciphers, creating or uploading encrypted databases, branching or checking rekeying limits.",
+      "keywords": ["Bring your own encryption key"]},
+    {
+      "topic": "SQLite compatibility limits",
+      "file": "topics-sqlite-compatibility-limits.json",
+      "summary": "Open when checking restricted SQLite pragmas and alternatives for migration metadata.",
+      "keywords": ["SQLite compatibility limits"]},
+    {
+      "topic": "SQLite migration",
+      "file": "topics-sqlite-migration.json",
+      "summary": "Open when preparing WAL checkpoints and importing SQLite files through the CLI or Platform API.",
+      "keywords": ["SQLite migration"]},
+    {
+      "topic": "AWS PrivateLink regional setup",
+      "file": "topics-aws-privatelink-regional-setup.json",
+      "summary": "Open when configuring PrivateLink service IDs, availability zones, security groups and connectivity checks in the six bundled AWS regions.",
+      "keywords": ["AWS PrivateLink regional setup"]},
+    {
+      "topic": "Vector storage and search",
+      "file": "topics-vector-storage-and-search.json",
+      "summary": "Open when selecting vector types and distance functions, inserting embeddings, configuring indexes or querying approximate neighbors.",
+      "keywords": ["Vector storage and search"]},
+    {
+      "topic": "ATTACH databases and deprecated availability",
+      "file": "topics-attach-databases-and-deprecated-availability.json",
+      "summary": "Open when configuring ATTACH permissions and transactions within its documented group and availability restrictions.",
+      "keywords": ["ATTACH databases and deprecated availability"]},
+    {
+      "topic": "Database branches and CI automation",
+      "file": "topics-database-branches-and-ci-automation.json",
+      "summary": "Open when creating isolated database branches or automating branch creation in CI.",
+      "keywords": ["Database branches and CI automation"]},
+    {
+      "topic": "Edge replica locations and deprecated availability",
+      "file": "topics-edge-replica-locations-and-deprecated-availability.json",
+      "summary": "Open when adding or removing Edge Replica locations within the documented existing-user availability.",
+      "keywords": ["Edge replica locations and deprecated availability"]},
+    {
+      "topic": "Embedded replicas and synchronization",
+      "file": "topics-embedded-replicas-and-synchronization.json",
+      "summary": "Open when configuring local replicas, remote writes, periodic or manual sync, encryption and filesystem requirements.",
+      "keywords": ["Embedded replicas and synchronization"]},
+    {
+      "topic": "Embedded replica deployment providers",
+      "file": "topics-embedded-replica-deployment-providers.json",
+      "summary": "Open when deploying embedded replicas on Akamai, Fly, Koyeb, Railway or Render.",
+      "keywords": ["Embedded replica deployment providers"]},
+    {
+      "topic": "Multi-DB Schemas and deprecated availability",
+      "file": "topics-multi-db-schemas-and-deprecated-availability.json",
+      "summary": "Open when creating parent and child schema databases or checking migration locking and existing-user restrictions.",
+      "keywords": ["Multi-DB Schemas and deprecated availability"]},
+    {
+      "topic": "Point-in-time recovery",
+      "file": "topics-point-in-time-recovery.json",
+      "summary": "Open when restoring into a new database and checking plan retention windows, checkpoint gaps and connection changes.",
+      "keywords": ["Point-in-time recovery"]},
+    {
+      "topic": "SQLite extension versions and plan restrictions",
+      "file": "topics-sqlite-extension-versions-and-plan-restrictions.json",
+      "summary": "Open when checking preloaded SQLite and SQLean versions or Fly Pro and Enterprise optional extension limits.",
+      "keywords": ["SQLite extension versions and plan restrictions"]},
+    {
+      "topic": "Read and write billing and storage usage",
+      "file": "topics-read-and-write-billing-and-storage-usage.json",
+      "summary": "Open when interpreting row scans, writes, aborted transactions, BLOCKED quotas, storage pages and query-plan optimizations.",
+      "keywords": ["Read and write billing and storage usage"]},
+    {
+      "topic": "Turso Cloud capabilities and service entrypoints",
+      "file": "topics-turso-cloud-capabilities-and-service-entrypoints.json",
+      "summary": "Open when comparing the bundled Cloud capability overview and locating CLI, API, SDK and community entrypoints.",
+      "keywords": ["Turso Cloud capabilities and service entrypoints"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

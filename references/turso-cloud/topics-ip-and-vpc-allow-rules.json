@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "IP and VPC access rules",
+      "file": "ip-and-vpc-access-rules.md",
+      "summary": "Open when using IP and VPC access rules.",
+      "keywords": ["IP and VPC access rules"]},
+    {
+      "topic": "Clear access rules and API configuration",
+      "file": "clear-access-rules-and-api-configuration.md",
+      "summary": "Open when using Clear access rules and API configuration.",
+      "keywords": ["Clear access rules and API configuration"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

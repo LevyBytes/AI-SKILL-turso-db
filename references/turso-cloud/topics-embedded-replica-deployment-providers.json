@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Akamai embedded replica deployment",
+      "file": "akamai-embedded-replica-deployment.md",
+      "summary": "Open when using Akamai embedded replica deployment.",
+      "keywords": ["Akamai embedded replica deployment"]},
+    {
+      "topic": "Fly embedded replica deployment",
+      "file": "fly-embedded-replica-deployment.md",
+      "summary": "Open when using Fly embedded replica deployment.",
+      "keywords": ["Fly embedded replica deployment"]},
+    {
+      "topic": "Koyeb embedded replica deployment",
+      "file": "koyeb-embedded-replica-deployment.md",
+      "summary": "Open when using Koyeb embedded replica deployment.",
+      "keywords": ["Koyeb embedded replica deployment"]},
+    {
+      "topic": "Railway replica credentials and source",
+      "file": "railway-replica-credentials-and-source.md",
+      "summary": "Open when using Railway replica credentials and source.",
+      "keywords": ["Railway replica credentials and source"]},
+    {
+      "topic": "Railway replica service and deployment",
+      "file": "railway-replica-service-and-deployment.md",
+      "summary": "Open when using Railway replica service and deployment.",
+      "keywords": ["Railway replica service and deployment"]},
+    {
+      "topic": "Render embedded replica deployment",
+      "file": "render-embedded-replica-deployment.md",
+      "summary": "Open when using Render embedded replica deployment.",
+      "keywords": ["Render embedded replica deployment"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rust connection",
+      "file": "topics-rust-connection.json",
+      "summary": "Open when using Rust connection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust connection"]},
+    {
+      "topic": "Rust example projects",
+      "file": "topics-rust-example-repository-capture.json",
+      "summary": "Open when using Rust example projects and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust example projects"]},
+    {
+      "topic": "Rust Actix",
+      "file": "topics-rust-actix.json",
+      "summary": "Open when using Rust Actix and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust Actix"]},
+    {
+      "topic": "Rust Axum",
+      "file": "topics-rust-axum.json",
+      "summary": "Open when using Rust Axum and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust Axum"]},
+    {
+      "topic": "Rust Rocket",
+      "file": "topics-rust-rocket.json",
+      "summary": "Open when using Rust Rocket and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust Rocket"]},
+    {
+      "topic": "Rust Tauri",
+      "file": "topics-rust-tauri.json",
+      "summary": "Open when using Rust Tauri and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust Tauri"]},
+    {
+      "topic": "Rust Toasty ORM",
+      "file": "topics-rust-toasty-orm.json",
+      "summary": "Open when using Rust Toasty ORM and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust Toasty ORM"]},
+    {
+      "topic": "Rust turso quickstart",
+      "file": "topics-rust-turso-quickstart.json",
+      "summary": "Open when using Rust turso quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust turso quickstart"]},
+    {
+      "topic": "Rust remote quickstart",
+      "file": "topics-rust-remote-quickstart.json",
+      "summary": "Open when using Rust remote quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust remote quickstart"]},
+    {
+      "topic": "Rust crate selection",
+      "file": "topics-rust-crate-selection.json",
+      "summary": "Open when using Rust crate selection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust crate selection"]},
+    {
+      "topic": "Rust turso API",
+      "file": "topics-rust-turso-api.json",
+      "summary": "Open when using Rust turso API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust turso API"]},
+    {
+      "topic": "Rust libsql remote API",
+      "file": "topics-rust-libsql-remote-api.json",
+      "summary": "Open when using Rust libsql remote API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust libsql remote API"]},
+    {
+      "topic": "Rust libsql embedded API",
+      "file": "topics-rust-libsql-embedded-api.json",
+      "summary": "Open when using Rust libsql embedded API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rust libsql embedded API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

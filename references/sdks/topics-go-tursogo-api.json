@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go tursogo connection queries and encryption",
+      "file": "go-tursogo-connection-queries-and-encryption.md",
+      "summary": "Open when using Go tursogo connection queries and encryption.",
+      "keywords": ["Go tursogo connection queries and encryption"]},
+    {
+      "topic": "Go tursogo sync and checkpoint API",
+      "file": "go-tursogo-sync-and-checkpoint-api.md",
+      "summary": "Open when using Go tursogo sync and checkpoint API.",
+      "keywords": ["Go tursogo sync and checkpoint API"]},
+    {
+      "topic": "Go tursogo user query lifecycle",
+      "file": "go-tursogo-user-query-lifecycle.md",
+      "summary": "Open when creating, inserting and querying users with tursogo while checking SQL, scan and iteration failures.",
+      "keywords": ["Go database lifecycle"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

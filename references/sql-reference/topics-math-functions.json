@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Math function and signature reference",
+      "file": "math-function-and-signature-reference.md",
+      "summary": "Open when using Math function and signature reference.",
+      "keywords": ["Math function and signature reference"]},
+    {
+      "topic": "Math inverse trigonometric and hyperbolic functions",
+      "file": "math-inverse-trigonometric-and-hyperbolic-functions.md",
+      "summary": "Open when using Math inverse trigonometric and hyperbolic functions.",
+      "keywords": ["Math inverse trigonometric and hyperbolic functions"]},
+    {
+      "topic": "Math atan2 ceiling and cosine",
+      "file": "math-atan2-ceiling-and-cosine.md",
+      "summary": "Open when using Math atan2 ceiling and cosine.",
+      "keywords": ["Math atan2 ceiling and cosine"]},
+    {
+      "topic": "Math degrees exponentials and floor",
+      "file": "math-degrees-exponentials-and-floor.md",
+      "summary": "Open when using Math degrees exponentials and floor.",
+      "keywords": ["Math degrees exponentials and floor"]},
+    {
+      "topic": "Math natural and base logarithms",
+      "file": "math-natural-and-base-logarithms.md",
+      "summary": "Open when using Math natural and base logarithms.",
+      "keywords": ["Math natural and base logarithms"]},
+    {
+      "topic": "Math binary log modulus and pi",
+      "file": "math-binary-log-modulus-and-pi.md",
+      "summary": "Open when using Math binary log modulus and pi.",
+      "keywords": ["Math binary log modulus and pi"]},
+    {
+      "topic": "Math powers radians sign and sine",
+      "file": "math-powers-radians-sign-and-sine.md",
+      "summary": "Open when using Math powers radians sign and sine.",
+      "keywords": ["Math powers radians sign and sine"]},
+    {
+      "topic": "Math hyperbolic sine root and tangent",
+      "file": "math-hyperbolic-sine-root-and-tangent.md",
+      "summary": "Open when using Math hyperbolic sine root and tangent.",
+      "keywords": ["Math hyperbolic sine root and tangent"]},
+    {
+      "topic": "Math truncation and calculation examples",
+      "file": "math-truncation-and-calculation-examples.md",
+      "summary": "Open when using Math truncation and calculation examples.",
+      "keywords": ["Math truncation and calculation examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

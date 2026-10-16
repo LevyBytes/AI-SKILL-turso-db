@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Pragma database metadata and page sizes",
+      "file": "pragma-database-metadata-and-page-sizes.md",
+      "summary": "Open when using Pragma database metadata and page sizes.",
+      "keywords": ["Pragma database metadata and page sizes"]},
+    {
+      "topic": "Pragma schema versions and table inspection",
+      "file": "pragma-schema-versions-and-table-inspection.md",
+      "summary": "Open when using Pragma schema versions and table inspection.",
+      "keywords": ["Pragma schema versions and table inspection"]},
+    {
+      "topic": "Pragma index functions and journal mode",
+      "file": "pragma-index-functions-and-journal-mode.md",
+      "summary": "Open when using Pragma index functions and journal mode.",
+      "keywords": ["Pragma index functions and journal mode"]},
+    {
+      "topic": "Pragma cache synchronization and query settings",
+      "file": "pragma-cache-synchronization-and-query-settings.md",
+      "summary": "Open when using Pragma cache synchronization and query settings.",
+      "keywords": ["Pragma cache synchronization and query settings"]},
+    {
+      "topic": "Pragma integrity checks and wal checkpoints",
+      "file": "pragma-integrity-checks-and-wal-checkpoints.md",
+      "summary": "Open when using Pragma integrity checks and wal checkpoints.",
+      "keywords": ["Pragma integrity checks and wal checkpoints"]},
+    {
+      "topic": "Pragma change capture modes and records",
+      "file": "pragma-change-capture-modes-and-records.md",
+      "summary": "Open when using Pragma change capture modes and records.",
+      "keywords": ["Pragma change capture modes and records"]},
+    {
+      "topic": "Pragma encryption and custom types",
+      "file": "pragma-encryption-and-custom-types.md",
+      "summary": "Open when using Pragma encryption and custom types.",
+      "keywords": ["Pragma encryption and custom types"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

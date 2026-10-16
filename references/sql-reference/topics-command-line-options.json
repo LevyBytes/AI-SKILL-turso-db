@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "CLI arguments and output options",
+      "file": "cli-arguments-and-output-options.md",
+      "summary": "Open when using CLI arguments and output options.",
+      "keywords": ["CLI arguments and output options"]},
+    {
+      "topic": "CLI filesystems readonly and server modes",
+      "file": "cli-filesystems-readonly-and-server-modes.md",
+      "summary": "Open when using CLI filesystems readonly and server modes.",
+      "keywords": ["CLI filesystems readonly and server modes"]},
+    {
+      "topic": "CLI experimental and other flags",
+      "file": "cli-experimental-and-other-flags.md",
+      "summary": "Open when using CLI experimental and other flags.",
+      "keywords": ["CLI experimental and other flags"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

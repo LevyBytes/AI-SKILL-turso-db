@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Drop trigger syntax and examples",
+      "file": "drop-trigger-syntax-and-examples.md",
+      "summary": "Open when using Drop trigger syntax and examples.",
+      "keywords": ["Drop trigger syntax and examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

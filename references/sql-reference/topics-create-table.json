@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Table definition syntax and parameters",
+      "file": "table-definition-syntax-and-parameters.md",
+      "summary": "Open when using Table definition syntax and parameters.",
+      "keywords": ["Table definition syntax and parameters"]},
+    {
+      "topic": "Table primary key null and default constraints",
+      "file": "table-primary-key-null-and-default-constraints.md",
+      "summary": "Open when using Table primary key null and default constraints.",
+      "keywords": ["Table primary key null and default constraints"]},
+    {
+      "topic": "Table check reference and composite constraints",
+      "file": "table-check-reference-and-composite-constraints.md",
+      "summary": "Open when using Table check reference and composite constraints.",
+      "keywords": ["Table check reference and composite constraints"]},
+    {
+      "topic": "Table foreign key actions and strict mode",
+      "file": "table-foreign-key-actions-and-strict-mode.md",
+      "summary": "Open when using Table foreign key actions and strict mode.",
+      "keywords": ["Table foreign key actions and strict mode"]},
+    {
+      "topic": "Table type restrictions and constraint examples",
+      "file": "table-type-restrictions-and-constraint-examples.md",
+      "summary": "Open when using Table type restrictions and constraint examples.",
+      "keywords": ["Table type restrictions and constraint examples"]},
+    {
+      "topic": "Table strict composite and idempotent examples",
+      "file": "table-strict-composite-and-idempotent-examples.md",
+      "summary": "Open when using Table strict composite and idempotent examples.",
+      "keywords": ["Table strict composite and idempotent examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

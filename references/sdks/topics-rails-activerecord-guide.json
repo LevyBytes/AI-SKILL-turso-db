@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rails adapter installation and configuration",
+      "file": "rails-adapter-installation-and-configuration.md",
+      "summary": "Open when using Rails adapter installation and configuration.",
+      "keywords": ["Rails adapter installation and configuration"]},
+    {
+      "topic": "Rails migrations models and controllers",
+      "file": "rails-migrations-models-and-controllers.md",
+      "summary": "Open when using Rails migrations models and controllers.",
+      "keywords": ["Rails migrations models and controllers"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Audit logs and filesystem inspection",
+      "file": "topics-audit-logs-and-filesystem-inspection.json",
+      "summary": "Open when auditing AgentFS activity with timeline, SQL queries, filesystem listings or state comparisons.",
+      "keywords": ["Audit logs and filesystem inspection"]},
+    {
+      "topic": "MCP filesystem and key-value tools",
+      "file": "topics-mcp-filesystem-and-key-value-tools.json",
+      "summary": "Open when serving AgentFS through MCP and selecting filesystem or key-value tools.",
+      "keywords": ["MCP filesystem and key-value tools"]},
+    {
+      "topic": "NFS serving and mounting",
+      "file": "topics-nfs-serving-and-mounting.json",
+      "summary": "Open when serving or mounting an AgentFS filesystem through NFS.",
+      "keywords": ["NFS serving and mounting"]},
+    {
+      "topic": "Copy-on-write overlays and isolation",
+      "file": "topics-copy-on-write-overlays-and-isolation.json",
+      "summary": "Open when creating isolated AgentFS overlays and inspecting or applying filesystem differences.",
+      "keywords": ["Copy-on-write overlays and isolation"]},
+    {
+      "topic": "Agentic coding workflows",
+      "file": "topics-agentic-coding-workflows.json",
+      "summary": "Open when running coding agents with AgentFS filesystem isolation.",
+      "keywords": ["Agentic coding workflows"]},
+    {
+      "topic": "Shared sessions and persistence",
+      "file": "topics-shared-sessions-and-persistence.json",
+      "summary": "Open when creating, joining or persisting shared AgentFS sessions.",
+      "keywords": ["Shared sessions and persistence"]},
+    {
+      "topic": "Turso Cloud synchronization",
+      "file": "topics-turso-cloud-synchronization.json",
+      "summary": "Open when configuring AgentFS cloud synchronization and checking its documented availability.",
+      "keywords": ["Turso Cloud synchronization"]},
+    {
+      "topic": "Installation, platforms, and shell setup",
+      "file": "topics-installation-platforms-and-shell-setup.json",
+      "summary": "Open when installing AgentFS for a supported platform or configuring shell completions.",
+      "keywords": ["Installation, platforms, and shell setup"]},
+    {
+      "topic": "AgentFS features and quick start",
+      "file": "topics-agentfs-features-and-quick-start.json",
+      "summary": "Open when initializing AgentFS and choosing filesystem, audit or sandbox capabilities.",
+      "keywords": ["AgentFS features and quick start"]},
+    {
+      "topic": "AgentFS CLI commands and environment",
+      "file": "topics-agentfs-cli-commands-and-environment.json",
+      "summary": "Open when selecting AgentFS commands, flags, arguments and environment variables.",
+      "keywords": ["AgentFS CLI commands and environment"]},
+    {
+      "topic": "Python SDK",
+      "file": "topics-python-sdk.json",
+      "summary": "Open when initializing the AgentFS Python SDK or using its filesystem, key-value and tool-call APIs.",
+      "keywords": ["Python SDK"]},
+    {
+      "topic": "Rust SDK",
+      "file": "topics-rust-sdk.json",
+      "summary": "Open when initializing the AgentFS Rust SDK or using its filesystem, key-value and tool-call APIs.",
+      "keywords": ["Rust SDK"]},
+    {
+      "topic": "TypeScript SDK",
+      "file": "topics-typescript-sdk.json",
+      "summary": "Open when initializing the AgentFS TypeScript SDK or using its filesystem, key-value and tool-call APIs.",
+      "keywords": ["TypeScript SDK"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

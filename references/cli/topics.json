@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Authentication and contact commands",
+      "file": "authentication-and-contact-commands.md",
+      "summary": "Open when using Authentication and contact commands.",
+      "keywords": ["Authentication and contact commands"]},
+    {
+      "topic": "Database and group commands",
+      "file": "database-and-group-commands.md",
+      "summary": "Open when using Database and group commands.",
+      "keywords": ["Database and group commands"]},
+    {
+      "topic": "Installation organization and account commands",
+      "file": "installation-organization-and-account-commands.md",
+      "summary": "Open when using Installation organization and account commands.",
+      "keywords": ["Installation organization and account commands"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

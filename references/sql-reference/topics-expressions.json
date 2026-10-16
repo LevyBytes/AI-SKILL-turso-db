@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Expression literals and boolean values",
+      "file": "expression-literals-and-boolean-values.md",
+      "summary": "Open when using Expression literals and boolean values.",
+      "keywords": ["Expression literals and boolean values"]},
+    {
+      "topic": "Expression arithmetic comparison and array operators",
+      "file": "expression-arithmetic-comparison-and-array-operators.md",
+      "summary": "Open when using Expression arithmetic comparison and array operators.",
+      "keywords": ["Expression arithmetic comparison and array operators"]},
+    {
+      "topic": "Expression casts collations and like",
+      "file": "expression-casts-collations-and-like.md",
+      "summary": "Open when using Expression casts collations and like.",
+      "keywords": ["Expression casts collations and like"]},
+    {
+      "topic": "Expression glob regexp between and in",
+      "file": "expression-glob-regexp-between-and-in.md",
+      "summary": "Open when using Expression glob regexp between and in.",
+      "keywords": ["Expression glob regexp between and in"]},
+    {
+      "topic": "Expression exists null and case tests",
+      "file": "expression-exists-null-and-case-tests.md",
+      "summary": "Open when using Expression exists null and case tests.",
+      "keywords": ["Expression exists null and case tests"]},
+    {
+      "topic": "Expression searched case and scalar subqueries",
+      "file": "expression-searched-case-and-scalar-subqueries.md",
+      "summary": "Open when using Expression searched case and scalar subqueries.",
+      "keywords": ["Expression searched case and scalar subqueries"]},
+    {
+      "topic": "Expression raise and operator precedence",
+      "file": "expression-raise-and-operator-precedence.md",
+      "summary": "Open when using Expression raise and operator precedence.",
+      "keywords": ["Expression raise and operator precedence"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

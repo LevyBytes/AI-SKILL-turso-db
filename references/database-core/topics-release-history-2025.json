@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "2025 Q1 releases",
+      "file": "topics-release-history-2025-q1.json",
+      "summary": "Open when reading Turso release records dated in 2025 quarter 1.",
+      "keywords": ["2025", "release history"]},
+    {
+      "topic": "2025 Q2 releases",
+      "file": "topics-release-history-2025-q2.json",
+      "summary": "Open when reading Turso release records dated in 2025 quarter 2.",
+      "keywords": ["2025", "release history"]},
+    {
+      "topic": "2025 Q3 releases",
+      "file": "topics-release-history-2025-q3.json",
+      "summary": "Open when reading Turso release records dated in 2025 quarter 3.",
+      "keywords": ["2025", "release history"]},
+    {
+      "topic": "2025 Q4 releases",
+      "file": "topics-release-history-2025-q4.json",
+      "summary": "Open when reading Turso release records dated in 2025 quarter 4.",
+      "keywords": ["2025", "release history"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

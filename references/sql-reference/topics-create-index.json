@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Index syntax columns and uniqueness",
+      "file": "index-syntax-columns-and-uniqueness.md",
+      "summary": "Open when using Index syntax columns and uniqueness.",
+      "keywords": ["Index syntax columns and uniqueness"]},
+    {
+      "topic": "Index partial expression and fulltext methods",
+      "file": "index-partial-expression-and-fulltext-methods.md",
+      "summary": "Open when using Index partial expression and fulltext methods.",
+      "keywords": ["Index partial expression and fulltext methods"]},
+    {
+      "topic": "Index lookup business rule and filter examples",
+      "file": "index-lookup-business-rule-and-filter-examples.md",
+      "summary": "Open when using Index lookup business rule and filter examples.",
+      "keywords": ["Index lookup business rule and filter examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

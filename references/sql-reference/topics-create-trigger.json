@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Trigger syntax timing and row references",
+      "file": "trigger-syntax-timing-and-row-references.md",
+      "summary": "Open when using Trigger syntax timing and row references.",
+      "keywords": ["Trigger syntax timing and row references"]},
+    {
+      "topic": "Trigger conditions raise and multiple statements",
+      "file": "trigger-conditions-raise-and-multiple-statements.md",
+      "summary": "Open when using Trigger conditions raise and multiple statements.",
+      "keywords": ["Trigger conditions raise and multiple statements"]},
+    {
+      "topic": "Trigger audit validation and cascade examples",
+      "file": "trigger-audit-validation-and-cascade-examples.md",
+      "summary": "Open when using Trigger audit validation and cascade examples.",
+      "keywords": ["Trigger audit validation and cascade examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

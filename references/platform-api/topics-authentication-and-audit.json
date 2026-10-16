@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Audit log requests and pagination",
+      "file": "audit-log-requests-and-pagination.md",
+      "summary": "Open when using Audit log requests and pagination.",
+      "keywords": ["Audit log requests and pagination"]},
+    {
+      "topic": "Audit log response fields",
+      "file": "audit-log-response-fields.md",
+      "summary": "Open when using Audit log response fields.",
+      "keywords": ["Audit log response fields"]},
+    {
+      "topic": "Platform token scopes and lifecycle",
+      "file": "platform-token-scopes-and-lifecycle.md",
+      "summary": "Open when using Platform token scopes and lifecycle.",
+      "keywords": ["Platform token scopes and lifecycle"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

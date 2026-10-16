@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Tauri database dependencies and credentials",
+      "file": "tauri-database-dependencies-and-credentials.md",
+      "summary": "Open when using Tauri database dependencies and credentials.",
+      "keywords": ["Tauri database dependencies and credentials"]},
+    {
+      "topic": "Tauri database query command",
+      "file": "tauri-database-query-command.md",
+      "summary": "Open when using Tauri database query command.",
+      "keywords": ["Tauri database query command"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

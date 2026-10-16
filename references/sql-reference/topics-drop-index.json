@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Drop index syntax and examples",
+      "file": "drop-index-syntax-and-examples.md",
+      "summary": "Open when using Drop index syntax and examples.",
+      "keywords": ["Drop index syntax and examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

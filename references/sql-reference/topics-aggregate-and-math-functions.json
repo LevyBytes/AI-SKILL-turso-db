@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Aggregate Functions",
+      "file": "topics-aggregate-functions.json",
+      "summary": "Open when using Aggregate Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Aggregate Functions"]},
+    {
+      "topic": "Math Functions",
+      "file": "topics-math-functions.json",
+      "summary": "Open when using Math Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Math Functions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

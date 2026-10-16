@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Coding agent sessions and review",
+      "file": "coding-agent-sessions-and-review.md",
+      "summary": "Open when using Coding agent sessions and review.",
+      "keywords": ["Coding agent sessions and review"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Drop domain and dependency restrictions",
+      "file": "drop-domain-and-dependency-restrictions.md",
+      "summary": "Open when using Drop domain and dependency restrictions.",
+      "keywords": ["Drop domain and dependency restrictions"]},
+    {
+      "topic": "Drop domain after table removal",
+      "file": "drop-domain-after-table-removal.md",
+      "summary": "Open when using Drop domain after table removal.",
+      "keywords": ["Drop domain after table removal"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

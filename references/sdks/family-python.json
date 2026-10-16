@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Python connection",
+      "file": "topics-python-connection.json",
+      "summary": "Open when using Python connection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python connection"]},
+    {
+      "topic": "Python example projects",
+      "file": "topics-python-example-repository-capture.json",
+      "summary": "Open when using Python example projects and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python example projects"]},
+    {
+      "topic": "Python Flask",
+      "file": "topics-python-flask.json",
+      "summary": "Open when using Python Flask and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python Flask"]},
+    {
+      "topic": "Python SQLAlchemy",
+      "file": "topics-python-sqlalchemy.json",
+      "summary": "Open when using Python SQLAlchemy and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python SQLAlchemy"]},
+    {
+      "topic": "Python pyturso quickstart",
+      "file": "topics-python-pyturso-quickstart.json",
+      "summary": "Open when using Python pyturso quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python pyturso quickstart"]},
+    {
+      "topic": "Python remote quickstart",
+      "file": "topics-python-remote-quickstart.json",
+      "summary": "Open when using Python remote quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python remote quickstart"]},
+    {
+      "topic": "Python embedded replica selection",
+      "file": "topics-python-embedded-replica-pointer.json",
+      "summary": "Open when using Python embedded replica selection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python embedded replica selection"]},
+    {
+      "topic": "Python pyturso API",
+      "file": "topics-python-pyturso-api.json",
+      "summary": "Open when using Python pyturso API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python pyturso API"]},
+    {
+      "topic": "Python libsql API",
+      "file": "topics-python-libsql-api.json",
+      "summary": "Open when using Python libsql API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Python libsql API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

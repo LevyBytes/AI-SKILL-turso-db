@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Java local build and dependency",
+      "file": "java-local-build-and-dependency.md",
+      "summary": "Open when using Java local build and dependency.",
+      "keywords": ["Java local build and dependency"]},
+    {
+      "topic": "JavaScript local database setup",
+      "file": "javascript-local-database-setup.md",
+      "summary": "Open when using JavaScript local database setup.",
+      "keywords": ["JavaScript local database setup"]},
+    {
+      "topic": "JavaScript local query results",
+      "file": "javascript-local-query-results.md",
+      "summary": "Open when using JavaScript local query results.",
+      "keywords": ["JavaScript local query results"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

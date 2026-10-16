@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Find nearest region",
+      "file": "find-nearest-region.md",
+      "summary": "Open when using Find nearest region.",
+      "keywords": ["Find nearest region"]},
+    {
+      "topic": "List available locations",
+      "file": "list-available-locations.md",
+      "summary": "Open when using List available locations.",
+      "keywords": ["List available locations"]},
+    {
+      "topic": "Location response fields",
+      "file": "location-response-fields.md",
+      "summary": "Open when using Location response fields.",
+      "keywords": ["Location response fields"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

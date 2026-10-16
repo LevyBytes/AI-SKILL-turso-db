@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "AWS privatelink prerequisites and operations",
+      "file": "aws-privatelink-prerequisites-and-operations.md",
+      "summary": "Open when using AWS privatelink prerequisites and operations.",
+      "keywords": ["AWS privatelink prerequisites and operations"]},
+    {
+      "topic": "AWS privatelink us east 1",
+      "file": "aws-privatelink-us-east-1.md",
+      "summary": "Open when using AWS privatelink us east 1.",
+      "keywords": ["AWS privatelink us east 1"]},
+    {
+      "topic": "AWS privatelink us east 2",
+      "file": "aws-privatelink-us-east-2.md",
+      "summary": "Open when using AWS privatelink us east 2.",
+      "keywords": ["AWS privatelink us east 2"]},
+    {
+      "topic": "AWS privatelink us west 2",
+      "file": "aws-privatelink-us-west-2.md",
+      "summary": "Open when using AWS privatelink us west 2.",
+      "keywords": ["AWS privatelink us west 2"]},
+    {
+      "topic": "AWS privatelink eu west 1",
+      "file": "aws-privatelink-eu-west-1.md",
+      "summary": "Open when using AWS privatelink eu west 1.",
+      "keywords": ["AWS privatelink eu west 1"]},
+    {
+      "topic": "AWS privatelink ap south 1",
+      "file": "aws-privatelink-ap-south-1.md",
+      "summary": "Open when using AWS privatelink ap south 1.",
+      "keywords": ["AWS privatelink ap south 1"]},
+    {
+      "topic": "AWS privatelink ap northeast 1",
+      "file": "aws-privatelink-ap-northeast-1.md",
+      "summary": "Open when using AWS privatelink ap northeast 1.",
+      "keywords": ["AWS privatelink ap northeast 1"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

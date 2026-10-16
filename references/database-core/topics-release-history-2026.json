@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Release 0.6.0 -- 2026-05-14",
+      "file": "topics-release-0-6-0-2026-05-14.json",
+      "summary": "Open when reading Release 0.6.0 -- 2026-05-14 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.6.0 -- 2026-05-14"]},
+    {
+      "topic": "Release 0.5.0 -- 2026-03-04",
+      "file": "topics-release-0-5-0-2026-03-04.json",
+      "summary": "Open when reading Release 0.5.0 -- 2026-03-04 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.5.0 -- 2026-03-04"]},
+    {
+      "topic": "Release 0.4.0 -- 2026-01-05",
+      "file": "topics-release-0-4-0-2026-01-05.json",
+      "summary": "Open when reading Release 0.4.0 -- 2026-01-05 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.4.0 -- 2026-01-05"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

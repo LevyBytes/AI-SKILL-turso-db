@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "PHP upstream example routes",
+      "file": "php-upstream-example-routes.md",
+      "summary": "Open when using PHP upstream example routes.",
+      "keywords": ["PHP upstream example routes"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Window syntax frames and partitioning",
+      "file": "window-syntax-frames-and-partitioning.md",
+      "summary": "Open when using Window syntax frames and partitioning.",
+      "keywords": ["Window syntax frames and partitioning"]},
+    {
+      "topic": "Window ordering and named definitions",
+      "file": "window-ordering-and-named-definitions.md",
+      "summary": "Open when using Window ordering and named definitions.",
+      "keywords": ["Window ordering and named definitions"]},
+    {
+      "topic": "Window running aggregates and percentages",
+      "file": "window-running-aggregates-and-percentages.md",
+      "summary": "Open when using Window running aggregates and percentages.",
+      "keywords": ["Window running aggregates and percentages"]},
+    {
+      "topic": "Window function limitations",
+      "file": "window-function-limitations.md",
+      "summary": "Open when using Window function limitations.",
+      "keywords": ["Window function limitations"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

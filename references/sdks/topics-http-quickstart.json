@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "HTTP client packages and quickstart",
+      "file": "http-client-packages-and-quickstart.md",
+      "summary": "Open when using HTTP client packages and quickstart.",
+      "keywords": ["HTTP client packages and quickstart"]},
+    {
+      "topic": "HTTP database url and pipeline request",
+      "file": "http-database-url-and-pipeline-request.md",
+      "summary": "Open when using HTTP database url and pipeline request.",
+      "keywords": ["HTTP database url and pipeline request"]},
+    {
+      "topic": "HTTP pipeline response and typed arguments",
+      "file": "http-pipeline-response-and-typed-arguments.md",
+      "summary": "Open when using HTTP pipeline response and typed arguments.",
+      "keywords": ["HTTP pipeline response and typed arguments"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

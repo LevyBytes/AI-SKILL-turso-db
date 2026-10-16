@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Virtual table modules and csv files",
+      "file": "virtual-table-modules-and-csv-files.md",
+      "summary": "Open when using Virtual table modules and csv files.",
+      "keywords": ["Virtual table modules and csv files"]},
+    {
+      "topic": "Virtual table number and date series",
+      "file": "virtual-table-number-and-date-series.md",
+      "summary": "Open when using Virtual table number and date series.",
+      "keywords": ["Virtual table number and date series"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

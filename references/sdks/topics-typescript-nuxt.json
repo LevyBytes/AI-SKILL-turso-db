@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Nuxt runtime configuration and database client",
+      "file": "nuxt-runtime-configuration-and-database-client.md",
+      "summary": "Open when using Nuxt runtime configuration and database client.",
+      "keywords": ["Nuxt runtime configuration and database client"]},
+    {
+      "topic": "Nuxt server query endpoint",
+      "file": "nuxt-server-query-endpoint.md",
+      "summary": "Open when using Nuxt server query endpoint.",
+      "keywords": ["Nuxt server query endpoint"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

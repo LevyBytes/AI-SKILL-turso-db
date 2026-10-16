@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Shared session creation and resumption",
+      "file": "shared-session-creation-and-resumption.md",
+      "summary": "Open when using Shared session creation and resumption.",
+      "keywords": ["Shared session creation and resumption"]},
+    {
+      "topic": "Session supervision storage and management",
+      "file": "session-supervision-storage-and-management.md",
+      "summary": "Open when using Session supervision storage and management.",
+      "keywords": ["Session supervision storage and management"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

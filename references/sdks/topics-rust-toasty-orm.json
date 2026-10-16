@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Toasty models and Turso dependencies",
+      "file": "toasty-models-and-turso-dependencies.md",
+      "summary": "Open when using Toasty models and Turso dependencies.",
+      "keywords": ["Toasty models and Turso dependencies"]},
+    {
+      "topic": "Toasty connections schema and queries",
+      "file": "toasty-connections-schema-and-queries.md",
+      "summary": "Open when using Toasty connections schema and queries.",
+      "keywords": ["Toasty connections schema and queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

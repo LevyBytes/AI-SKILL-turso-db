@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go remote client connection and queries",
+      "file": "go-remote-client-connection-and-queries.md",
+      "summary": "Open when using Go remote client connection and queries.",
+      "keywords": ["Go remote client connection and queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

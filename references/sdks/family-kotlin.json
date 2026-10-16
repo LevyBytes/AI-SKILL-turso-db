@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Kotlin quickstart",
+      "file": "topics-kotlin-quickstart.json",
+      "summary": "Open when using Kotlin quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Kotlin quickstart"]},
+    {
+      "topic": "Kotlin API",
+      "file": "topics-kotlin-api.json",
+      "summary": "Open when using Kotlin API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Kotlin API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

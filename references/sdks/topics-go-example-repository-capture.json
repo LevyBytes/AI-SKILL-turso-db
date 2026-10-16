@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go upstream example routes",
+      "file": "go-upstream-example-routes.md",
+      "summary": "Open when using Go upstream example routes.",
+      "keywords": ["Go upstream example routes"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

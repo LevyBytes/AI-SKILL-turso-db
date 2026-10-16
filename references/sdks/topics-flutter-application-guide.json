@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Flutter drift schema and code generation",
+      "file": "flutter-drift-schema-and-code-generation.md",
+      "summary": "Open when using Flutter drift schema and code generation.",
+      "keywords": ["Flutter drift schema and code generation"]},
+    {
+      "topic": "Flutter drift connection and row inserts",
+      "file": "flutter-drift-connection-and-row-inserts.md",
+      "summary": "Open when using Flutter drift connection and row inserts.",
+      "keywords": ["Flutter drift connection and row inserts"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

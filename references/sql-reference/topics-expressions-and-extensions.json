@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Expressions",
+      "file": "topics-expressions.json",
+      "summary": "Open when using Expressions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Expressions"]},
+    {
+      "topic": "Extensions",
+      "file": "topics-extensions.json",
+      "summary": "Open when using Extensions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Extensions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

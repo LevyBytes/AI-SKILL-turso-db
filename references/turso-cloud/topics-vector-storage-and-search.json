@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Vector types storage and functions",
+      "file": "vector-types-storage-and-functions.md",
+      "summary": "Open when using Vector types storage and functions.",
+      "keywords": ["Vector types storage and functions"]},
+    {
+      "topic": "Vector insertion and distance queries",
+      "file": "vector-insertion-and-distance-queries.md",
+      "summary": "Open when using Vector insertion and distance queries.",
+      "keywords": ["Vector insertion and distance queries"]},
+    {
+      "topic": "Vector index creation and settings",
+      "file": "vector-index-creation-and-settings.md",
+      "summary": "Open when using Vector index creation and settings.",
+      "keywords": ["Vector index creation and settings"]},
+    {
+      "topic": "Vector index query workflow",
+      "file": "vector-index-query-workflow.md",
+      "summary": "Open when using Vector index query workflow.",
+      "keywords": ["Vector index query workflow"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

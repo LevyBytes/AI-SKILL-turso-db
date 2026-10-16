@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Drizzle installation and schema",
+      "file": "drizzle-installation-and-schema.md",
+      "summary": "Open when using Drizzle installation and schema.",
+      "keywords": ["Drizzle installation and schema"]},
+    {
+      "topic": "Drizzle configuration migrations and queries",
+      "file": "drizzle-configuration-migrations-and-queries.md",
+      "summary": "Open when using Drizzle configuration migrations and queries.",
+      "keywords": ["Drizzle configuration migrations and queries"]},
+    {
+      "topic": "Drizzle vector type storage and index",
+      "file": "drizzle-vector-type-storage-and-index.md",
+      "summary": "Open when using Drizzle vector type storage and index.",
+      "keywords": ["Drizzle vector type storage and index"]},
+    {
+      "topic": "Drizzle vector distance and neighbor queries",
+      "file": "drizzle-vector-distance-and-neighbor-queries.md",
+      "summary": "Open when using Drizzle vector distance and neighbor queries.",
+      "keywords": ["Drizzle vector distance and neighbor queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

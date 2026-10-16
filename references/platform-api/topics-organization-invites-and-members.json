@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Create organization invite",
+      "file": "create-organization-invite.md",
+      "summary": "Open when using Create organization invite.",
+      "keywords": ["Create organization invite"]},
+    {
+      "topic": "Organization invite created fields",
+      "file": "organization-invite-created-fields.md",
+      "summary": "Open when using Organization invite created fields.",
+      "keywords": ["Organization invite created fields"]},
+    {
+      "topic": "Revoke organization invite",
+      "file": "revoke-organization-invite.md",
+      "summary": "Open when using Revoke organization invite.",
+      "keywords": ["Revoke organization invite"]},
+    {
+      "topic": "List organization invites",
+      "file": "list-organization-invites.md",
+      "summary": "Open when using List organization invites.",
+      "keywords": ["List organization invites"]},
+    {
+      "topic": "Organization invite list fields",
+      "file": "organization-invite-list-fields.md",
+      "summary": "Open when using Organization invite list fields.",
+      "keywords": ["Organization invite list fields"]},
+    {
+      "topic": "Add organization member",
+      "file": "add-organization-member.md",
+      "summary": "Open when using Add organization member.",
+      "keywords": ["Add organization member"]},
+    {
+      "topic": "List organization members",
+      "file": "list-organization-members.md",
+      "summary": "Open when using List organization members.",
+      "keywords": ["List organization members"]},
+    {
+      "topic": "Organization member response fields",
+      "file": "organization-member-response-fields.md",
+      "summary": "Open when using Organization member response fields.",
+      "keywords": ["Organization member response fields"]},
+    {
+      "topic": "Remove organization member",
+      "file": "remove-organization-member.md",
+      "summary": "Open when using Remove organization member.",
+      "keywords": ["Remove organization member"]},
+    {
+      "topic": "Retrieve organization member",
+      "file": "retrieve-organization-member.md",
+      "summary": "Open when using Retrieve organization member.",
+      "keywords": ["Retrieve organization member"]},
+    {
+      "topic": "Update organization member role",
+      "file": "update-organization-member-role.md",
+      "summary": "Open when using Update organization member role.",
+      "keywords": ["Update organization member role"]},
+    {
+      "topic": "Organization member role response fields",
+      "file": "organization-member-role-response-fields.md",
+      "summary": "Open when using Organization member role response fields.",
+      "keywords": ["Organization member role response fields"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

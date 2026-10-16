@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Overlay layers creation and diffs",
+      "file": "overlay-layers-creation-and-diffs.md",
+      "summary": "Open when using Overlay layers creation and diffs.",
+      "keywords": ["Overlay layers creation and diffs"]},
+    {
+      "topic": "Overlay experiments storage and whiteouts",
+      "file": "overlay-experiments-storage-and-whiteouts.md",
+      "summary": "Open when using Overlay experiments storage and whiteouts.",
+      "keywords": ["Overlay experiments storage and whiteouts"]},
+    {
+      "topic": "Overlay database schema and guides",
+      "file": "overlay-database-schema-and-guides.md",
+      "summary": "Open when using Overlay database schema and guides.",
+      "keywords": ["Overlay database schema and guides"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

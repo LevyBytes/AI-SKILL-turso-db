@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript provisioning and reseller workflows",
+      "file": "typescript-provisioning-and-reseller-workflows.md",
+      "summary": "Open when using TypeScript provisioning and reseller workflows.",
+      "keywords": ["TypeScript provisioning and reseller workflows"]},
+    {
+      "topic": "Platform API resource navigation",
+      "file": "platform-api-resource-navigation.md",
+      "summary": "Open when using Platform API resource navigation.",
+      "keywords": ["Platform API resource navigation"]},
+    {
+      "topic": "API quickstart authentication and locations",
+      "file": "api-quickstart-authentication-and-locations.md",
+      "summary": "Open when using API quickstart authentication and locations.",
+      "keywords": ["API quickstart authentication and locations"]},
+    {
+      "topic": "API quickstart group and database creation",
+      "file": "api-quickstart-group-and-database-creation.md",
+      "summary": "Open when using API quickstart group and database creation.",
+      "keywords": ["API quickstart group and database creation"]},
+    {
+      "topic": "Platform HTTP response codes",
+      "file": "platform-http-response-codes.md",
+      "summary": "Open when using Platform HTTP response codes.",
+      "keywords": ["Platform HTTP response codes"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "PHP example projects",
+      "file": "topics-php-example-repository-capture.json",
+      "summary": "Open when using PHP example projects and matching its documented setup, APIs and limitations.",
+      "keywords": ["PHP example projects"]},
+    {
+      "topic": "PHP Laravel Eloquent",
+      "file": "topics-php-laravel-eloquent.json",
+      "summary": "Open when using PHP Laravel Eloquent and matching its documented setup, APIs and limitations.",
+      "keywords": ["PHP Laravel Eloquent"]},
+    {
+      "topic": "PHP Doctrine DBAL",
+      "file": "topics-php-doctrine-dbal.json",
+      "summary": "Open when using PHP Doctrine DBAL and matching its documented setup, APIs and limitations.",
+      "keywords": ["PHP Doctrine DBAL"]},
+    {
+      "topic": "PHP quickstart",
+      "file": "topics-php-quickstart.json",
+      "summary": "Open when using PHP quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["PHP quickstart"]},
+    {
+      "topic": "PHP API",
+      "file": "topics-php-api.json",
+      "summary": "Open when using PHP API and matching its documented setup, APIs and limitations.",
+      "keywords": ["PHP API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

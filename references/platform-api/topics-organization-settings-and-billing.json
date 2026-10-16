@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "List organization invoices",
+      "file": "list-organization-invoices.md",
+      "summary": "Open when using List organization invoices.",
+      "keywords": ["List organization invoices"]},
+    {
+      "topic": "Organization invoice response fields",
+      "file": "organization-invoice-response-fields.md",
+      "summary": "Open when using Organization invoice response fields.",
+      "keywords": ["Organization invoice response fields"]},
+    {
+      "topic": "List organizations example",
+      "file": "list-organizations-example.md",
+      "summary": "Open when using List organizations example.",
+      "keywords": ["List organizations example"]},
+    {
+      "topic": "Organization list response fields",
+      "file": "organization-list-response-fields.md",
+      "summary": "Open when using Organization list response fields.",
+      "keywords": ["Organization list response fields"]},
+    {
+      "topic": "List organization plans",
+      "file": "list-organization-plans.md",
+      "summary": "Open when using List organization plans.",
+      "keywords": ["List organization plans"]},
+    {
+      "topic": "Plan price and quota fields",
+      "file": "plan-price-and-quota-fields.md",
+      "summary": "Open when using Plan price and quota fields.",
+      "keywords": ["Plan price and quota fields"]},
+    {
+      "topic": "Retrieve organization settings",
+      "file": "retrieve-organization-settings.md",
+      "summary": "Open when using Retrieve organization settings.",
+      "keywords": ["Retrieve organization settings"]},
+    {
+      "topic": "Organization response fields",
+      "file": "organization-response-fields.md",
+      "summary": "Open when using Organization response fields.",
+      "keywords": ["Organization response fields"]},
+    {
+      "topic": "Retrieve organization subscription",
+      "file": "retrieve-organization-subscription.md",
+      "summary": "Open when using Retrieve organization subscription.",
+      "keywords": ["Retrieve organization subscription"]},
+    {
+      "topic": "Organization subscription response fields",
+      "file": "organization-subscription-response-fields.md",
+      "summary": "Open when using Organization subscription response fields.",
+      "keywords": ["Organization subscription response fields"]},
+    {
+      "topic": "Update organization settings",
+      "file": "update-organization-settings.md",
+      "summary": "Open when using Update organization settings.",
+      "keywords": ["Update organization settings"]},
+    {
+      "topic": "Retrieve organization usage",
+      "file": "retrieve-organization-usage.md",
+      "summary": "Open when using Retrieve organization usage.",
+      "keywords": ["Retrieve organization usage"]},
+    {
+      "topic": "Organization usage response fields",
+      "file": "organization-usage-response-fields.md",
+      "summary": "Open when using Organization usage response fields.",
+      "keywords": ["Organization usage response fields"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

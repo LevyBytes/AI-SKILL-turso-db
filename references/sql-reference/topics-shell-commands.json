@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Shell database navigation commands",
+      "file": "shell-database-navigation-commands.md",
+      "summary": "Open when using Shell database navigation commands.",
+      "keywords": ["Shell database navigation commands"]},
+    {
+      "topic": "Shell schema inspection commands",
+      "file": "shell-schema-inspection-commands.md",
+      "summary": "Open when using Shell schema inspection commands.",
+      "keywords": ["Shell schema inspection commands"]},
+    {
+      "topic": "Shell output modes and null display",
+      "file": "shell-output-modes-and-null-display.md",
+      "summary": "Open when using Shell output modes and null display.",
+      "keywords": ["Shell output modes and null display"]},
+    {
+      "topic": "Shell output files echo and timing",
+      "file": "shell-output-files-echo-and-timing.md",
+      "summary": "Open when using Shell output files echo and timing.",
+      "keywords": ["Shell output files echo and timing"]},
+    {
+      "topic": "Shell statistics opcodes and dumps",
+      "file": "shell-statistics-opcodes-and-dumps.md",
+      "summary": "Open when using Shell statistics opcodes and dumps.",
+      "keywords": ["Shell statistics opcodes and dumps"]},
+    {
+      "topic": "Shell import clone and script loading",
+      "file": "shell-import-clone-and-script-loading.md",
+      "summary": "Open when using Shell import clone and script loading.",
+      "keywords": ["Shell import clone and script loading"]},
+    {
+      "topic": "Shell extensions debugging and manual",
+      "file": "shell-extensions-debugging-and-manual.md",
+      "summary": "Open when using Shell extensions debugging and manual.",
+      "keywords": ["Shell extensions debugging and manual"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

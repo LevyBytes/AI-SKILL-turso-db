@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Attach permissions and CLI workflow",
+      "file": "attach-permissions-and-cli-workflow.md",
+      "summary": "Open when using Attach permissions and CLI workflow.",
+      "keywords": ["Attach permissions and CLI workflow"]},
+    {
+      "topic": "Attach SDK transactions and restrictions",
+      "file": "attach-sdk-transactions-and-restrictions.md",
+      "summary": "Open when using Attach SDK transactions and restrictions.",
+      "keywords": ["Attach SDK transactions and restrictions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

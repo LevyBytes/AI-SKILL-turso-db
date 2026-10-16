@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Experimental feature activation CLI rust python",
+      "file": "experimental-feature-activation-cli-rust-python.md",
+      "summary": "Open when using Experimental feature activation CLI rust python.",
+      "keywords": ["Experimental feature activation CLI rust python"]},
+    {
+      "topic": "Experimental feature activation other bindings",
+      "file": "experimental-feature-activation-other-bindings.md",
+      "summary": "Open when using Experimental feature activation other bindings.",
+      "keywords": ["Experimental feature activation other bindings"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

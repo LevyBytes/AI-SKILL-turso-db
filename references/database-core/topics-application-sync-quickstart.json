@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Application sync connection and bootstrap",
+      "file": "application-sync-connection-and-bootstrap.md",
+      "summary": "Open when using Application sync connection and bootstrap.",
+      "keywords": ["Application sync connection and bootstrap"]},
+    {
+      "topic": "Application sync push pull and checkpoint",
+      "file": "application-sync-push-pull-and-checkpoint.md",
+      "summary": "Open when using Application sync push pull and checkpoint.",
+      "keywords": ["Application sync push pull and checkpoint"]},
+    {
+      "topic": "Application sync offline writes",
+      "file": "application-sync-offline-writes.md",
+      "summary": "Open when using Application sync offline writes.",
+      "keywords": ["Application sync offline writes"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

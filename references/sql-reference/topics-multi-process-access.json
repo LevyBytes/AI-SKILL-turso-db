@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Multiprocess wal setup CLI and rust",
+      "file": "multiprocess-wal-setup-cli-and-rust.md",
+      "summary": "Open when using Multiprocess wal setup CLI and rust.",
+      "keywords": ["Multiprocess wal setup CLI and rust"]},
+    {
+      "topic": "Multiprocess bindings concurrency and limits",
+      "file": "multiprocess-bindings-concurrency-and-limits.md",
+      "summary": "Open when using Multiprocess bindings concurrency and limits.",
+      "keywords": ["Multiprocess bindings concurrency and limits"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

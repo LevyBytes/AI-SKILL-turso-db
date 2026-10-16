@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Qwik database client and route loader",
+      "file": "qwik-database-client-and-route-loader.md",
+      "summary": "Open when using Qwik database client and route loader.",
+      "keywords": ["Qwik database client and route loader"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Transactions",
+      "file": "topics-transactions.json",
+      "summary": "Open when using Transactions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Transactions"]},
+    {
+      "topic": "ANALYZE",
+      "file": "topics-analyze.json",
+      "summary": "Open when using ANALYZE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["ANALYZE"]},
+    {
+      "topic": "EXPLAIN",
+      "file": "topics-explain.json",
+      "summary": "Open when using EXPLAIN and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["EXPLAIN"]},
+    {
+      "topic": "ATTACH DATABASE",
+      "file": "topics-attach-database.json",
+      "summary": "Open when using ATTACH DATABASE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["ATTACH DATABASE"]},
+    {
+      "topic": "DETACH DATABASE",
+      "file": "topics-detach-database.json",
+      "summary": "Open when using DETACH DATABASE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["DETACH DATABASE"]},
+    {
+      "topic": "VACUUM",
+      "file": "topics-vacuum.json",
+      "summary": "Open when using VACUUM and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["VACUUM"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

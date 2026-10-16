@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Data Types",
+      "file": "topics-data-types.json",
+      "summary": "Open when using Data Types and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Data Types"]},
+    {
+      "topic": "Experimental Features",
+      "file": "topics-experimental-features.json",
+      "summary": "Open when using Experimental Features and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Experimental Features"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

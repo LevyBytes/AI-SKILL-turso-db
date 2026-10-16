@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Local development dumps and connections",
+      "file": "local-development-dumps-and-connections.md",
+      "summary": "Open when using Local development dumps and connections.",
+      "keywords": ["Local development dumps and connections"]},
+    {
+      "topic": "Local database gui options",
+      "file": "local-database-gui-options.md",
+      "summary": "Open when using Local database gui options.",
+      "keywords": ["Local database gui options"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

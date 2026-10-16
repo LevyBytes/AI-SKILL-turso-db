@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Axum dependencies and database query",
+      "file": "axum-dependencies-and-database-query.md",
+      "summary": "Open when using Axum dependencies and database query.",
+      "keywords": ["Axum dependencies and database query"]},
+    {
+      "topic": "Axum shared database state and handler",
+      "file": "axum-shared-database-state-and-handler.md",
+      "summary": "Open when using Axum shared database state and handler.",
+      "keywords": ["Axum shared database state and handler"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

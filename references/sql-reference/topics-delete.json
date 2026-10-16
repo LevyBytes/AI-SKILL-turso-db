@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Delete syntax filtering and ordering",
+      "file": "delete-syntax-filtering-and-ordering.md",
+      "summary": "Open when using Delete syntax filtering and ordering.",
+      "keywords": ["Delete syntax filtering and ordering"]},
+    {
+      "topic": "Delete returning and row limits",
+      "file": "delete-returning-and-row-limits.md",
+      "summary": "Open when using Delete returning and row limits.",
+      "keywords": ["Delete returning and row limits"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

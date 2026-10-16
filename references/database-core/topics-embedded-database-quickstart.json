@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Embedded database installation and shell",
+      "file": "embedded-database-installation-and-shell.md",
+      "summary": "Open when using Embedded database installation and shell.",
+      "keywords": ["Embedded database installation and shell"]},
+    {
+      "topic": "Embedded database SQL and experimental features",
+      "file": "embedded-database-sql-and-experimental-features.md",
+      "summary": "Open when using Embedded database SQL and experimental features.",
+      "keywords": ["Embedded database SQL and experimental features"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

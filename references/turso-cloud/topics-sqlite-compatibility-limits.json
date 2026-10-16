@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "SQLite pragma compatibility limits",
+      "file": "sqlite-pragma-compatibility-limits.md",
+      "summary": "Open when using SQLite pragma compatibility limits.",
+      "keywords": ["SQLite pragma compatibility limits"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

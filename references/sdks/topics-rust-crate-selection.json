@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rust crate selection and feature requirements",
+      "file": "rust-crate-selection-and-feature-requirements.md",
+      "summary": "Open when using Rust crate selection and feature requirements.",
+      "keywords": ["Rust crate selection and feature requirements"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,42 @@
+# Turso 0.0.20: updated
+
+Open when checking these changes in Turso 0.0.20, released 2025-05-14. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.0.20-index.md)
+
+## Updated
+
+- github: make sure rustmft is installed (Pekka Enberg)
+- btree: coalesce free blocks inside `page_free_array()` (Mohamed Hossam)
+- Count optimization (Pedro Muniz)
+- bindings/java: drop disabled annotation for UPDATE and DELETE (Kim Seon Woo)
+- Refactor numeric literal (meteorgan)
+- Show a comment for the Insert opcode in EXPLAIN (Anton Harniakou)
+- bindings/javascript: improve better-sqlite compatibility (Diego Reis)
+- bindings/go: upgrade ebitengine/purego so go 1.23.9 can be used (Preston Thorpe)
+- Adjust vtab schema creation to show the underlying columns (Preston Thorpe)
+- Read only mode (Pedro Muniz)
+- Test that DROP TABLE also removes related indices (Anton Harniakou)
+- Reset statement before rust binding execution (Pedro Muniz)
+- Bump assorted dependencies (Preston Thorpe)
+- Remove an unnecessary read transaction during PRAGMA user_version (Anton Harniakou)
+- Update index when indexed columns are updated (Pere Diaz Bou)
+- Persist history on exit (Piotr Rżysko)
+- btree/tablebtree_move_to: add micro-optimizations (Jussi Saurio)
+- Refactor database open_file plus open (meteorgan)
+- Name hard-coded page_size values (Anton Harniakou)
+- Performance: move constant expressions fully out of hot loops (Jussi Saurio)
+- Feature: Composite Primary key constraint (Pedro Muniz)
+- types: refactor serialtype again for speed (Jussi Saurio)
+- Use array instead of vec in btree balancing (Lâm Hoàng Phúc)
+- Pragma page size reading (Anton Harniakou)
+- perf/btree: apply binary search to Index seek operations (Jussi Saurio)
+- expr.is_nonnull(): return true when col.primary_key || col.notnull (Jussi Saurio)
+- Numeric Types Overhaul (Levy A.)
+- Add Python script for comparing vfs performance (Preston Thorpe)
+- Create automatic ephemeral index when a nested table scan would be chosen otherwise (Jussi Saurio)
+- Update julian_day_converter to 0.4.5 (meteorgan)
+- btree: avoid reading the full cell when only rowid is needed (Jussi Saurio)
+- btree: apply binary search to seek/move_to for table btrees (Jussi Saurio)
+- Feat: Covering indexes (Jussi Saurio)
+- allow index entry delete (Pere Diaz Bou)

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Audit timeline filters and JSON",
+      "file": "audit-timeline-filters-and-json.md",
+      "summary": "Open when using Audit timeline filters and JSON.",
+      "keywords": ["Audit timeline filters and JSON"]},
+    {
+      "topic": "Audit files diffs and related guides",
+      "file": "audit-files-diffs-and-related-guides.md",
+      "summary": "Open when using Audit files diffs and related guides.",
+      "keywords": ["Audit files diffs and related guides"]},
+    {
+      "topic": "Audit SQL debugging and performance",
+      "file": "audit-sql-debugging-and-performance.md",
+      "summary": "Open when using Audit SQL debugging and performance.",
+      "keywords": ["Audit SQL debugging and performance"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

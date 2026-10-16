@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "HTTP authentication and pipeline lifecycle",
+      "file": "http-authentication-and-pipeline-lifecycle.md",
+      "summary": "Open when using HTTP authentication and pipeline lifecycle.",
+      "keywords": ["HTTP authentication and pipeline lifecycle"]},
+    {
+      "topic": "HTTP positional and named parameters",
+      "file": "http-positional-and-named-parameters.md",
+      "summary": "Open when using HTTP positional and named parameters.",
+      "keywords": ["HTTP positional and named parameters"]},
+    {
+      "topic": "HTTP transactions results and service endpoints",
+      "file": "http-transactions-results-and-service-endpoints.md",
+      "summary": "Open when using HTTP transactions results and service endpoints.",
+      "keywords": ["HTTP transactions results and service endpoints"]},
+    {
+      "topic": "HTTP migration status and change listeners",
+      "file": "http-migration-status-and-change-listeners.md",
+      "summary": "Open when using HTTP migration status and change listeners.",
+      "keywords": ["HTTP migration status and change listeners"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

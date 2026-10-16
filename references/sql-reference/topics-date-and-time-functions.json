@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Date and time construction",
+      "file": "date-and-time-construction.md",
+      "summary": "Open when using Date and time construction.",
+      "keywords": ["Date and time construction"]},
+    {
+      "topic": "Datetime and julian day functions",
+      "file": "datetime-and-julian-day-functions.md",
+      "summary": "Open when using Datetime and julian day functions.",
+      "keywords": ["Datetime and julian day functions"]},
+    {
+      "topic": "Unix timestamp conversion",
+      "file": "unix-timestamp-conversion.md",
+      "summary": "Open when using Unix timestamp conversion.",
+      "keywords": ["Unix timestamp conversion"]},
+    {
+      "topic": "Strftime formatting and format codes",
+      "file": "strftime-formatting-and-format-codes.md",
+      "summary": "Open when using Strftime formatting and format codes.",
+      "keywords": ["Strftime formatting and format codes"]},
+    {
+      "topic": "Time differences inputs and modifiers",
+      "file": "time-differences-inputs-and-modifiers.md",
+      "summary": "Open when using Time differences inputs and modifiers.",
+      "keywords": ["Time differences inputs and modifiers"]},
+    {
+      "topic": "Time offset start and weekday modifiers",
+      "file": "time-offset-start-and-weekday-modifiers.md",
+      "summary": "Open when using Time offset start and weekday modifiers.",
+      "keywords": ["Time offset start and weekday modifiers"]},
+    {
+      "topic": "Timezone interpretation rounding and subseconds",
+      "file": "timezone-interpretation-rounding-and-subseconds.md",
+      "summary": "Open when using Timezone interpretation rounding and subseconds.",
+      "keywords": ["Timezone interpretation rounding and subseconds"]},
+    {
+      "topic": "Date arithmetic age and grouping",
+      "file": "date-arithmetic-age-and-grouping.md",
+      "summary": "Open when using Date arithmetic age and grouping.",
+      "keywords": ["Date arithmetic age and grouping"]},
+    {
+      "topic": "Date range filtering and elapsed time",
+      "file": "date-range-filtering-and-elapsed-time.md",
+      "summary": "Open when using Date range filtering and elapsed time.",
+      "keywords": ["Date range filtering and elapsed time"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

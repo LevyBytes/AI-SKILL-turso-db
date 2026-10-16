@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "SQLite migration wal preparation",
+      "file": "sqlite-migration-wal-preparation.md",
+      "summary": "Open when using SQLite migration wal preparation.",
+      "keywords": ["SQLite migration wal preparation"]},
+    {
+      "topic": "SQLite import and platform authentication",
+      "file": "sqlite-import-and-platform-authentication.md",
+      "summary": "Open when using SQLite import and platform authentication.",
+      "keywords": ["SQLite import and platform authentication"]},
+    {
+      "topic": "SQLite upload and database tokens",
+      "file": "sqlite-upload-and-database-tokens.md",
+      "summary": "Open when using SQLite upload and database tokens.",
+      "keywords": ["SQLite upload and database tokens"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

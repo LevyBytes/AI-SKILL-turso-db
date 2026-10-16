@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript serverless connection and query API",
+      "file": "typescript-serverless-connection-and-query-api.md",
+      "summary": "Open when using TypeScript serverless connection and query API.",
+      "keywords": ["TypeScript serverless connection and query API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

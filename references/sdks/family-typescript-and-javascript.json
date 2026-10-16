@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Frameworks and tracing",
+      "file": "typescript-frameworks-and-tracing.json",
+      "summary": "Open when using Astro, Elysia, Hono, Next.js, Nuxt, Quasar, Qwik, Remix, SvelteKit, Sentry.",
+      "keywords": ["Frameworks and tracing"]},
+    {
+      "topic": "Drivers, ORMs and examples",
+      "file": "typescript-drivers-orms-and-examples.json",
+      "summary": "Open when using example projects, Drizzle, Prisma, database quickstart, serverless quickstart, libsql client quickstart, package selection, database API, sync API, serverless API, libsql client API.",
+      "keywords": ["Drivers, ORMs and examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

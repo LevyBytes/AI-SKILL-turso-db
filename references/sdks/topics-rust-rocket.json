@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rocket database query and route",
+      "file": "rocket-database-query-and-route.md",
+      "summary": "Open when using Rocket database query and route.",
+      "keywords": ["Rocket database query and route"]},
+    {
+      "topic": "Rocket todo query application",
+      "file": "rocket-todo-query-application.md",
+      "summary": "Open when using Rocket todo query application.",
+      "keywords": ["Rocket todo query application"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

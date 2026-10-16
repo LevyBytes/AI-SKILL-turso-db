@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Python embedded replica selection",
+      "file": "python-embedded-replica-selection.md",
+      "summary": "Open when using Python embedded replica selection.",
+      "keywords": ["Python embedded replica selection"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

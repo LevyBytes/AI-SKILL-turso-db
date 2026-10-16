@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Cloud database setup",
+      "file": "cloud-database-setup.md",
+      "summary": "Open when using Cloud database setup.",
+      "keywords": ["Cloud database setup"]},
+    {
+      "topic": "Cloud database shell and application connections",
+      "file": "cloud-database-shell-and-application-connections.md",
+      "summary": "Open when using Cloud database shell and application connections.",
+      "keywords": ["Cloud database shell and application connections"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

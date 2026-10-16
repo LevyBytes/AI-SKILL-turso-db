@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rails ActiveRecord guide",
+      "file": "topics-rails-activerecord-guide.json",
+      "summary": "Open when using Rails ActiveRecord guide and matching its documented setup, APIs and limitations.",
+      "keywords": ["Rails ActiveRecord guide"]},
+    {
+      "topic": "ActiveRecord quickstart",
+      "file": "topics-activerecord-quickstart.json",
+      "summary": "Open when using ActiveRecord quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["ActiveRecord quickstart"]},
+    {
+      "topic": "Ruby examples and quickstart",
+      "file": "topics-ruby-examples-and-quickstart.json",
+      "summary": "Open when using Ruby examples and quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Ruby examples and quickstart"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

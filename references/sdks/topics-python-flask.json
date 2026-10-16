@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Flask dependencies and database model",
+      "file": "flask-dependencies-and-database-model.md",
+      "summary": "Open when using Flask dependencies and database model.",
+      "keywords": ["Flask dependencies and database model"]},
+    {
+      "topic": "Flask database connection and route",
+      "file": "flask-database-connection-and-route.md",
+      "summary": "Open when using Flask database connection and route.",
+      "keywords": ["Flask database connection and route"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

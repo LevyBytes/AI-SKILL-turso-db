@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Explain bytecode and query plan columns",
+      "file": "explain-bytecode-and-query-plan-columns.md",
+      "summary": "Open when using Explain bytecode and query plan columns.",
+      "keywords": ["Explain bytecode and query plan columns"]},
+    {
+      "topic": "Explain plan comparisons joins and subqueries",
+      "file": "explain-plan-comparisons-joins-and-subqueries.md",
+      "summary": "Open when using Explain plan comparisons joins and subqueries.",
+      "keywords": ["Explain plan comparisons joins and subqueries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

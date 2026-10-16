@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript setup and agent options",
+      "file": "typescript-setup-and-agent-options.md",
+      "summary": "Open when using TypeScript setup and agent options.",
+      "keywords": ["TypeScript setup and agent options"]},
+    {
+      "topic": "TypeScript key value and file writing",
+      "file": "typescript-key-value-and-file-writing.md",
+      "summary": "Open when using TypeScript key value and file writing.",
+      "keywords": ["TypeScript key value and file writing"]},
+    {
+      "topic": "TypeScript file reading and metadata",
+      "file": "typescript-file-reading-and-metadata.md",
+      "summary": "Open when using TypeScript file reading and metadata.",
+      "keywords": ["TypeScript file reading and metadata"]},
+    {
+      "topic": "TypeScript tool records and browser usage",
+      "file": "typescript-tool-records-and-browser-usage.md",
+      "summary": "Open when using TypeScript tool records and browser usage.",
+      "keywords": ["TypeScript tool records and browser usage"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

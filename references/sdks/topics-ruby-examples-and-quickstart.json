@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Ruby installation credentials and example routes",
+      "file": "ruby-installation-credentials-and-example-routes.md",
+      "summary": "Open when using Ruby installation credentials and example routes.",
+      "keywords": ["Ruby installation credentials and example routes"]},
+    {
+      "topic": "Ruby connections queries and replica sync",
+      "file": "ruby-connections-queries-and-replica-sync.md",
+      "summary": "Open when using Ruby connections queries and replica sync.",
+      "keywords": ["Ruby connections queries and replica sync"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go remote libSQL quickstart",
+      "file": "go-remote-libsql-quickstart.md",
+      "summary": "Open when using Go remote libSQL quickstart.",
+      "keywords": ["Go remote libSQL quickstart"]},
+    {
+      "topic": "Go remote query program",
+      "file": "go-remote-query-program.md",
+      "summary": "Open when using Go remote query program.",
+      "keywords": ["Go remote query program"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

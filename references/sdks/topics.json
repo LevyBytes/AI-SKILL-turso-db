@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Authentication and authorization",
+      "file": "family-authentication-and-authorization.json",
+      "summary": "Open when using Database authentication, Token scopes and permissions, JWKS endpoints, Token expiration and invalidation.",
+      "keywords": ["Authentication and authorization"]},
+    {
+      "topic": "Ruby and ActiveRecord",
+      "file": "family-ruby-and-activerecord.json",
+      "summary": "Open when using Rails ActiveRecord guide, ActiveRecord quickstart, Ruby examples and quickstart.",
+      "keywords": ["Ruby and ActiveRecord"]},
+    {
+      "topic": "Dart and Flutter",
+      "file": "family-dart-and-flutter.json",
+      "summary": "Open when using Dart connection, Flutter example projects, Flutter application guide, Flutter quickstart, Flutter libsql_dart API.",
+      "keywords": ["Dart and Flutter"]},
+    {
+      "topic": "C",
+      "file": "family-c.json",
+      "summary": "Open when using C examples and quickstart, C libSQL API.",
+      "keywords": ["C"]},
+    {
+      "topic": "Go",
+      "file": "family-go.json",
+      "summary": "Open when using Go connection, Go example projects, Go tursogo quickstart, Go remote quickstart, Go embedded replica selection, Go tursogo API, Go libsql-client-go API, Go go-libsql API.",
+      "keywords": ["Go"]},
+    {
+      "topic": "Java",
+      "file": "family-java.json",
+      "summary": "Open when using Java connection.",
+      "keywords": ["Java"]},
+    {
+      "topic": "Kotlin",
+      "file": "family-kotlin.json",
+      "summary": "Open when using Kotlin quickstart, Kotlin API.",
+      "keywords": ["Kotlin"]},
+    {
+      "topic": "PHP",
+      "file": "family-php.json",
+      "summary": "Open when using PHP example projects, PHP Laravel Eloquent, PHP Doctrine DBAL, PHP quickstart, PHP API.",
+      "keywords": ["PHP"]},
+    {
+      "topic": "Python",
+      "file": "family-python.json",
+      "summary": "Open when using Python connection, Python example projects, Python Flask, Python SQLAlchemy, Python pyturso quickstart, Python remote quickstart, Python embedded replica selection, Python pyturso API, Python libsql API.",
+      "keywords": ["Python"]},
+    {
+      "topic": "Rust",
+      "file": "family-rust.json",
+      "summary": "Open when using Rust connection, Rust example projects, Rust Actix, Rust Axum, Rust Rocket, Rust Tauri, Rust Toasty ORM, Rust turso quickstart, Rust remote quickstart, Rust crate selection, Rust turso API, Rust libsql remote API, Rust libsql embedded API.",
+      "keywords": ["Rust"]},
+    {
+      "topic": "Swift",
+      "file": "family-swift.json",
+      "summary": "Open when using Swift quickstart, Swift API.",
+      "keywords": ["Swift"]},
+    {
+      "topic": "TypeScript and JavaScript",
+      "file": "family-typescript-and-javascript.json",
+      "summary": "Open when selecting database, sync, serverless or libsql clients; using Drizzle or Prisma; integrating Astro, Elysia, Hono, Next.js, Nuxt, Quasar, Qwik, Remix, SvelteKit or Sentry.",
+      "keywords": ["TypeScript and JavaScript"]},
+    {
+      "topic": "Vercel serverless and edge",
+      "file": "family-vercel-serverless-and-edge.json",
+      "summary": "Open when using Vercel SQL over HTTP, Vercel In-Function SQLite.",
+      "keywords": ["Vercel serverless and edge"]},
+    {
+      "topic": "SQL over HTTP",
+      "file": "family-sql-over-http.json",
+      "summary": "Open when using HTTP quickstart, HTTP API.",
+      "keywords": ["SQL over HTTP"]},
+    {
+      "topic": "SDK package selection",
+      "file": "family-sdk-package-selection.json",
+      "summary": "Open when using SDK package selection, SDK community package selection.",
+      "keywords": ["SDK package selection"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

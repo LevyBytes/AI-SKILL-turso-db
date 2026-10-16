@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Flutter libSQL installation and connections",
+      "file": "flutter-libsql-installation-and-connections.md",
+      "summary": "Open when using Flutter libSQL installation and connections.",
+      "keywords": ["Flutter libSQL installation and connections"]},
+    {
+      "topic": "Flutter libSQL queries and sync",
+      "file": "flutter-libsql-queries-and-sync.md",
+      "summary": "Open when using Flutter libSQL queries and sync.",
+      "keywords": ["Flutter libSQL queries and sync"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "PHP installation and replica connections",
+      "file": "php-installation-and-replica-connections.md",
+      "summary": "Open when using PHP installation and replica connections.",
+      "keywords": ["PHP installation and replica connections"]},
+    {
+      "topic": "PHP remote queries and sync",
+      "file": "php-remote-queries-and-sync.md",
+      "summary": "Open when using PHP remote queries and sync.",
+      "keywords": ["PHP remote queries and sync"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

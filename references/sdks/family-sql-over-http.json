@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "HTTP quickstart",
+      "file": "topics-http-quickstart.json",
+      "summary": "Open when using HTTP quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["HTTP quickstart"]},
+    {
+      "topic": "HTTP API",
+      "file": "topics-http-api.json",
+      "summary": "Open when using HTTP API and matching its documented setup, APIs and limitations.",
+      "keywords": ["HTTP API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

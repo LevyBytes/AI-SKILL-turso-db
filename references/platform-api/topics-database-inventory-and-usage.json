@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "List databases and filter results",
+      "file": "list-databases-and-filter-results.md",
+      "summary": "Open when using List databases and filter results.",
+      "keywords": ["List databases and filter results"]},
+    {
+      "topic": "Database response fields",
+      "file": "database-response-fields.md",
+      "summary": "Open when using Database response fields.",
+      "keywords": ["Database response fields"]},
+    {
+      "topic": "List database instances",
+      "file": "list-database-instances.md",
+      "summary": "Open when using List database instances.",
+      "keywords": ["List database instances"]},
+    {
+      "topic": "Database instance response fields",
+      "file": "database-instance-response-fields.md",
+      "summary": "Open when using Database instance response fields.",
+      "keywords": ["Database instance response fields"]},
+    {
+      "topic": "Retrieve database details",
+      "file": "retrieve-database-details.md",
+      "summary": "Open when using Retrieve database details.",
+      "keywords": ["Retrieve database details"]},
+    {
+      "topic": "Retrieve database instance",
+      "file": "retrieve-database-instance.md",
+      "summary": "Open when using Retrieve database instance.",
+      "keywords": ["Retrieve database instance"]},
+    {
+      "topic": "Retrieve database query statistics",
+      "file": "retrieve-database-query-statistics.md",
+      "summary": "Open when using Retrieve database query statistics.",
+      "keywords": ["Retrieve database query statistics"]},
+    {
+      "topic": "Database query usage fields",
+      "file": "database-query-usage-fields.md",
+      "summary": "Open when using Database query usage fields.",
+      "keywords": ["Database query usage fields"]},
+    {
+      "topic": "Retrieve database usage",
+      "file": "retrieve-database-usage.md",
+      "summary": "Open when using Retrieve database usage.",
+      "keywords": ["Retrieve database usage"]},
+    {
+      "topic": "Database usage response fields",
+      "file": "database-usage-response-fields.md",
+      "summary": "Open when using Database usage response fields.",
+      "keywords": ["Database usage response fields"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

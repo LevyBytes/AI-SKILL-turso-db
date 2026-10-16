@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript example projects",
+      "file": "topics-typescript-example-repository-capture.json",
+      "summary": "Open when using TypeScript example projects and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript example repository capture"]},
+    {
+      "topic": "TypeScript Drizzle",
+      "file": "topics-typescript-drizzle.json",
+      "summary": "Open when using TypeScript Drizzle and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Drizzle"]},
+    {
+      "topic": "TypeScript Prisma",
+      "file": "topics-typescript-prisma.json",
+      "summary": "Open when using TypeScript Prisma and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Prisma"]},
+    {
+      "topic": "TypeScript database quickstart",
+      "file": "topics-typescript-database-quickstart.json",
+      "summary": "Open when using TypeScript database quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript database quickstart"]},
+    {
+      "topic": "TypeScript serverless quickstart",
+      "file": "topics-typescript-serverless-quickstart.json",
+      "summary": "Open when using TypeScript serverless quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript serverless quickstart"]},
+    {
+      "topic": "TypeScript libsql client quickstart",
+      "file": "topics-typescript-libsql-client-quickstart.json",
+      "summary": "Open when using TypeScript libsql client quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript libsql client quickstart"]},
+    {
+      "topic": "TypeScript package selection",
+      "file": "topics-typescript-package-selection.json",
+      "summary": "Open when using TypeScript package selection and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript package selection"]},
+    {
+      "topic": "TypeScript database API",
+      "file": "topics-typescript-database-api.json",
+      "summary": "Open when using TypeScript database API and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript database API"]},
+    {
+      "topic": "TypeScript sync API",
+      "file": "topics-typescript-sync-api.json",
+      "summary": "Open when using TypeScript sync API and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript sync API"]},
+    {
+      "topic": "TypeScript serverless API",
+      "file": "topics-typescript-serverless-api.json",
+      "summary": "Open when using TypeScript serverless API and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript serverless API"]},
+    {
+      "topic": "TypeScript libsql client API",
+      "file": "topics-typescript-libsql-client-api.json",
+      "summary": "Open when using TypeScript libsql client API and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript libsql client API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

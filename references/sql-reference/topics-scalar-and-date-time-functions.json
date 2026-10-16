@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Scalar Functions",
+      "file": "topics-scalar-functions.json",
+      "summary": "Open when using Scalar Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Scalar Functions"]},
+    {
+      "topic": "Date and Time Functions",
+      "file": "topics-date-and-time-functions.json",
+      "summary": "Open when using Date and Time Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Date and Time Functions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

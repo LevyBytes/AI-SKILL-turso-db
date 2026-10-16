@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Agent database architectures",
+      "file": "topics-agent-database-architectures.json",
+      "summary": "Open when reading Agent database architectures and matching its exact source version, setup and conditions.",
+      "keywords": ["Agent database architectures"]},
+    {
+      "topic": "AI memory",
+      "file": "topics-ai-memory.json",
+      "summary": "Open when reading AI memory and matching its exact source version, setup and conditions.",
+      "keywords": ["AI memory"]},
+    {
+      "topic": "Code indexing",
+      "file": "topics-code-indexing.json",
+      "summary": "Open when reading Code indexing and matching its exact source version, setup and conditions.",
+      "keywords": ["Code indexing"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

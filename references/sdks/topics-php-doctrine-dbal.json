@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "PHP doctrine driver installation",
+      "file": "php-doctrine-driver-installation.md",
+      "summary": "Open when using PHP doctrine driver installation.",
+      "keywords": ["PHP doctrine driver installation"]},
+    {
+      "topic": "PHP doctrine credentials and connection",
+      "file": "php-doctrine-credentials-and-connection.md",
+      "summary": "Open when using PHP doctrine credentials and connection.",
+      "keywords": ["PHP doctrine credentials and connection"]},
+    {
+      "topic": "PHP doctrine todo application example",
+      "file": "php-doctrine-todo-application-example.md",
+      "summary": "Open when using PHP doctrine todo application example.",
+      "keywords": ["PHP doctrine todo application example"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

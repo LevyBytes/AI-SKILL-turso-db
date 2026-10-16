@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Agent local databases and cloud sync",
+      "file": "agent-local-databases-and-cloud-sync.md",
+      "summary": "Open when using Agent local databases and cloud sync.",
+      "keywords": ["Agent local databases and cloud sync"]},
+    {
+      "topic": "Isolated shared and coordinator databases",
+      "file": "isolated-shared-and-coordinator-databases.md",
+      "summary": "Open when using Isolated shared and coordinator databases.",
+      "keywords": ["Isolated shared and coordinator databases"]},
+    {
+      "topic": "Provision databases per agent",
+      "file": "provision-databases-per-agent.md",
+      "summary": "Open when using Provision databases per agent.",
+      "keywords": ["Provision databases per agent"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

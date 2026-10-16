@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Agent memory and code indexing",
+      "file": "agent-memory-and-code-indexing.md",
+      "summary": "Open when using Agent memory and code indexing.",
+      "keywords": ["Agent memory and code indexing"]},
+    {
+      "topic": "Caching secrets and vector workflows",
+      "file": "caching-secrets-and-vector-workflows.md",
+      "summary": "Open when using Caching secrets and vector workflows.",
+      "keywords": ["Caching secrets and vector workflows"]},
+    {
+      "topic": "Database products and cloud setup",
+      "file": "database-products-and-cloud-setup.md",
+      "summary": "Open when using Database products and cloud setup.",
+      "keywords": ["Database products and cloud setup"]},
+    {
+      "topic": "Database sync workflows",
+      "file": "database-sync-workflows.md",
+      "summary": "Open when using Database sync workflows.",
+      "keywords": ["Database sync workflows"]},
+    {
+      "topic": "Change data capture workflows",
+      "file": "change-data-capture-workflows.md",
+      "summary": "Open when using Change data capture workflows.",
+      "keywords": ["Change data capture workflows"]},
+    {
+      "topic": "Turso release history",
+      "file": "release-history.md",
+      "summary": "Open when using Turso release history.",
+      "keywords": ["Turso release history"]},
+    {
+      "topic": "Embedded database MVCC and encryption",
+      "file": "embedded-database-mvcc-and-encryption.md",
+      "summary": "Open when using Embedded database MVCC and encryption.",
+      "keywords": ["Embedded database MVCC and encryption"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

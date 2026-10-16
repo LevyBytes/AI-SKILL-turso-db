@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Astro database client and server queries",
+      "file": "astro-database-client-and-server-queries.md",
+      "summary": "Open when using Astro database client and server queries.",
+      "keywords": ["Astro database client and server queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

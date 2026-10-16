@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Vacuum rebuild copy and MVCC requirements",
+      "file": "vacuum-rebuild-copy-and-mvcc-requirements.md",
+      "summary": "Open when using Vacuum rebuild copy and MVCC requirements.",
+      "keywords": ["Vacuum rebuild copy and MVCC requirements"]},
+    {
+      "topic": "Vacuum backups rebuilds and errors",
+      "file": "vacuum-backups-rebuilds-and-errors.md",
+      "summary": "Open when using Vacuum backups rebuilds and errors.",
+      "keywords": ["Vacuum backups rebuilds and errors"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

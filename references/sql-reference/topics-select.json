@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Select columns aliases and from",
+      "file": "select-columns-aliases-and-from.md",
+      "summary": "Open when using Select columns aliases and from.",
+      "keywords": ["Select columns aliases and from"]},
+    {
+      "topic": "Select filtering comparison and null tests",
+      "file": "select-filtering-comparison-and-null-tests.md",
+      "summary": "Open when using Select filtering comparison and null tests.",
+      "keywords": ["Select filtering comparison and null tests"]},
+    {
+      "topic": "Select case and join types",
+      "file": "select-case-and-join-types.md",
+      "summary": "Open when using Select case and join types.",
+      "keywords": ["Select case and join types"]},
+    {
+      "topic": "Select join using grouping and distinct",
+      "file": "select-join-using-grouping-and-distinct.md",
+      "summary": "Open when using Select join using grouping and distinct.",
+      "keywords": ["Select join using grouping and distinct"]},
+    {
+      "topic": "Select order limits and scalar subqueries",
+      "file": "select-order-limits-and-scalar-subqueries.md",
+      "summary": "Open when using Select order limits and scalar subqueries.",
+      "keywords": ["Select order limits and scalar subqueries"]},
+    {
+      "topic": "Select exists cte and window queries",
+      "file": "select-exists-cte-and-window-queries.md",
+      "summary": "Open when using Select exists cte and window queries.",
+      "keywords": ["Select exists cte and window queries"]},
+    {
+      "topic": "Select named windows and set operations",
+      "file": "select-named-windows-and-set-operations.md",
+      "summary": "Open when using Select named windows and set operations.",
+      "keywords": ["Select named windows and set operations"]},
+    {
+      "topic": "Select reporting and filtered join examples",
+      "file": "select-reporting-and-filtered-join-examples.md",
+      "summary": "Open when using Select reporting and filtered join examples.",
+      "keywords": ["Select reporting and filtered join examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Database token expiration and invalidation",
+      "file": "database-token-expiration-and-invalidation.md",
+      "summary": "Open when using Database token expiration and invalidation.",
+      "keywords": ["Database token expiration and invalidation"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

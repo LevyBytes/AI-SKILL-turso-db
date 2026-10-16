@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Community SDK and protocol routes",
+      "file": "community-sdk-and-protocol-routes.md",
+      "summary": "Open when using Community SDK and protocol routes.",
+      "keywords": ["Community SDK and protocol routes"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

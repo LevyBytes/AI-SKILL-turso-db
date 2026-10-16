@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Cdc enabling modes and change records",
+      "file": "cdc-enabling-modes-and-change-records.md",
+      "summary": "Open when using Cdc enabling modes and change records.",
+      "keywords": ["Cdc enabling modes and change records"]},
+    {
+      "topic": "Cdc decoding transactions and schema changes",
+      "file": "cdc-decoding-transactions-and-schema-changes.md",
+      "summary": "Open when using Cdc decoding transactions and schema changes.",
+      "keywords": ["Cdc decoding transactions and schema changes"]},
+    {
+      "topic": "Cdc complete change tracking example",
+      "file": "cdc-complete-change-tracking-example.md",
+      "summary": "Open when using Cdc complete change tracking example.",
+      "keywords": ["Cdc complete change tracking example"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

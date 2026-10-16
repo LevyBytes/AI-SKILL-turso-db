@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go tursogo local quickstart",
+      "file": "go-tursogo-local-quickstart.md",
+      "summary": "Open when using Go tursogo local quickstart.",
+      "keywords": ["Go tursogo local quickstart"]},
+    {
+      "topic": "Go tursogo cloud sync quickstart",
+      "file": "go-tursogo-cloud-sync-quickstart.md",
+      "summary": "Open when using Go tursogo cloud sync quickstart.",
+      "keywords": ["Go tursogo cloud sync quickstart"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

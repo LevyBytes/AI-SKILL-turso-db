@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Prisma adapter and schema setup",
+      "file": "prisma-adapter-and-schema-setup.md",
+      "summary": "Open when using Prisma adapter and schema setup.",
+      "keywords": ["Prisma adapter and schema setup"]},
+    {
+      "topic": "Prisma migrations and queries",
+      "file": "prisma-migrations-and-queries.md",
+      "summary": "Open when using Prisma migrations and queries.",
+      "keywords": ["Prisma migrations and queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

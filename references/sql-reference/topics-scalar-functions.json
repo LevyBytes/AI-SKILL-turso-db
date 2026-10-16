@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Scalar function category reference",
+      "file": "scalar-function-category-reference.md",
+      "summary": "Open when using Scalar function category reference.",
+      "keywords": ["Scalar function category reference"]},
+    {
+      "topic": "Scalar hints system and basic functions",
+      "file": "scalar-hints-system-and-basic-functions.md",
+      "summary": "Open when using Scalar hints system and basic functions.",
+      "keywords": ["Scalar hints system and basic functions"]},
+    {
+      "topic": "Scalar format pattern hex and conditionals",
+      "file": "scalar-format-pattern-hex-and-conditionals.md",
+      "summary": "Open when using Scalar format pattern hex and conditionals.",
+      "keywords": ["Scalar format pattern hex and conditionals"]},
+    {
+      "topic": "Scalar length case trimming and null tests",
+      "file": "scalar-length-case-trimming-and-null-tests.md",
+      "summary": "Open when using Scalar length case trimming and null tests.",
+      "keywords": ["Scalar length case trimming and null tests"]},
+    {
+      "topic": "Scalar quoting random replacement and substrings",
+      "file": "scalar-quoting-random-replacement-and-substrings.md",
+      "summary": "Open when using Scalar quoting random replacement and substrings.",
+      "keywords": ["Scalar quoting random replacement and substrings"]},
+    {
+      "topic": "Scalar unicode soundex and system counters",
+      "file": "scalar-unicode-soundex-and-system-counters.md",
+      "summary": "Open when using Scalar unicode soundex and system counters.",
+      "keywords": ["Scalar unicode soundex and system counters"]},
+    {
+      "topic": "Scalar extension loading",
+      "file": "scalar-extension-loading.md",
+      "summary": "Open when using Scalar extension loading.",
+      "keywords": ["Scalar extension loading"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

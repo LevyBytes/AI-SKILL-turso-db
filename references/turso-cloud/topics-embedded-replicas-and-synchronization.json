@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Embedded replica sync and encryption",
+      "file": "embedded-replica-sync-and-encryption.md",
+      "summary": "Open when using Embedded replica sync and encryption.",
+      "keywords": ["Embedded replica sync and encryption"]},
+    {
+      "topic": "Embedded replica usage and deployment options",
+      "file": "embedded-replica-usage-and-deployment-options.md",
+      "summary": "Open when using Embedded replica usage and deployment options.",
+      "keywords": ["Embedded replica usage and deployment options"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

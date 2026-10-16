@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Domain base types defaults and nullability",
+      "file": "domain-base-types-defaults-and-nullability.md",
+      "summary": "Open when using Domain base types defaults and nullability.",
+      "keywords": ["Domain base types defaults and nullability"]},
+    {
+      "topic": "Domain checks and chaining",
+      "file": "domain-checks-and-chaining.md",
+      "summary": "Open when using Domain checks and chaining.",
+      "keywords": ["Domain checks and chaining"]},
+    {
+      "topic": "Domain updates casts and table checks",
+      "file": "domain-updates-casts-and-table-checks.md",
+      "summary": "Open when using Domain updates casts and table checks.",
+      "keywords": ["Domain updates casts and table checks"]},
+    {
+      "topic": "Domain operations removal and restrictions",
+      "file": "domain-operations-removal-and-restrictions.md",
+      "summary": "Open when using Domain operations removal and restrictions.",
+      "keywords": ["Domain operations removal and restrictions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,41 @@
+# Turso 0.6.0: added testing and builds
+
+Open when checking these changes in Turso 0.6.0, released 2026-05-14. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.6.0-index.md)
+
+## Added
+
+- include a SQLite test covering the xfer optimization bug (Pavan Nambi)
+- Add a regression case for the SQLite xfer optimization bug (Pavan Nambi)
+- core/mvcc: Add a regression check for DESC index scans during concurrent insert (Pekka Enberg)
+- give create index benchmark functions proper benchmark names (Pedro Muniz)
+- testing/sqltests: Add a regression case for a self-referential trigger following ALTER TABLE RENAME (Pekka Enberg)
+- testing: Add MVCC update regression coverage for a btree-only row (Pekka Enberg)
+- testing: Add a recovery-heavy Whopper profile for MVCC (Mikaël Francoeur)
+- testing: Add a recovery-focused Whopper profile for MVCC (Mikaël Francoeur)
+- Add regression coverage for a pager panic after savepoint rollback with overflow (Jussi Saurio)
+- testing/sqltests: Add regression coverage for the "index cursor should have a record" bug (Jussi Saurio)
+- tests/integration: Add a regression case for the `VACUUM INTO` panic (Jussi Saurio)
+- testing: Add regression coverage for a pragma_table_list() panic (Jussi Saurio)
+- add coverage for table-valued functions (Mikaël Francoeur)
+- Add savepoint rollback DST tests and repair rollback cache invalidation (Yassine Elyaakoub)
+- concurrent-simulator: Add configuration for a coverage runner (Pekka Enberg)
+- ci: add stack size workflow (Pedro Muniz)
+- add some sqltests (Pavan Nambi)
+- fossier: add bot_policy = allow so dependabot is not blocked (Preston Thorpe)
+- Fix promise API encryption cipher mapping and add tests (Glauber Costa)
+- Add tests confirming canonical schema storage for attached db (Avinash Sajjanshetty)
+- Add a new core benchmark for triggers (Preston Thorpe)
+- Add TPC-C benchmark (Preston Thorpe)
+- Add additional generated columns tests (Mikaël Francoeur)
+- simulator: add yield injections 💉 for mvcc at safe resumable boundaries (Avinash Sajjanshetty)
+- testing/sqltests: Add named window function test cases (Mikaël Francoeur)
+- Add strict-table coverage for VACUUM INTO tests (Harin)
+- Add a test ensuring compaction after vaccum into (Edgar Latorre)
+- test: add integration coverage for VACUUM INTO on encrypted databases #5851 (Ratnesh Mishra)
+- core/regex: Add non text data coverage for pattern matching in regexp (Vartan Babayan)
+- Add strict-table tests for VACUUM INTO (Harin)
+- Add a graph query benchmark using complex multijoins (Jussi Saurio)
+- Add shuttle tests covering MVCC scenarios (Avinash Sajjanshetty)
+- Add local elle run instructions (Avinash Sajjanshetty)

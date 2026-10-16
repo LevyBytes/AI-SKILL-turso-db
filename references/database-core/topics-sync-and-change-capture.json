@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Sync checkpoint",
+      "file": "topics-sync-checkpoint.json",
+      "summary": "Open when reading Sync checkpoint and matching its exact source version, setup and conditions.",
+      "keywords": ["Sync checkpoint"]},
+    {
+      "topic": "Sync conflict resolution",
+      "file": "topics-sync-conflict-resolution.json",
+      "summary": "Open when reading Sync conflict resolution and matching its exact source version, setup and conditions.",
+      "keywords": ["Sync conflict resolution"]},
+    {
+      "topic": "Local sync server",
+      "file": "topics-local-sync-server.json",
+      "summary": "Open when reading Local sync server and matching its exact source version, setup and conditions.",
+      "keywords": ["Local sync server"]},
+    {
+      "topic": "Partial sync bootstrap",
+      "file": "topics-partial-sync-bootstrap.json",
+      "summary": "Open when reading Partial sync bootstrap and matching its exact source version, setup and conditions.",
+      "keywords": ["Partial sync bootstrap"]},
+    {
+      "topic": "Application sync quickstart",
+      "file": "topics-application-sync-quickstart.json",
+      "summary": "Open when reading Application sync quickstart and matching its exact source version, setup and conditions.",
+      "keywords": ["Application sync quickstart"]},
+    {
+      "topic": "Change data capture",
+      "file": "topics-change-data-capture.json",
+      "summary": "Open when reading Change data capture and matching its exact source version, setup and conditions.",
+      "keywords": ["Change data capture"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

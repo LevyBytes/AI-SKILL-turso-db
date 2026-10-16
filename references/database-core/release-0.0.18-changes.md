@@ -1,0 +1,60 @@
+# Turso 0.0.18: changes
+
+Open when checking these changes in Turso 0.0.18, released 2025-04-02. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.0.18-index.md)
+
+## Added
+
+- Jsonb support update (Ihor Andrianov)
+- Add BTree rebalancing after `delete` (Krishna Vishal)
+- Introduce Register struct (Pere Diaz Bou)
+- Introduce immutable record (Pere Diaz Bou)
+- Introduce libFuzzer (Levy A.)
+- WAL frame checksum support (Daniel Boll)
+- First JavaScript bindings using napi-rs (Pekka Enberg)
+- First implementation pass for `UPDATE` support (Preston Thorpe)
+- Add `commit()` plus placeholder insert support to the Python binding (Diego Reis)
+## Updated
+
+- Build planning support for Update queries (Preston Thorpe)
+- Check page cells after every operation (Pere Diaz Bou)
+- Move Cli Repl Commands onto clap (Pedro Muniz)
+- Let balance_root handle balancing with interior pages (Pere Diaz Bou)
+- Let remainder (%) accept textual arguments (Anton Harniakou)
+- JSON code cleanups (Pekka Enberg)
+- Improve allocations around ImmutableRecord, OwnedRecord and read_record (Pere Diaz Bou)
+- JavaScript binding improvements (Pekka Enberg)
+- Kill test environment (Pekka Enberg)
+- Drop `SpinLock`'s public unlock method to avoid unsafe aliasing (Krishna Vishal)
+- Cover the zero limit case in the query plan emitter (Preston Thorpe)
+- Reduce MVCC cursor memory consumption (Ihor Andrianov)
+- Treat unary `+` as a noop (Levy A.)
+- JSON cache (Ihor Andrianov)
+- Update `rusqlite` to 0.34 (Pere Diaz Bou)
+- core: Rename FileStorage as DatabaseFile (Pekka Enberg)
+- Improve Python bindings (Diego Reis)
+- Schema translation cleanups (Pekka Enberg)
+- Various JSON improvements (Ihor Andrianov)
+- Turn on pretty mode by default in the shell (Pekka Enberg)
+- Improve CLI color scheme (Pekka Enberg)
+- Implement Copy for selected pager types to avoid explicit clones (Preston Thorpe)
+- Add syntax highlighting and hints (Pedro Muniz)
+- chore: add gitignore coverage for files matching *.db (Anton Harniakou)
+- Restructure the extension library and put VFS behind a feature gate (Preston Thorpe)
+- fragment bench functions (Pere Diaz Bou)
+## Fixed
+
+- Delete crashing balance code that is no longer needed (Pere Diaz Bou)
+- Correct divider-cell propagation while balancing an interior page (Pere Diaz Bou)
+- Fuzz test btree fix seeking. (Pere Diaz Bou)
+- Fix IdxCmp insn comparisons (Jussi Saurio)
+- Resolve most or all floating-point math and display problems. (Ihor Andrianov)
+- Make BTreeCell/read_payload allocation-free and add overflow fixes (Pere Diaz Bou)
+- Correct overflow handling for negated `compute_shl` results (Krishna Vishal)
+- Correct a README.md typo (Tshepang Mbambo)
+- Fix platform specific FFI C pointer type casts (Preston Thorpe)
+- core: Fix Destroy opcode root page handling (Pekka Enberg)
+- Fix `SELECT 0.0 = 0` returning false (lgualtieri75)
+- bindings/python: Fix flaky tests (Diego Reis)
+- Prevent io_uring WAL write corruption by keeping buffers alive (Daniel Boll)

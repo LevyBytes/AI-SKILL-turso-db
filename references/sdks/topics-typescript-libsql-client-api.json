@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript libSQL connections and replica sync",
+      "file": "typescript-libsql-connections-and-replica-sync.md",
+      "summary": "Open when using TypeScript libSQL connections and replica sync.",
+      "keywords": ["TypeScript libSQL connections and replica sync"]},
+    {
+      "topic": "TypeScript libSQL query and response API",
+      "file": "typescript-libsql-query-and-response-api.md",
+      "summary": "Open when using TypeScript libSQL query and response API.",
+      "keywords": ["TypeScript libSQL query and response API"]},
+    {
+      "topic": "TypeScript libSQL transactions and attach",
+      "file": "typescript-libsql-transactions-and-attach.md",
+      "summary": "Open when using TypeScript libSQL transactions and attach.",
+      "keywords": ["TypeScript libSQL transactions and attach"]},
+    {
+      "topic": "TypeScript conditional write transaction",
+      "file": "typescript-conditional-write-transaction.md",
+      "summary": "Open when using TypeScript conditional write transaction.",
+      "keywords": ["TypeScript conditional write transaction"]},
+    {
+      "topic": "TypeScript attach read transaction",
+      "file": "typescript-attach-read-transaction.md",
+      "summary": "Open when using TypeScript attach read transaction.",
+      "keywords": ["TypeScript attach read transaction"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

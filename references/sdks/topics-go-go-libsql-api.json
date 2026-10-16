@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go embedded replica connection and sync",
+      "file": "go-embedded-replica-connection-and-sync.md",
+      "summary": "Open when using Go embedded replica connection and sync.",
+      "keywords": ["Go embedded replica connection and sync"]},
+    {
+      "topic": "Go embedded replica encryption",
+      "file": "go-embedded-replica-encryption.md",
+      "summary": "Open when using Go embedded replica encryption.",
+      "keywords": ["Go embedded replica encryption"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

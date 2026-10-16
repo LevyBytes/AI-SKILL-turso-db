@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Aggregate function reference and average",
+      "file": "aggregate-function-reference-and-average.md",
+      "summary": "Open when using Aggregate function reference and average.",
+      "keywords": ["Aggregate function reference and average"]},
+    {
+      "topic": "Aggregate count and group concatenation",
+      "file": "aggregate-count-and-group-concatenation.md",
+      "summary": "Open when using Aggregate count and group concatenation.",
+      "keywords": ["Aggregate count and group concatenation"]},
+    {
+      "topic": "Aggregate string joining minimum and maximum",
+      "file": "aggregate-string-joining-minimum-and-maximum.md",
+      "summary": "Open when using Aggregate string joining minimum and maximum.",
+      "keywords": ["Aggregate string joining minimum and maximum"]},
+    {
+      "topic": "Aggregate sum and total semantics",
+      "file": "aggregate-sum-and-total-semantics.md",
+      "summary": "Open when using Aggregate sum and total semantics.",
+      "keywords": ["Aggregate sum and total semantics"]},
+    {
+      "topic": "Aggregate groups having distinct and windows",
+      "file": "aggregate-groups-having-distinct-and-windows.md",
+      "summary": "Open when using Aggregate groups having distinct and windows.",
+      "keywords": ["Aggregate groups having distinct and windows"]},
+    {
+      "topic": "Aggregate arrays and standard deviation",
+      "file": "aggregate-arrays-and-standard-deviation.md",
+      "summary": "Open when using Aggregate arrays and standard deviation.",
+      "keywords": ["Aggregate arrays and standard deviation"]},
+    {
+      "topic": "Aggregate medians and percentiles",
+      "file": "aggregate-medians-and-percentiles.md",
+      "summary": "Open when using Aggregate medians and percentiles.",
+      "keywords": ["Aggregate medians and percentiles"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

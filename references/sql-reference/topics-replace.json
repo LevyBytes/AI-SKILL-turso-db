@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Replace constraint and delete insert semantics",
+      "file": "replace-constraint-and-delete-insert-semantics.md",
+      "summary": "Open when using Replace constraint and delete insert semantics.",
+      "keywords": ["Replace constraint and delete insert semantics"]},
+    {
+      "topic": "Replace multiple row example",
+      "file": "replace-multiple-row-example.md",
+      "summary": "Open when using Replace multiple row example.",
+      "keywords": ["Replace multiple row example"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

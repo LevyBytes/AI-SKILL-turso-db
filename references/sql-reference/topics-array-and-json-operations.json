@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Array Functions",
+      "file": "topics-array-functions.json",
+      "summary": "Open when using Array Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Array Functions"]},
+    {
+      "topic": "JSON Functions",
+      "file": "topics-json-functions.json",
+      "summary": "Open when using JSON Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["JSON Functions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Content cache schema and version storage",
+      "file": "content-cache-schema-and-version-storage.md",
+      "summary": "Open when using Content cache schema and version storage.",
+      "keywords": ["Content cache schema and version storage"]},
+    {
+      "topic": "Content cache session tracking and statistics",
+      "file": "content-cache-session-tracking-and-statistics.md",
+      "summary": "Open when using Content cache session tracking and statistics.",
+      "keywords": ["Content cache session tracking and statistics"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

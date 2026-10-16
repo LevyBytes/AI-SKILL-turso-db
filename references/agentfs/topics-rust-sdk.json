@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rust installation and database connection",
+      "file": "rust-installation-and-database-connection.md",
+      "summary": "Open when using Rust installation and database connection.",
+      "keywords": ["Rust installation and database connection"]},
+    {
+      "topic": "Rust typed key value storage",
+      "file": "rust-typed-key-value-storage.md",
+      "summary": "Open when using Rust typed key value storage.",
+      "keywords": ["Rust typed key value storage"]},
+    {
+      "topic": "Rust key enumeration and file contents",
+      "file": "rust-key-enumeration-and-file-contents.md",
+      "summary": "Open when using Rust key enumeration and file contents.",
+      "keywords": ["Rust key enumeration and file contents"]},
+    {
+      "topic": "Rust directories metadata and removal",
+      "file": "rust-directories-metadata-and-removal.md",
+      "summary": "Open when using Rust directories metadata and removal.",
+      "keywords": ["Rust directories metadata and removal"]},
+    {
+      "topic": "Rust file copy and tool recording",
+      "file": "rust-file-copy-and-tool-recording.md",
+      "summary": "Open when using Rust file copy and tool recording.",
+      "keywords": ["Rust file copy and tool recording"]},
+    {
+      "topic": "Rust tool querying and cleanup",
+      "file": "rust-tool-querying-and-cleanup.md",
+      "summary": "Open when using Rust tool querying and cleanup.",
+      "keywords": ["Rust tool querying and cleanup"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

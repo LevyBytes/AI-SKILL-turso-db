@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rust Turso statements transactions and encryption",
+      "file": "rust-turso-statements-transactions-and-encryption.md",
+      "summary": "Open when using Rust Turso statements transactions and encryption.",
+      "keywords": ["Rust Turso statements transactions and encryption"]},
+    {
+      "topic": "Rust Turso sync and checkpoint API",
+      "file": "rust-turso-sync-and-checkpoint-api.md",
+      "summary": "Open when using Rust Turso sync and checkpoint API.",
+      "keywords": ["Rust Turso sync and checkpoint API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

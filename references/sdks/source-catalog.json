@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Client connection and vercel workflows",
+      "file": "client-connection-and-vercel-workflows.md",
+      "summary": "Open when using Client connection and vercel workflows.",
+      "keywords": ["Client connection and vercel workflows"]},
+    {
+      "topic": "Activerecord and authentication workflows",
+      "file": "activerecord-and-authentication-workflows.md",
+      "summary": "Open when using Activerecord and authentication workflows.",
+      "keywords": ["Activerecord and authentication workflows"]},
+    {
+      "topic": "C and flutter SDK workflows",
+      "file": "c-and-flutter-sdk-workflows.md",
+      "summary": "Open when using C and flutter SDK workflows.",
+      "keywords": ["C and flutter SDK workflows"]},
+    {
+      "topic": "Go SDK workflows",
+      "file": "go-sdk-workflows.md",
+      "summary": "Open when using Go SDK workflows.",
+      "keywords": ["Go SDK workflows"]},
+    {
+      "topic": "HTTP API and package selection",
+      "file": "http-api-and-package-selection.md",
+      "summary": "Open when using HTTP API and package selection.",
+      "keywords": ["HTTP API and package selection"]},
+    {
+      "topic": "Kotlin and PHP SDK workflows",
+      "file": "kotlin-and-php-sdk-workflows.md",
+      "summary": "Open when using Kotlin and PHP SDK workflows.",
+      "keywords": ["Kotlin and PHP SDK workflows"]},
+    {
+      "topic": "Python and ruby SDK workflows",
+      "file": "python-and-ruby-sdk-workflows.md",
+      "summary": "Open when using Python and ruby SDK workflows.",
+      "keywords": ["Python and ruby SDK workflows"]},
+    {
+      "topic": "Rust framework and connection workflows",
+      "file": "rust-framework-and-connection-workflows.md",
+      "summary": "Open when using Rust framework and connection workflows.",
+      "keywords": ["Rust framework and connection workflows"]},
+    {
+      "topic": "Rust package and API selection",
+      "file": "rust-package-and-api-selection.md",
+      "summary": "Open when using Rust package and API selection.",
+      "keywords": ["Rust package and API selection"]},
+    {
+      "topic": "Swift SDK workflows",
+      "file": "swift-sdk-workflows.md",
+      "summary": "Open when using Swift SDK workflows.",
+      "keywords": ["Swift SDK workflows"]},
+    {
+      "topic": "TypeScript framework workflows",
+      "file": "typescript-framework-workflows.md",
+      "summary": "Open when using TypeScript framework workflows.",
+      "keywords": ["TypeScript framework workflows"]},
+    {
+      "topic": "TypeScript ORM and client quickstarts",
+      "file": "typescript-orm-and-client-quickstarts.md",
+      "summary": "Open when using TypeScript ORM and client quickstarts.",
+      "keywords": ["TypeScript ORM and client quickstarts"]},
+    {
+      "topic": "TypeScript package and API selection",
+      "file": "typescript-package-and-api-selection.md",
+      "summary": "Open when using TypeScript package and API selection.",
+      "keywords": ["TypeScript package and API selection"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

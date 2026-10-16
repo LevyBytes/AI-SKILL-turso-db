@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Cloud sync setup and commands",
+      "file": "cloud-sync-setup-and-commands.md",
+      "summary": "Open when using Cloud sync setup and commands.",
+      "keywords": ["Cloud sync setup and commands"]},
+    {
+      "topic": "Sync backups authentication and conflicts",
+      "file": "sync-backups-authentication-and-conflicts.md",
+      "summary": "Open when using Sync backups authentication and conflicts.",
+      "keywords": ["Sync backups authentication and conflicts"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

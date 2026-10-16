@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Custom type base encoding and decoding",
+      "file": "custom-type-base-encoding-and-decoding.md",
+      "summary": "Open when using Custom type base encoding and decoding.",
+      "keywords": ["Custom type base encoding and decoding"]},
+    {
+      "topic": "Custom type parameters and operators",
+      "file": "custom-type-parameters-and-operators.md",
+      "summary": "Open when using Custom type parameters and operators.",
+      "keywords": ["Custom type parameters and operators"]},
+    {
+      "topic": "Custom type defaults validation and casts",
+      "file": "custom-type-defaults-validation-and-casts.md",
+      "summary": "Open when using Custom type defaults validation and casts.",
+      "keywords": ["Custom type defaults validation and casts"]},
+    {
+      "topic": "Custom type inspection and alter table",
+      "file": "custom-type-inspection-and-alter-table.md",
+      "summary": "Open when using Custom type inspection and alter table.",
+      "keywords": ["Custom type inspection and alter table"]},
+    {
+      "topic": "Struct types packing and extraction",
+      "file": "struct-types-packing-and-extraction.md",
+      "summary": "Open when using Struct types packing and extraction.",
+      "keywords": ["Struct types packing and extraction"]},
+    {
+      "topic": "Union types tags and extraction",
+      "file": "union-types-tags-and-extraction.md",
+      "summary": "Open when using Union types tags and extraction.",
+      "keywords": ["Union types tags and extraction"]},
+    {
+      "topic": "Composite type null and dot semantics",
+      "file": "composite-type-null-and-dot-semantics.md",
+      "summary": "Open when using Composite type null and dot semantics.",
+      "keywords": ["Composite type null and dot semantics"]},
+    {
+      "topic": "Custom array types and monetary values",
+      "file": "custom-array-types-and-monetary-values.md",
+      "summary": "Open when using Custom array types and monetary values.",
+      "keywords": ["Custom array types and monetary values"]},
+    {
+      "topic": "Custom type JSON unsigned and decimal examples",
+      "file": "custom-type-json-unsigned-and-decimal-examples.md",
+      "summary": "Open when using Custom type JSON unsigned and decimal examples.",
+      "keywords": ["Custom type JSON unsigned and decimal examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

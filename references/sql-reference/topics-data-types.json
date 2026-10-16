@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Storage classes affinity and conversions",
+      "file": "storage-classes-affinity-and-conversions.md",
+      "summary": "Open when using Storage classes affinity and conversions.",
+      "keywords": ["Storage classes affinity and conversions"]},
+    {
+      "topic": "Strict tables and custom types",
+      "file": "strict-tables-and-custom-types.md",
+      "summary": "Open when using Strict tables and custom types.",
+      "keywords": ["Strict tables and custom types"]},
+    {
+      "topic": "Builtin struct and union types",
+      "file": "builtin-struct-and-union-types.md",
+      "summary": "Open when using Builtin struct and union types.",
+      "keywords": ["Builtin struct and union types"]},
+    {
+      "topic": "Array types inspection and sorting",
+      "file": "array-types-inspection-and-sorting.md",
+      "summary": "Open when using Array types inspection and sorting.",
+      "keywords": ["Array types inspection and sorting"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

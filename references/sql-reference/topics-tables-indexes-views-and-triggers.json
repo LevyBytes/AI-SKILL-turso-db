@@ -1,0 +1,14 @@
+{"schema_version": 1, "topics": [
+  {"topic": "CREATE TABLE", "file": "topics-create-table.json", "summary": "Open when using CREATE TABLE and checking complete syntax, examples, results and restrictions.", "keywords": ["CREATE TABLE"]},
+  {"topic": "ALTER TABLE", "file": "topics-alter-table.json", "summary": "Open when using ALTER TABLE and checking complete syntax, examples, results and restrictions.", "keywords": ["ALTER TABLE"]},
+  {"topic": "DROP TABLE", "file": "topics-drop-table.json", "summary": "Open when using DROP TABLE and checking complete syntax, examples, results and restrictions.", "keywords": ["DROP TABLE"]},
+  {"topic": "CREATE VIRTUAL TABLE", "file": "topics-create-virtual-table.json", "summary": "Open when using CREATE VIRTUAL TABLE and checking complete syntax, examples, results and restrictions.", "keywords": ["CREATE VIRTUAL TABLE"]},
+  {"topic": "CREATE INDEX", "file": "topics-create-index.json", "summary": "Open when using CREATE INDEX and checking complete syntax, examples, results and restrictions.", "keywords": ["CREATE INDEX"]},
+  {"topic": "DROP INDEX", "file": "topics-drop-index.json", "summary": "Open when using DROP INDEX and checking complete syntax, examples, results and restrictions.", "keywords": ["DROP INDEX"]},
+  {"topic": "CREATE VIEW", "file": "topics-create-view.json", "summary": "Open when using CREATE VIEW and checking complete syntax, examples, results and restrictions.", "keywords": ["CREATE VIEW"]},
+  {"topic": "CREATE MATERIALIZED VIEW", "file": "topics-create-materialized-view.json", "summary": "Open when using CREATE MATERIALIZED VIEW and checking complete syntax, examples, results and restrictions.", "keywords": ["CREATE MATERIALIZED VIEW"]},
+  {"topic": "DROP VIEW", "file": "topics-drop-view.json", "summary": "Open when using DROP VIEW and checking complete syntax, examples, results and restrictions.", "keywords": ["DROP VIEW"]},
+  {"topic": "CREATE TRIGGER", "file": "topics-create-trigger.json", "summary": "Open when using CREATE TRIGGER and checking complete syntax, examples, results and restrictions.", "keywords": ["CREATE TRIGGER"]},
+  {"topic": "DROP TRIGGER", "file": "topics-drop-trigger.json", "summary": "Open when using DROP TRIGGER and checking complete syntax, examples, results and restrictions.", "keywords": ["DROP TRIGGER"]},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of this skill's references other than English.", "keywords": ["reference language", "translated references", "language selection"]}
+]}

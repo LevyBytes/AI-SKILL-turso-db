@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "CREATE DOMAIN",
+      "file": "topics-create-domain.json",
+      "summary": "Open when using CREATE DOMAIN and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["CREATE DOMAIN"]},
+    {
+      "topic": "CREATE TYPE",
+      "file": "topics-create-type.json",
+      "summary": "Open when using CREATE TYPE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["CREATE TYPE"]},
+    {
+      "topic": "DROP DOMAIN",
+      "file": "topics-drop-domain.json",
+      "summary": "Open when using DROP DOMAIN and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["DROP DOMAIN"]},
+    {
+      "topic": "DROP TYPE",
+      "file": "topics-drop-type.json",
+      "summary": "Open when using DROP TYPE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["DROP TYPE"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

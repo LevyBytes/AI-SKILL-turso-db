@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Database overview",
+      "file": "topics-database-overview.json",
+      "summary": "Open when reading Database overview and matching its exact source version, setup and conditions.",
+      "keywords": ["Database overview"]},
+    {
+      "topic": "libSQL and Turso Database",
+      "file": "topics-libsql-and-turso-database.json",
+      "summary": "Open when reading libSQL and Turso Database and matching its exact source version, setup and conditions.",
+      "keywords": ["libSQL and Turso Database"]},
+    {
+      "topic": "Local development",
+      "file": "topics-local-development.json",
+      "summary": "Open when reading Local development and matching its exact source version, setup and conditions.",
+      "keywords": ["Local development"]},
+    {
+      "topic": "Cloud database quickstart",
+      "file": "topics-cloud-database-quickstart.json",
+      "summary": "Open when reading Cloud database quickstart and matching its exact source version, setup and conditions.",
+      "keywords": ["Cloud database quickstart"]},
+    {
+      "topic": "Embedded database quickstart",
+      "file": "topics-embedded-database-quickstart.json",
+      "summary": "Open when reading Embedded database quickstart and matching its exact source version, setup and conditions.",
+      "keywords": ["Embedded database quickstart"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

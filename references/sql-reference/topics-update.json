@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Update set from and conflicts",
+      "file": "update-set-from-and-conflicts.md",
+      "summary": "Open when using Update set from and conflicts.",
+      "keywords": ["Update set from and conflicts"]},
+    {
+      "topic": "Update where returning and join examples",
+      "file": "update-where-returning-and-join-examples.md",
+      "summary": "Open when using Update where returning and join examples.",
+      "keywords": ["Update where returning and join examples"]},
+    {
+      "topic": "Update returning example",
+      "file": "update-returning-example.md",
+      "summary": "Open when using Update returning example.",
+      "keywords": ["Update returning example"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

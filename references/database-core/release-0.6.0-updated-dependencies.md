@@ -1,0 +1,42 @@
+# Turso 0.6.0: updated dependencies
+
+Open when checking these changes in Turso 0.6.0, released 2026-05-14. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.6.0-index.md)
+
+## Updated
+
+- build(deps): upgrade openssl from 0.10.78 to 0.10.79 (app/dependabot)
+- build(deps-dev): upgrade js-yaml from 3.14.1 to 3.14.2 in /testing/conformance/javascript (app/dependabot)
+- build(deps-dev): in /examples/javascript/database-wasm-vite, move postcss 8.5.6 to 8.5.13 (app/dependabot)
+- build(deps-dev): in /examples/javascript/sync-wasm-vite, move postcss 8.5.6 to 8.5.12 (app/dependabot)
+- build(deps): in /bindings/javascript/perf, move tar-fs 2.1.3 to 2.1.4 (app/dependabot)
+- deps: update tantivy and enable the default feature in sdk-kit (Preston Thorpe)
+- build(deps): in /testing/conformance/javascript, move tar-fs 2.1.3 to 2.1.4 (app/dependabot)
+- build(deps): upgrade openssl from 0.10.75 to 0.10.78 (app/dependabot)
+- Upgrade pygments from 2.19.1 to 2.20.0 (app/dependabot)
+- Upgrade glob from 10.4.5 to 10.5.0 in /serverless/javascript (app/dependabot)
+- Upgrade requests from 2.32.5 to 2.33.0 (app/dependabot)
+- Upgrade bytes from 1.11.0 to 1.11.1 (app/dependabot)
+- Upgrade json from 2.18.0 to 2.19.2 in /examples/react-native (app/dependabot)
+- Update the rand crate to 0.9.4 (Pekka Enberg)
+- perf/latency: Remove stale Cargo.lock files (Pekka Enberg)
+- Upgrade rustls-webpki from 0.103.8 to 0.103.13 (app/dependabot)
+- Upgrade time from 0.3.41 to 0.3.47 (app/dependabot)
+- Update drizzle-orm package (Pekka Enberg)
+- Update reqwest crate (Pekka Enberg)
+- Update pytest to 9.0.3 (Pekka Enberg)
+- Update the rand crate to 0.8.6 (Pekka Enberg)
+- Update rand crate (Pekka Enberg)
+- Update rich dependency (Pekka Enberg)
+- Update rand crate (Pekka Enberg)
+- testing/javascript: Update ava package version (Pekka Enberg)
+- Update oneshot crate (Pekka Enberg)
+- Update tar to 7.5.13 (Pekka Enberg)
+- Update vite to 7.3.2 (Pekka Enberg)
+- Update lz4_flex to 0.11.6 (Pekka Enberg)
+- Refresh rollup at 4.60.1 plus picomatch at 4.0.4 (Pekka Enberg)
+- Update lodash to 4.18.1 (Pekka Enberg)
+- update napi-rs and js deps to current versions (Nikita Sivukhin)
+- Upgrade PyO3 to 0.28.2 and maturin to 1.12.6 (Kilian Hu)
+- deps: replace unmaintained `paste` with `pastey` (Ulrich Hornung)

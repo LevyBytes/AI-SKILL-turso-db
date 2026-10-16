@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Swift client configuration and sync options",
+      "file": "swift-client-configuration-and-sync-options.md",
+      "summary": "Open when using Swift client configuration and sync options.",
+      "keywords": ["Swift client configuration and sync options"]},
+    {
+      "topic": "Swift statements parameters and write visibility",
+      "file": "swift-statements-parameters-and-write-visibility.md",
+      "summary": "Open when using Swift statements parameters and write visibility.",
+      "keywords": ["Swift statements parameters and write visibility"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

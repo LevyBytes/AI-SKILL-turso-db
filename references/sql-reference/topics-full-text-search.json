@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Fulltext index tokenizers and field weights",
+      "file": "fulltext-index-tokenizers-and-field-weights.md",
+      "summary": "Open when using Fulltext index tokenizers and field weights.",
+      "keywords": ["Fulltext index tokenizers and field weights"]},
+    {
+      "topic": "Fulltext match and score functions",
+      "file": "fulltext-match-and-score-functions.md",
+      "summary": "Open when using Fulltext match and score functions.",
+      "keywords": ["Fulltext match and score functions"]},
+    {
+      "topic": "Fulltext highlighting and query syntax",
+      "file": "fulltext-highlighting-and-query-syntax.md",
+      "summary": "Open when using Fulltext highlighting and query syntax.",
+      "keywords": ["Fulltext highlighting and query syntax"]},
+    {
+      "topic": "Fulltext search query examples",
+      "file": "fulltext-search-query-examples.md",
+      "summary": "Open when using Fulltext search query examples.",
+      "keywords": ["Fulltext search query examples"]},
+    {
+      "topic": "Fulltext complete example and index optimization",
+      "file": "fulltext-complete-example-and-index-optimization.md",
+      "summary": "Open when using Fulltext complete example and index optimization.",
+      "keywords": ["Fulltext complete example and index optimization"]},
+    {
+      "topic": "Fulltext updates fts5 comparison and limits",
+      "file": "fulltext-updates-fts5-comparison-and-limits.md",
+      "summary": "Open when using Fulltext updates fts5 comparison and limits.",
+      "keywords": ["Fulltext updates fts5 comparison and limits"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

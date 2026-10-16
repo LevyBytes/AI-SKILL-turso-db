@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Alter table and column renaming",
+      "file": "alter-table-and-column-renaming.md",
+      "summary": "Open when using Alter table and column renaming.",
+      "keywords": ["Alter table and column renaming"]},
+    {
+      "topic": "Alter table column addition restrictions",
+      "file": "alter-table-column-addition-restrictions.md",
+      "summary": "Open when using Alter table column addition restrictions.",
+      "keywords": ["Alter table column addition restrictions"]},
+    {
+      "topic": "Alter table addition and drop restrictions",
+      "file": "alter-table-addition-and-drop-restrictions.md",
+      "summary": "Open when using Alter table addition and drop restrictions.",
+      "keywords": ["Alter table addition and drop restrictions"]},
+    {
+      "topic": "Alter table column removal and schema evolution",
+      "file": "alter-table-column-removal-and-schema-evolution.md",
+      "summary": "Open when using Alter table column removal and schema evolution.",
+      "keywords": ["Alter table column removal and schema evolution"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

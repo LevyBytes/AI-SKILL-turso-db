@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Authentication and audit",
+      "file": "topics-authentication-and-audit.json",
+      "summary": "Open when selecting authentication and audit endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Authentication and audit"]},
+    {
+      "topic": "Database configuration and upload",
+      "file": "topics-database-configuration-and-upload.json",
+      "summary": "Open when selecting database configuration and upload endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Database configuration and upload"]},
+    {
+      "topic": "Database lifecycle and credentials",
+      "file": "topics-database-lifecycle-and-credentials.json",
+      "summary": "Open when selecting database lifecycle and credentials endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Database lifecycle and credentials"]},
+    {
+      "topic": "Database inventory and usage",
+      "file": "topics-database-inventory-and-usage.json",
+      "summary": "Open when selecting database inventory and usage endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Database inventory and usage"]},
+    {
+      "topic": "Group lifecycle and configuration",
+      "file": "topics-group-lifecycle-and-configuration.json",
+      "summary": "Open when selecting group lifecycle and configuration endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Group lifecycle and configuration"]},
+    {
+      "topic": "Group SQL credentials",
+      "file": "topics-group-sql-credentials.json",
+      "summary": "Open when selecting group sql credentials endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Group SQL credentials"]},
+    {
+      "topic": "API onboarding",
+      "file": "topics-api-onboarding.json",
+      "summary": "Open when selecting api onboarding endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["API onboarding"]},
+    {
+      "topic": "Locations",
+      "file": "topics-locations.json",
+      "summary": "Open when selecting locations endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Locations"]},
+    {
+      "topic": "Organization invites and members",
+      "file": "topics-organization-invites-and-members.json",
+      "summary": "Open when selecting organization invites and members endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Organization invites and members"]},
+    {
+      "topic": "Organization settings and billing",
+      "file": "topics-organization-settings-and-billing.json",
+      "summary": "Open when selecting organization settings and billing endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Organization settings and billing"]},
+    {
+      "topic": "Platform tokens and user identity",
+      "file": "topics-platform-tokens-and-user-identity.json",
+      "summary": "Open when selecting platform tokens and user identity endpoints and their complete requests, authentication and response fields.",
+      "keywords": ["Platform tokens and user identity"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

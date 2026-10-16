@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript serverless client quickstart",
+      "file": "typescript-serverless-client-quickstart.md",
+      "summary": "Open when using TypeScript serverless client quickstart.",
+      "keywords": ["TypeScript serverless client quickstart"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

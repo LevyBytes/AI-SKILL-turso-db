@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Edge replica locations and availability",
+      "file": "edge-replica-locations-and-availability.md",
+      "summary": "Open when using Edge replica locations and availability.",
+      "keywords": ["Edge replica locations and availability"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

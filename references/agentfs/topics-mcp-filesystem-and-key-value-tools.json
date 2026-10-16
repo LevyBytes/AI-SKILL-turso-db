@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MCP server tools and access",
+      "file": "mcp-server-tools-and-access.md",
+      "summary": "Open when using MCP server tools and access.",
+      "keywords": ["MCP server tools and access"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

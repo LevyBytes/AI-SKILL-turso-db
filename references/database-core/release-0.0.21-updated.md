@@ -1,0 +1,43 @@
+# Turso 0.0.21: updated
+
+Open when checking these changes in Turso 0.0.21, released 2025-05-28. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.0.21-index.md)
+
+## Updated
+
+- Change WhereTerm::consumed into a Cell (Jussi Saurio)
+- In walk_expr(), use lifetimes so each child expr has the parent expr lifetime (Jussi Saurio)
+- Small VDBE insn tweaks (Jussi Saurio)
+- Reset idx delete state once finish succeeds (Pere Diaz Bou)
+- feature: support `INSERT INTO <table> SELECT` (Pedro Muniz)
+- Small pager/wal/vdbe cleanups, mostly naming (Jussi Saurio)
+- bindings/javascript: API enhancements (Diego Reis)
+- github: move workflows to Blacksmith runners (blacksmith-sh[bot])
+- UNION (Jussi Saurio)
+- Add xConnect support for virtual tables querying the core db connection (Preston Thorpe)
+- Rebuild WAL frame cache when opening WAL (Jussi Saurio)
+- Default to non-shared cache (Pere Diaz Bou)
+- Use criterion and nyrkio with TPC-H (Pedro Muniz)
+- UNION ALL (Jussi Saurio)
+- Make Drop Table OpCodes use Ephemeral Table as Scratch Table (Zaid Humayun)
+- sqlite3-parser: Remove scanner trace-logging (Pekka Enberg)
+- sqlite3: move to tracing logger (Pekka Enberg)
+- CSV virtual table extension (Piotr Rżysko)
+- Stop detecting comments in the middle of query in cli (Pedro Muniz)
+- btree: drop the assumption that every btree has a rowid (Jussi Saurio)
+- Emit rust backtrace in python tests (Preston Thorpe)
+- Optimization: hoist shared subexpressions from OR terms (Jussi Saurio)
+- refactor: use Table::FromClauseSubquery instead of Operation::Subquery (Jussi Saurio)
+- Feature: Collate (Pedro Muniz)
+- Update README.md (Yusheng Guo)
+- Mark WHERE terms consumed instead of removing them (Jussi Saurio)
+- Cli config 2 (Pedro Muniz)
+- pager: raise default page cache size from 10 to 2000 pages (Jussi Saurio)
+- Add long fuzz tests ci for btree changes (Pere Diaz Bou)
+- Document running `cargo test` on Ubuntu (Zaid Humayun)
+- test page_free_array (Pere Diaz Bou)
+- Rename OwnedValue -> Value (Pekka Enberg)
+- Improve SQLite3 C API tests (Pekka Enberg)
+- github: Disable setup-node yarn cache (Pekka Enberg)
+- Update Unique constraint handling for Primary Keys and Indexes (Pedro Muniz)

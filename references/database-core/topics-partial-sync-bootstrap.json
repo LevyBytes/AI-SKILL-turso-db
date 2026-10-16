@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Partial sync bootstrap and segment size",
+      "file": "partial-sync-bootstrap-and-segment-size.md",
+      "summary": "Open when using Partial sync bootstrap and segment size.",
+      "keywords": ["Partial sync bootstrap and segment size"]},
+    {
+      "topic": "Partial sync page prefetch",
+      "file": "partial-sync-page-prefetch.md",
+      "summary": "Open when using Partial sync page prefetch.",
+      "keywords": ["Partial sync page prefetch"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

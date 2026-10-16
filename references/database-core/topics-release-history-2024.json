@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Release 0.0.11 - 2024-12-31",
+      "file": "topics-release-0-0-11-2024-12-31.json",
+      "summary": "Open when reading Release 0.0.11 - 2024-12-31 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.11 - 2024-12-31"]},
+    {
+      "topic": "Release 0.0.10 - 2024-12-18",
+      "file": "topics-release-0-0-10-2024-12-18.json",
+      "summary": "Open when reading Release 0.0.10 - 2024-12-18 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.10 - 2024-12-18"]},
+    {
+      "topic": "Release 0.0.9 - 2024-12-12",
+      "file": "topics-release-0-0-9-2024-12-12.json",
+      "summary": "Open when reading Release 0.0.9 - 2024-12-12 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.9 - 2024-12-12"]},
+    {
+      "topic": "Release 0.0.8 - 2024-11-20",
+      "file": "topics-release-0-0-8-2024-11-20.json",
+      "summary": "Open when reading Release 0.0.8 - 2024-11-20 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.8 - 2024-11-20"]},
+    {
+      "topic": "Release 0.0.7 - 2024-11-20",
+      "file": "topics-release-0-0-7-2024-11-20.json",
+      "summary": "Open when reading Release 0.0.7 - 2024-11-20 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.7 - 2024-11-20"]},
+    {
+      "topic": "Release 0.0.6 - 2024-11-18",
+      "file": "topics-release-0-0-6-2024-11-18.json",
+      "summary": "Open when reading Release 0.0.6 - 2024-11-18 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.6 - 2024-11-18"]},
+    {
+      "topic": "Release 0.0.5 - 2024-11-18",
+      "file": "topics-release-0-0-5-2024-11-18.json",
+      "summary": "Open when reading Release 0.0.5 - 2024-11-18 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.5 - 2024-11-18"]},
+    {
+      "topic": "Release 0.0.4 - 2024-08-22",
+      "file": "topics-release-0-0-4-2024-08-22.json",
+      "summary": "Open when reading Release 0.0.4 - 2024-08-22 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.4 - 2024-08-22"]},
+    {
+      "topic": "Release 0.0.3 - 2024-08-01",
+      "file": "topics-release-0-0-3-2024-08-01.json",
+      "summary": "Open when reading Release 0.0.3 - 2024-08-01 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.3 - 2024-08-01"]},
+    {
+      "topic": "Release 0.0.2 - 2024-07-24",
+      "file": "topics-release-0-0-2-2024-07-24.json",
+      "summary": "Open when reading Release 0.0.2 - 2024-07-24 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.2 - 2024-07-24"]},
+    {
+      "topic": "Release 0.0.1 - 2024-07-17",
+      "file": "topics-release-0-0-1-2024-07-17.json",
+      "summary": "Open when reading Release 0.0.1 - 2024-07-17 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.1 - 2024-07-17"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

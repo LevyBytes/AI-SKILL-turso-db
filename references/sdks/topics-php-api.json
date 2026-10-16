@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "PHP client configuration and sync options",
+      "file": "php-client-configuration-and-sync-options.md",
+      "summary": "Open when using PHP client configuration and sync options.",
+      "keywords": ["PHP client configuration and sync options"]},
+    {
+      "topic": "PHP statements transactions and sync",
+      "file": "php-statements-transactions-and-sync.md",
+      "summary": "Open when using PHP statements transactions and sync.",
+      "keywords": ["PHP statements transactions and sync"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

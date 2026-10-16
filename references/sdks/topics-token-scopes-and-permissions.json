@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Database token scopes and permissions",
+      "file": "database-token-scopes-and-permissions.md",
+      "summary": "Open when using Database token scopes and permissions.",
+      "keywords": ["Database token scopes and permissions"]},
+    {
+      "topic": "Database role permission examples",
+      "file": "database-role-permission-examples.md",
+      "summary": "Open when using Database role permission examples.",
+      "keywords": ["Database role permission examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

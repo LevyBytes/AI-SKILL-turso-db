@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Quasar database server configuration",
+      "file": "quasar-database-server-configuration.md",
+      "summary": "Open when using Quasar database server configuration.",
+      "keywords": ["Quasar database server configuration"]},
+    {
+      "topic": "Quasar server items endpoint",
+      "file": "quasar-server-items-endpoint.md",
+      "summary": "Open when using Quasar server items endpoint.",
+      "keywords": ["Quasar server items endpoint"]},
+    {
+      "topic": "Quasar frontend data request",
+      "file": "quasar-frontend-data-request.md",
+      "summary": "Open when using Quasar frontend data request.",
+      "keywords": ["Quasar frontend data request"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

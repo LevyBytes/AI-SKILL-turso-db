@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Release 0.0.17 - 2025-03-19",
+      "file": "topics-release-0-0-17-2025-03-19.json",
+      "summary": "Open when reading Release 0.0.17 - 2025-03-19 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.17 - 2025-03-19"]},
+    {
+      "topic": "Release 0.0.16 - 2025-03-05",
+      "file": "topics-release-0-0-16-2025-03-05.json",
+      "summary": "Open when reading Release 0.0.16 - 2025-03-05 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.16 - 2025-03-05"]},
+    {
+      "topic": "Release 0.0.15 - 2025-02-18",
+      "file": "topics-release-0-0-15-2025-02-18.json",
+      "summary": "Open when reading Release 0.0.15 - 2025-02-18 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.15 - 2025-02-18"]},
+    {
+      "topic": "Release 0.0.14 - 2025-02-04",
+      "file": "topics-release-0-0-14-2025-02-04.json",
+      "summary": "Open when reading Release 0.0.14 - 2025-02-04 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.14 - 2025-02-04"]},
+    {
+      "topic": "Release 0.0.13 - 2025-01-19",
+      "file": "topics-release-0-0-13-2025-01-19.json",
+      "summary": "Open when reading Release 0.0.13 - 2025-01-19 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.13 - 2025-01-19"]},
+    {
+      "topic": "Release 0.0.12 - 2025-01-14",
+      "file": "topics-release-0-0-12-2025-01-14.json",
+      "summary": "Open when reading Release 0.0.12 - 2025-01-14 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.12 - 2025-01-14"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

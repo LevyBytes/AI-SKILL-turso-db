@@ -1,0 +1,42 @@
+# Turso 0.1.5: updated transactions and storage
+
+Open when checking these changes in Turso 0.1.5, released 2025-09-10. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.1.5-index.md)
+
+## Updated
+
+- reduce cloning `Arc<Page>` (Lâm Hoàng Phúc)
+- Block encryption key setting when keys are already set (Gaurav Sarma)
+- Page Cache: replace LRU with optimized sieve/Gclock hybird algorithm (Preston Thorpe)
+- io_uring: prevent out of order operations that could harm durability (Preston Thorpe)
+- core: Simplify WalFileShared life cycle (Pekka Enberg)
+- core/mvcc: have commit_txn return on I/O (Pere Diaz Bou)
+- Make io_uring sound when connections run on multiple threads (Preston Thorpe)
+- Refactor encryption so authentication tag is managed internally (bit-aloo)
+- Evict cache page when the page is both unlocked and unloaded (Pedro Muniz)
+- Use u64 for I/O file offsets and compute those offsets as u64 (Preston Thorpe)
+- core/wal: cache file size (Pere Diaz Bou)
+- Improve integrity check (Nikita Sivukhin)
+- core/io: Move Unix I/O over to libc::pwrite() (Pekka Enberg)
+- core/storage: Micro-optimize Pager::commit_dirty_pages() (Pekka Enberg)
+- Refactor connection storage of `CipherMode` to use `Cell` instead of `RefCell` (Avinash Sajjanshetty)
+- Improve page pinning documentation (Jussi Saurio)
+- Make fill_cell_payload() safe with async IO and cache spilling (Jussi Saurio)
+- Replace Windows IO with Generic IO (Preston Thorpe)
+- Improve encryption API (Avinash Sajjanshetty)
+- Truncate WAL when the last connection closes (Preston Thorpe)
+- Append WAL frames using vectored I/O (Preston Thorpe)
+- Remove needless argument from Pager::end_tx() (Nikita Sivukhin)
+- refactor/btree: rework find_free_cell() function (Jussi Saurio)
+- refactor/btree: rework free_cell_range() function (Jussi Saurio)
+- refactor encryption module and allow configuration (Avinash Sajjanshetty)
+- wal-api: permit frames insert to mix with SQL execution (Nikita Sivukhin)
+- Do not return a Completion on page cache hit (Pedro Muniz)
+- Page cache truncate (Nikita Sivukhin)
+- Wal api checkpoint seq (Nikita Sivukhin)
+- Remove hardcoded encryption flag usage in DBHeader (Avinash Sajjanshetty)
+- Wal checkpoint upper bound (Nikita Sivukhin)
+- Improve WAL checkpointing performance (Preston Thorpe)
+- core/mvcc: keep txid in conn and reset transaction state at commit (Pere Diaz Bou)
+- core/mvcc: begin first rowid at 1 (Pere Diaz Bou)

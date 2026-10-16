@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Release 0.1.1 -- 2025-06-30",
+      "file": "topics-release-0-1-1-2025-06-30.json",
+      "summary": "Open when reading Release 0.1.1 -- 2025-06-30 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.1.1 -- 2025-06-30"]},
+    {
+      "topic": "Release 0.1.0 -- 2025-06-30",
+      "file": "topics-release-0-1-0-2025-06-30.json",
+      "summary": "Open when reading Release 0.1.0 -- 2025-06-30 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.1.0 -- 2025-06-30"]},
+    {
+      "topic": "Release 0.0.22 -- 2025-06-19",
+      "file": "topics-release-0-0-22-2025-06-19.json",
+      "summary": "Open when reading Release 0.0.22 -- 2025-06-19 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.22 -- 2025-06-19"]},
+    {
+      "topic": "Release 0.0.21 - 2025-05-28",
+      "file": "topics-release-0-0-21-2025-05-28.json",
+      "summary": "Open when reading Release 0.0.21 - 2025-05-28 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.21 - 2025-05-28"]},
+    {
+      "topic": "Release 0.0.20 - 2025-05-14",
+      "file": "topics-release-0-0-20-2025-05-14.json",
+      "summary": "Open when reading Release 0.0.20 - 2025-05-14 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.20 - 2025-05-14"]},
+    {
+      "topic": "Release 0.0.19 - 2025-04-16",
+      "file": "topics-release-0-0-19-2025-04-16.json",
+      "summary": "Open when reading Release 0.0.19 - 2025-04-16 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.19 - 2025-04-16"]},
+    {
+      "topic": "Release 0.0.18 - 2025-04-02",
+      "file": "topics-release-0-0-18-2025-04-02.json",
+      "summary": "Open when reading Release 0.0.18 - 2025-04-02 and matching its exact source version, setup and conditions.",
+      "keywords": ["Release 0.0.18 - 2025-04-02"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "C installation credentials and example routes",
+      "file": "c-installation-credentials-and-example-routes.md",
+      "summary": "Open when using C installation credentials and example routes.",
+      "keywords": ["C installation credentials and example routes"]},
+    {
+      "topic": "C connections queries and sync",
+      "file": "c-connections-queries-and-sync.md",
+      "summary": "Open when using C connections queries and sync.",
+      "keywords": ["C connections queries and sync"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

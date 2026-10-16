@@ -1,0 +1,43 @@
+# Turso 0.1.3: added
+
+Open when checking these changes in Turso 0.1.3, released 2025-07-29. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.1.3-index.md)
+
+## Added
+
+- bindings/rust: Add WAL API support (Nikita Sivukhin)
+- Add Returning statement support for inserts and updates (Glauber Costa)
+- Add pragma encoding implementation (Glauber Costa)
+- support doubly qualified identifiers (Glauber Costa)
+- Mark detach support as available (Glauber Costa)
+- Add ATTACH support in read only mode (Glauber Costa)
+- serverless: Add DatabasError type (Pekka Enberg)
+- btree/balance: handle overflow in immediate parent page of unbalanced child page (Jussi Saurio)
+- serverless: Add Statement.run() method (Pekka Enberg)
+- Have add dirty set the change flag and add page to dirty list (Nikita Sivukhin)
+- types: make ImmutableRecord Debug implementation less noisy (Jussi Saurio)
+- Add safe `AtomicUsize` wrapper for `db_state` with `DbState` and `AtomicDbState` (Levy A.)
+- Introduce Github workflow for Turso serverless package (Pekka Enberg)
+- Place Rickrolling Turso blog post in contrib (Avinash Sajjanshetty)
+- Add `@tursodatabase/serverless` package (Pekka Enberg)
+- Implement pragma database_list (Glauber Costa)
+- fix/test: repair and unignore incorrectly implemented test (Jussi Saurio)
+- Add Debug implementation for Database (Glauber Costa)
+- implement pragma application_id (Glauber Costa)
+- Implement the write side of pragma schema_version (Glauber Costa)
+- Simplify blocking operations by adding `io.block(fn)` for IO trait implementors (Levy A.)
+- bindings/rust: add initial transactions API support (Diego Reis)
+- Record that claude sonnet skipped clippy while implementing mcp server (Jussi Saurio)
+- bindings/js: support iterator plus additional params kinds (Mikaël Francoeur)
+- Add native MCP server (Glauber Costa)
+- sim: add order by to selected queries (Jussi Saurio)
+- Core: Introduce external sorting (Iaroslav Zeigerman)
+- Set state to NewTrunk when leaf pages exceed free entries (Pedro Muniz)
+- Implement simulator IO latency correctly (Pedro Muniz)
+- Temporarily raise default page cache size until WAL spill exists (Jussi Saurio)
+- compat: add integrity_check (Pere Diaz Bou)
+- sim: include more context with assertion failures (Jussi Saurio)
+- btree: add assertions tied to #2106 (Jussi Saurio)
+- bench: add insert benchmark (batch sizes: 1,10,100) (Jussi Saurio)
+- Support page_size pragma setting (meteorgan)

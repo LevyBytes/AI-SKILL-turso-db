@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Memory schema connection and storage",
+      "file": "memory-schema-connection-and-storage.md",
+      "summary": "Open when using Memory schema connection and storage.",
+      "keywords": ["Memory schema connection and storage"]},
+    {
+      "topic": "Memory retrieval correction and task tracking",
+      "file": "memory-retrieval-correction-and-task-tracking.md",
+      "summary": "Open when using Memory retrieval correction and task tracking.",
+      "keywords": ["Memory retrieval correction and task tracking"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

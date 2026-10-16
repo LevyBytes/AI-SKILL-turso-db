@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rust libSQL replicas sync and encryption",
+      "file": "rust-libsql-replicas-sync-and-encryption.md",
+      "summary": "Open when using Rust libSQL replicas sync and encryption.",
+      "keywords": ["Rust libSQL replicas sync and encryption"]},
+    {
+      "topic": "Rust libSQL queries and transactions",
+      "file": "rust-libsql-queries-and-transactions.md",
+      "summary": "Open when using Rust libSQL queries and transactions.",
+      "keywords": ["Rust libSQL queries and transactions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

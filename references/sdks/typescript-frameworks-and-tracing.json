@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript Astro",
+      "file": "topics-typescript-astro.json",
+      "summary": "Open when using TypeScript Astro and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Astro"]},
+    {
+      "topic": "TypeScript Elysia",
+      "file": "topics-typescript-elysia.json",
+      "summary": "Open when using TypeScript Elysia and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Elysia"]},
+    {
+      "topic": "TypeScript Hono",
+      "file": "topics-typescript-hono.json",
+      "summary": "Open when using TypeScript Hono and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Hono"]},
+    {
+      "topic": "TypeScript Next.js",
+      "file": "topics-typescript-next-js.json",
+      "summary": "Open when using TypeScript Next.js and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Next.js"]},
+    {
+      "topic": "TypeScript Nuxt",
+      "file": "topics-typescript-nuxt.json",
+      "summary": "Open when using TypeScript Nuxt and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Nuxt"]},
+    {
+      "topic": "TypeScript Quasar",
+      "file": "topics-typescript-quasar.json",
+      "summary": "Open when using TypeScript Quasar and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Quasar"]},
+    {
+      "topic": "TypeScript Qwik",
+      "file": "topics-typescript-qwik.json",
+      "summary": "Open when using TypeScript Qwik and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Qwik"]},
+    {
+      "topic": "TypeScript Remix",
+      "file": "topics-typescript-remix.json",
+      "summary": "Open when using TypeScript Remix and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Remix"]},
+    {
+      "topic": "TypeScript SvelteKit",
+      "file": "topics-typescript-sveltekit.json",
+      "summary": "Open when using TypeScript SvelteKit and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript SvelteKit"]},
+    {
+      "topic": "TypeScript Sentry",
+      "file": "topics-typescript-sentry.json",
+      "summary": "Open when using TypeScript Sentry and matching its documented setup, APIs and limitations.",
+      "keywords": ["TypeScript Sentry"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

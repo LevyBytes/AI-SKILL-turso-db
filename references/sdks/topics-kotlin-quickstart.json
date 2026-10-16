@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Kotlin installation and local connections",
+      "file": "kotlin-installation-and-local-connections.md",
+      "summary": "Open when using Kotlin installation and local connections.",
+      "keywords": ["Kotlin installation and local connections"]},
+    {
+      "topic": "Kotlin remote queries and replica sync",
+      "file": "kotlin-remote-queries-and-replica-sync.md",
+      "summary": "Open when using Kotlin remote queries and replica sync.",
+      "keywords": ["Kotlin remote queries and replica sync"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

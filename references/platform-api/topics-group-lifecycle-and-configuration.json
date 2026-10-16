@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Retrieve group configuration",
+      "file": "retrieve-group-configuration.md",
+      "summary": "Open when using Retrieve group configuration.",
+      "keywords": ["Retrieve group configuration"]},
+    {
+      "topic": "Create group requests and fields",
+      "file": "create-group-requests-and-fields.md",
+      "summary": "Open when using Create group requests and fields.",
+      "keywords": ["Create group requests and fields"]},
+    {
+      "topic": "Group response fields",
+      "file": "group-response-fields.md",
+      "summary": "Open when using Group response fields.",
+      "keywords": ["Group response fields"]},
+    {
+      "topic": "Delete group",
+      "file": "delete-group.md",
+      "summary": "Open when using Delete group.",
+      "keywords": ["Delete group"]},
+    {
+      "topic": "List groups",
+      "file": "list-groups.md",
+      "summary": "Open when using List groups.",
+      "keywords": ["List groups"]},
+    {
+      "topic": "Retrieve group details",
+      "file": "retrieve-group-details.md",
+      "summary": "Open when using Retrieve group details.",
+      "keywords": ["Retrieve group details"]},
+    {
+      "topic": "Transfer group request",
+      "file": "transfer-group-request.md",
+      "summary": "Open when using Transfer group request.",
+      "keywords": ["Transfer group request"]},
+    {
+      "topic": "Transfer group response fields",
+      "file": "transfer-group-response-fields.md",
+      "summary": "Open when using Transfer group response fields.",
+      "keywords": ["Transfer group response fields"]},
+    {
+      "topic": "Unarchive group",
+      "file": "unarchive-group.md",
+      "summary": "Open when using Unarchive group.",
+      "keywords": ["Unarchive group"]},
+    {
+      "topic": "Update group configuration",
+      "file": "update-group-configuration.md",
+      "summary": "Open when using Update group configuration.",
+      "keywords": ["Update group configuration"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

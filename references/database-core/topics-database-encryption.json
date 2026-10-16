@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Encryption coverage and key generation",
+      "file": "encryption-coverage-and-key-generation.md",
+      "summary": "Open when using Encryption coverage and key generation.",
+      "keywords": ["Encryption coverage and key generation"]},
+    {
+      "topic": "Encrypted database creation and ciphers",
+      "file": "encrypted-database-creation-and-ciphers.md",
+      "summary": "Open when using Encrypted database creation and ciphers.",
+      "keywords": ["Encrypted database creation and ciphers"]},
+    {
+      "topic": "Encryption uri parameters and performance",
+      "file": "encryption-uri-parameters-and-performance.md",
+      "summary": "Open when using Encryption uri parameters and performance.",
+      "keywords": ["Encryption uri parameters and performance"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

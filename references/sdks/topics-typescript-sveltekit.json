@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Sveltekit private client and server load",
+      "file": "sveltekit-private-client-and-server-load.md",
+      "summary": "Open when using Sveltekit private client and server load.",
+      "keywords": ["Sveltekit private client and server load"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

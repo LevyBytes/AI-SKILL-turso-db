@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Database urls and authentication",
+      "file": "database-urls-and-authentication.md",
+      "summary": "Open when using Database urls and authentication.",
+      "keywords": ["Database urls and authentication"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "SDK package selection",
+      "file": "topics-sdk-package-selection.json",
+      "summary": "Open when using SDK package selection and matching its documented setup, APIs and limitations.",
+      "keywords": ["SDK package selection"]},
+    {
+      "topic": "SDK community package selection",
+      "file": "topics-sdk-community-package-selection.json",
+      "summary": "Open when using SDK community package selection and matching its documented setup, APIs and limitations.",
+      "keywords": ["SDK community package selection"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

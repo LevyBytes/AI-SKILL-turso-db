@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "MVCC setup and conflict handling",
+      "file": "mvcc-setup-and-conflict-handling.md",
+      "summary": "Open when using MVCC setup and conflict handling.",
+      "keywords": ["MVCC setup and conflict handling"]},
+    {
+      "topic": "Rust MVCC transaction retries",
+      "file": "rust-mvcc-transaction-retries.md",
+      "summary": "Open when using Rust MVCC transaction retries.",
+      "keywords": ["Rust MVCC transaction retries"]},
+    {
+      "topic": "JavaScript MVCC transaction retries",
+      "file": "javascript-mvcc-transaction-retries.md",
+      "summary": "Open when using JavaScript MVCC transaction retries.",
+      "keywords": ["JavaScript MVCC transaction retries"]},
+    {
+      "topic": "Python MVCC transaction retries",
+      "file": "python-mvcc-transaction-retries.md",
+      "summary": "Open when using Python MVCC transaction retries.",
+      "keywords": ["Python MVCC transaction retries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

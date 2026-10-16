@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Installation platforms and shell completions",
+      "file": "installation-platforms-and-shell-completions.md",
+      "summary": "Open when using Installation platforms and shell completions.",
+      "keywords": ["Installation platforms and shell completions"]},
+    {
+      "topic": "Build AgentFS from source",
+      "file": "build-agentfs-from-source.md",
+      "summary": "Open when using Build AgentFS from source.",
+      "keywords": ["Build AgentFS from source"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

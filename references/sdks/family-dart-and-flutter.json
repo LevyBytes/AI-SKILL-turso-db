@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Dart connection",
+      "file": "topics-dart-connection.json",
+      "summary": "Open when using Dart connection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Dart connection"]},
+    {
+      "topic": "Flutter example projects",
+      "file": "topics-flutter-example-repository-capture.json",
+      "summary": "Open when using Flutter example projects and matching its documented setup, APIs and limitations.",
+      "keywords": ["Flutter example projects"]},
+    {
+      "topic": "Flutter application guide",
+      "file": "topics-flutter-application-guide.json",
+      "summary": "Open when using Flutter application guide and matching its documented setup, APIs and limitations.",
+      "keywords": ["Flutter application guide"]},
+    {
+      "topic": "Flutter quickstart",
+      "file": "topics-flutter-quickstart.json",
+      "summary": "Open when using Flutter quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Flutter quickstart"]},
+    {
+      "topic": "Flutter libsql_dart API",
+      "file": "topics-flutter-libsql-dart-api.json",
+      "summary": "Open when using Flutter libsql_dart API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Flutter libsql_dart API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

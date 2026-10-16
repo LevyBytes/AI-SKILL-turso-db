@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Rust local connection and queries",
+      "file": "rust-local-connection-and-queries.md",
+      "summary": "Open when using Rust local connection and queries.",
+      "keywords": ["Rust local connection and queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

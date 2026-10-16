@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Point in time database recovery",
+      "file": "point-in-time-database-recovery.md",
+      "summary": "Open when using Point in time database recovery.",
+      "keywords": ["Point in time database recovery"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

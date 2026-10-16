@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Database authentication",
+      "file": "topics-database-authentication.json",
+      "summary": "Open when using Database authentication and matching its documented setup, APIs and limitations.",
+      "keywords": ["Database authentication"]},
+    {
+      "topic": "Token scopes and permissions",
+      "file": "topics-token-scopes-and-permissions.json",
+      "summary": "Open when using Token scopes and permissions and matching its documented setup, APIs and limitations.",
+      "keywords": ["Token scopes and permissions"]},
+    {
+      "topic": "JWKS endpoints",
+      "file": "topics-jwks-endpoints.json",
+      "summary": "Open when using JWKS endpoints and matching its documented setup, APIs and limitations.",
+      "keywords": ["JWKS endpoints"]},
+    {
+      "topic": "Token expiration and invalidation",
+      "file": "topics-token-expiration-and-invalidation.json",
+      "summary": "Open when using Token expiration and invalidation and matching its documented setup, APIs and limitations.",
+      "keywords": ["Token expiration and invalidation"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

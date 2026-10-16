@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Insert syntax and row values",
+      "file": "insert-syntax-and-row-values.md",
+      "summary": "Open when using Insert syntax and row values.",
+      "keywords": ["Insert syntax and row values"]},
+    {
+      "topic": "Insert select and default values",
+      "file": "insert-select-and-default-values.md",
+      "summary": "Open when using Insert select and default values.",
+      "keywords": ["Insert select and default values"]},
+    {
+      "topic": "Insert conflicts and returning",
+      "file": "insert-conflicts-and-returning.md",
+      "summary": "Open when using Insert conflicts and returning.",
+      "keywords": ["Insert conflicts and returning"]},
+    {
+      "topic": "Insert subquery and archival examples",
+      "file": "insert-subquery-and-archival-examples.md",
+      "summary": "Open when using Insert subquery and archival examples.",
+      "keywords": ["Insert subquery and archival examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

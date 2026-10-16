@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Turso Database Core", "file": "references/database-core/SKILL.md", "summary": "Open when working with Turso Database or libSQL introductions, quickstarts, local development, beta features, sync, vector search, or database concepts.", "keywords": ["Turso Database Core"]},
+    {"topic": "Turso SQL Reference", "file": "references/sql-reference/SKILL.md", "summary": "Open when checking Turso SQL types, expressions, functions, PRAGMAs, statements, extensions, shell options, or SQLite compatibility.", "keywords": ["Turso SQL Reference"]},
+    {"topic": "Turso SDKs", "file": "references/sdks/SKILL.md", "summary": "Open when connecting through Turso client SDKs, SQL over HTTP, ORMs, framework integrations, or SDK authentication and authorization.", "keywords": ["Turso SDKs"]},
+    {"topic": "Turso Cloud", "file": "references/turso-cloud/SKILL.md", "summary": "Open when configuring managed Turso Cloud access rules, durability, encryption, private endpoints, migrations, branches, embedded replicas, billing, or hosting integrations.", "keywords": ["Turso Cloud"]},
+    {"topic": "Turso CLI", "file": "references/cli/SKILL.md", "summary": "Open when using Turso CLI installation, authentication, headless mode, tokens, databases, groups, organizations, plans, or help.", "keywords": ["Turso CLI"]},
+    {"topic": "Turso Platform API", "file": "references/platform-api/SKILL.md", "summary": "Open when calling Turso Platform API endpoints for authentication, databases, groups, locations, organizations, members, plans, usage, or tokens.", "keywords": ["Turso Platform API"]},
+    {"topic": "AgentFS", "file": "references/agentfs/SKILL.md", "summary": "Open when using AgentFS installation, CLI commands, audit logs, copy-on-write overlays, MCP, NFS, sandboxing, shared sessions, sync, or SDKs.", "keywords": ["AgentFS"]},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of this skill's references other than English.", "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

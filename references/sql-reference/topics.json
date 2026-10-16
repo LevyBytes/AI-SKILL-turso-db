@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "SQL shell and compatibility",
+      "file": "topics-sql-shell-and-compatibility.json",
+      "summary": "Open when selecting Command-Line Options, Getting Started, Shell Commands, SQLite Compatibility syntax, examples and restrictions.",
+      "keywords": ["SQL shell and compatibility"]},
+    {
+      "topic": "Data types and experimental setup",
+      "file": "topics-data-types-and-experimental-setup.json",
+      "summary": "Open when selecting Data Types, Experimental Features syntax, examples and restrictions.",
+      "keywords": ["Data types and experimental setup"]},
+    {
+      "topic": "Expressions and extensions",
+      "file": "topics-expressions-and-extensions.json",
+      "summary": "Open when selecting Expressions, Extensions syntax, examples and restrictions.",
+      "keywords": ["Expressions and extensions"]},
+    {
+      "topic": "Aggregate and math functions",
+      "file": "topics-aggregate-and-math-functions.json",
+      "summary": "Open when selecting Aggregate Functions, Math Functions syntax, examples and restrictions.",
+      "keywords": ["Aggregate and math functions"]},
+    {
+      "topic": "Array and JSON operations",
+      "file": "topics-array-and-json-operations.json",
+      "summary": "Open when selecting Array Functions, JSON Functions syntax, examples and restrictions.",
+      "keywords": ["Array and JSON operations"]},
+    {
+      "topic": "Scalar and date-time functions",
+      "file": "topics-scalar-and-date-time-functions.json",
+      "summary": "Open when selecting Scalar Functions, Date and Time Functions syntax, examples and restrictions.",
+      "keywords": ["Scalar and date-time functions"]},
+    {
+      "topic": "Full-text and vector search",
+      "file": "topics-full-text-and-vector-search.json",
+      "summary": "Open when selecting Full-Text Search, Vector Functions syntax, examples and restrictions.",
+      "keywords": ["Full-text and vector search"]},
+    {
+      "topic": "Window Functions",
+      "file": "topics-window-functions.json",
+      "summary": "Open when using Window Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Window Functions"]},
+    {
+      "topic": "Database processes and pragmas",
+      "file": "topics-database-processes-and-pragmas.json",
+      "summary": "Open when selecting Multi-Process Access, PRAGMA Statements syntax, examples and restrictions.",
+      "keywords": ["Database processes and pragmas"]},
+    {
+      "topic": "Tables, indexes, views and triggers",
+      "file": "topics-tables-indexes-views-and-triggers.json",
+      "summary": "Open when selecting ALTER TABLE, CREATE INDEX, CREATE MATERIALIZED VIEW, CREATE TABLE, CREATE TRIGGER, CREATE VIEW, CREATE VIRTUAL TABLE, DROP INDEX, DROP TABLE, DROP TRIGGER, DROP VIEW syntax, examples and restrictions.",
+      "keywords": ["Tables, indexes, views and triggers"]},
+    {
+      "topic": "Custom types and domains",
+      "file": "topics-custom-types-and-domains.json",
+      "summary": "Open when selecting CREATE DOMAIN, CREATE TYPE, DROP DOMAIN, DROP TYPE syntax, examples and restrictions.",
+      "keywords": ["Custom types and domains"]},
+    {
+      "topic": "Queries and row changes",
+      "file": "topics-queries-and-row-changes.json",
+      "summary": "Open when selecting SELECT, INSERT, REPLACE, DELETE, UPDATE, INSERT … ON CONFLICT (Upsert) syntax, examples and restrictions.",
+      "keywords": ["Queries and row changes"]},
+    {
+      "topic": "Transactions and database maintenance",
+      "file": "topics-transactions-and-database-maintenance.json",
+      "summary": "Open when selecting Transactions, ANALYZE, EXPLAIN, ATTACH DATABASE, DETACH DATABASE, VACUUM syntax, examples and restrictions.",
+      "keywords": ["Transactions and database maintenance"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

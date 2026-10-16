@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Go connection",
+      "file": "topics-go-connection.json",
+      "summary": "Open when using Go connection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go connection"]},
+    {
+      "topic": "Go example projects",
+      "file": "topics-go-example-repository-capture.json",
+      "summary": "Open when using Go example projects and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go example projects"]},
+    {
+      "topic": "Go tursogo quickstart",
+      "file": "topics-go-tursogo-quickstart.json",
+      "summary": "Open when using Go tursogo quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go tursogo quickstart"]},
+    {
+      "topic": "Go remote quickstart",
+      "file": "topics-go-remote-quickstart.json",
+      "summary": "Open when using Go remote quickstart and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go remote quickstart"]},
+    {
+      "topic": "Go embedded replica selection",
+      "file": "topics-go-embedded-replica-pointer.json",
+      "summary": "Open when using Go embedded replica selection and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go embedded replica selection"]},
+    {
+      "topic": "Go tursogo API",
+      "file": "topics-go-tursogo-api.json",
+      "summary": "Open when using Go tursogo API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go tursogo API"]},
+    {
+      "topic": "Go libsql-client-go API",
+      "file": "topics-go-libsql-client-go-api.json",
+      "summary": "Open when using Go libsql-client-go API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go libsql-client-go API"]},
+    {
+      "topic": "Go go-libsql API",
+      "file": "topics-go-go-libsql-api.json",
+      "summary": "Open when using Go go-libsql API and matching its documented setup, APIs and limitations.",
+      "keywords": ["Go go-libsql API"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

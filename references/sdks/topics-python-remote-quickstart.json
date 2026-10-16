@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Python remote libSQL quickstart",
+      "file": "python-remote-libsql-quickstart.md",
+      "summary": "Open when using Python remote libSQL quickstart.",
+      "keywords": ["Python remote libSQL quickstart"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

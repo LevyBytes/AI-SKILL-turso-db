@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "SELECT",
+      "file": "topics-select.json",
+      "summary": "Open when using SELECT and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["SELECT"]},
+    {
+      "topic": "INSERT",
+      "file": "topics-insert.json",
+      "summary": "Open when using INSERT and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["INSERT"]},
+    {
+      "topic": "REPLACE",
+      "file": "topics-replace.json",
+      "summary": "Open when using REPLACE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["REPLACE"]},
+    {
+      "topic": "DELETE",
+      "file": "topics-delete.json",
+      "summary": "Open when using DELETE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["DELETE"]},
+    {
+      "topic": "UPDATE",
+      "file": "topics-update.json",
+      "summary": "Open when using UPDATE and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["UPDATE"]},
+    {
+      "topic": "INSERT … ON CONFLICT (Upsert)",
+      "file": "topics-insert-on-conflict-upsert.json",
+      "summary": "Open when using INSERT … ON CONFLICT (Upsert) and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["INSERT … ON CONFLICT (Upsert)"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

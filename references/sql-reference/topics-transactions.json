@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Transaction begin commit and rollback",
+      "file": "transaction-begin-commit-and-rollback.md",
+      "summary": "Open when using Transaction begin commit and rollback.",
+      "keywords": ["Transaction begin commit and rollback"]},
+    {
+      "topic": "Transaction lifecycle and concurrent writes",
+      "file": "transaction-lifecycle-and-concurrent-writes.md",
+      "summary": "Open when using Transaction lifecycle and concurrent writes.",
+      "keywords": ["Transaction lifecycle and concurrent writes"]},
+    {
+      "topic": "Concurrent transaction example",
+      "file": "concurrent-transaction-example.md",
+      "summary": "Open when using Concurrent transaction example.",
+      "keywords": ["Concurrent transaction example"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

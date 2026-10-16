@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "TypeScript package and runtime selection",
+      "file": "typescript-package-and-runtime-selection.md",
+      "summary": "Open when using TypeScript package and runtime selection.",
+      "keywords": ["TypeScript package and runtime selection"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

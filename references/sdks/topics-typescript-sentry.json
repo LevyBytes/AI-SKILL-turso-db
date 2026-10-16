@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Sentry libSQL tracing and error options",
+      "file": "sentry-libsql-tracing-and-error-options.md",
+      "summary": "Open when using Sentry libSQL tracing and error options.",
+      "keywords": ["Sentry libSQL tracing and error options"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

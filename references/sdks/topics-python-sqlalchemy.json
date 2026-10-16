@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Sqlalchemy installation and model",
+      "file": "sqlalchemy-installation-and-model.md",
+      "summary": "Open when using Sqlalchemy installation and model.",
+      "keywords": ["Sqlalchemy installation and model"]},
+    {
+      "topic": "Sqlalchemy connections and queries",
+      "file": "sqlalchemy-connections-and-queries.md",
+      "summary": "Open when using Sqlalchemy connections and queries.",
+      "keywords": ["Sqlalchemy connections and queries"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

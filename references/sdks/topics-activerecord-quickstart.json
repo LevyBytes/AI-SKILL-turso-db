@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Activerecord credentials and installation",
+      "file": "activerecord-credentials-and-installation.md",
+      "summary": "Open when using Activerecord credentials and installation.",
+      "keywords": ["Activerecord credentials and installation"]},
+    {
+      "topic": "Activerecord connections and models",
+      "file": "activerecord-connections-and-models.md",
+      "summary": "Open when using Activerecord connections and models.",
+      "keywords": ["Activerecord connections and models"]},
+    {
+      "topic": "Activerecord migrations crud and associations",
+      "file": "activerecord-migrations-crud-and-associations.md",
+      "summary": "Open when using Activerecord migrations crud and associations.",
+      "keywords": ["Activerecord migrations crud and associations"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

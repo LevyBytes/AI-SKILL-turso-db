@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Database branches and CI automation",
+      "file": "database-branches-and-ci-automation.md",
+      "summary": "Open when using Database branches and CI automation.",
+      "keywords": ["Database branches and CI automation"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

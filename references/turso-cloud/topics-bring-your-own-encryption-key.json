@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "BYOK protection and key generation",
+      "file": "byok-protection-and-key-generation.md",
+      "summary": "Open when using BYOK protection and key generation.",
+      "keywords": ["BYOK protection and key generation"]},
+    {
+      "topic": "Encrypted database creation upload and branching",
+      "file": "encrypted-database-creation-upload-and-branching.md",
+      "summary": "Open when using Encrypted database creation upload and branching.",
+      "keywords": ["Encrypted database creation upload and branching"]},
+    {
+      "topic": "Encryption ciphers and key sizes",
+      "file": "encryption-ciphers-and-key-sizes.md",
+      "summary": "Open when using Encryption ciphers and key sizes.",
+      "keywords": ["Encryption ciphers and key sizes"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

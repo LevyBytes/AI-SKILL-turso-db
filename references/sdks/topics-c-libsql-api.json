@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "C database connections and sync options",
+      "file": "c-database-connections-and-sync-options.md",
+      "summary": "Open when using C database connections and sync options.",
+      "keywords": ["C database connections and sync options"]},
+    {
+      "topic": "C statements transactions and resource cleanup",
+      "file": "c-statements-transactions-and-resource-cleanup.md",
+      "summary": "Open when using C statements transactions and resource cleanup.",
+      "keywords": ["C statements transactions and resource cleanup"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

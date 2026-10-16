@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Get database configuration example",
+      "file": "get-database-configuration-example.md",
+      "summary": "Open when using Get database configuration example.",
+      "keywords": ["Get database configuration example"]},
+    {
+      "topic": "Get database configuration fields",
+      "file": "get-database-configuration-fields.md",
+      "summary": "Open when using Get database configuration fields.",
+      "keywords": ["Get database configuration fields"]},
+    {
+      "topic": "Update database configuration example",
+      "file": "update-database-configuration-example.md",
+      "summary": "Open when using Update database configuration example.",
+      "keywords": ["Update database configuration example"]},
+    {
+      "topic": "Update database configuration request fields",
+      "file": "update-database-configuration-request-fields.md",
+      "summary": "Open when using Update database configuration request fields.",
+      "keywords": ["Update database configuration request fields"]},
+    {
+      "topic": "Update database configuration response fields",
+      "file": "update-database-configuration-response-fields.md",
+      "summary": "Open when using Update database configuration response fields.",
+      "keywords": ["Update database configuration response fields"]},
+    {
+      "topic": "Upload SQLite database file",
+      "file": "upload-sqlite-database-file.md",
+      "summary": "Open when using Upload SQLite database file.",
+      "keywords": ["Upload SQLite database file"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

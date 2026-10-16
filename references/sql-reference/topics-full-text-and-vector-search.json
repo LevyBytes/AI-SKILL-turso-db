@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Full-Text Search",
+      "file": "topics-full-text-search.json",
+      "summary": "Open when using Full-Text Search and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Full-Text Search"]},
+    {
+      "topic": "Vector Functions",
+      "file": "topics-vector-functions.json",
+      "summary": "Open when using Vector Functions and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Vector Functions"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

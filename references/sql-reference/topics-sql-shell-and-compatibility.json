@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Command-Line Options",
+      "file": "topics-command-line-options.json",
+      "summary": "Open when using Command-Line Options and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Command-Line Options"]},
+    {
+      "topic": "Getting Started",
+      "file": "topics-getting-started.json",
+      "summary": "Open when using Getting Started and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Getting Started"]},
+    {
+      "topic": "Shell Commands",
+      "file": "topics-shell-commands.json",
+      "summary": "Open when using Shell Commands and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Shell Commands"]},
+    {
+      "topic": "SQLite Compatibility",
+      "file": "topics-sqlite-compatibility.json",
+      "summary": "Open when using SQLite Compatibility and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["SQLite Compatibility"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

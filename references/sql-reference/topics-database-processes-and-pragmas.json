@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Multi-Process Access",
+      "file": "topics-multi-process-access.json",
+      "summary": "Open when using Multi-Process Access and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["Multi-Process Access"]},
+    {
+      "topic": "PRAGMA Statements",
+      "file": "topics-pragma-statements.json",
+      "summary": "Open when using PRAGMA Statements and checking complete syntax, examples, results and restrictions.",
+      "keywords": ["PRAGMA Statements"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

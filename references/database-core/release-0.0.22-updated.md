@@ -1,0 +1,42 @@
+# Turso 0.0.22: updated
+
+Open when checking these changes in Turso 0.0.22, released 2025-06-19. These are historical release records, not current API availability guarantees.
+
+[Release history](release-history.md) · [This release](release-0.0.22-index.md)
+
+## Updated
+
+- antithesis: build the Python package from sources (Pekka Enberg)
+- Overwrite sqlite3 via install_sqlite (Pere Diaz Bou)
+- stress: run integrity check on every iteration (Pekka Enberg)
+- core: Clean up `integrity_check()` (Pekka Enberg)
+- Add a simple btree integrity check (Pere Diaz Bou)
+- Make SQLite bindings thread-safe (Pekka Enberg)
+- Change Connection to use Arc instead of Rc (Pekka Enberg)
+- Remove unused code from op_column (meteorgan)
+- NOT NULL constraint (Anton Harniakou)
+- Add Simulator Ast Generation, Simulator Unary Operator, and a Simulator refactor using `limbo_core::Value` for massive code reuse (Pedro Muniz)
+- Refactor compound select (meteorgan)
+- Turn off index usage in DELETE because it cannot operate safely (Jussi Saurio)
+- Simulator: Better Shrinking (Pedro Muniz)
+- Simulator integrity_check (Pedro Muniz)
+- Remove leftover info trace (Jussi Saurio)
+- Namespace the functions operating on `Value` (Pedro Muniz)
+- Delete plan.to_sql_string() from optimize_plan() because TODOs make it panic (Jussi Saurio)
+- Minor: use use_eq_ignore_ascii_case in selected places (Anton Harniakou)
+- Delete the FromValue trait (Anton Harniakou)
+- bindings/javascript: refactor presentation mode and improve the test suite (Diego Reis)
+- Beginnings of AUTOVACUUM (Zaid Humayun)
+- Add reverse parsing for Limbo `ast` and Plans (Pedro Muniz)
+- simulator: log the next interaction to execute with INFO (Jussi Saurio)
+- stress: use a temporary file unless explicitly given one (Jussi Saurio)
+- Write the database header through the normal pager route (meteorgan)
+- simulator: add options for disabling specific query types (Pedro Muniz)
+- Make cursor seek reentrant (Pedro Muniz)
+- Provide the input string to the `translate` function (Pedro Muniz)
+- Small tracing enhancement (Pedro Muniz)
+- Adjust delete write cursors so they are not opened more than once. (Pedro Muniz)
+- Convert rowid from u64 to i64 (Pere Diaz Bou)
+- Use tempfile for the constraint test (Jussi Saurio)
+- Remove frame id from the key (Pere Diaz Bou)
+- Clear the page cache when transaction failure occurs (Pere Diaz Bou)

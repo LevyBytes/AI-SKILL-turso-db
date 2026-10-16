@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Agent databases and persistent context",
+      "file": "topics-agent-databases-and-persistent-context.json",
+      "summary": "Open when using Agent database architectures, AI memory, Code indexing.",
+      "keywords": ["Agent database architectures", "AI memory", "Code indexing"]},
+    {
+      "topic": "Caching, secrets and vector search",
+      "file": "topics-caching-secrets-and-vector-search.json",
+      "summary": "Open when using Content caching, Secrets vault, Vector search.",
+      "keywords": ["Content caching", "Secrets vault", "Vector search"]},
+    {
+      "topic": "Products and database quickstarts",
+      "file": "topics-products-and-database-quickstarts.json",
+      "summary": "Open when using Database overview, libSQL and Turso Database, Local development, Cloud database quickstart, Embedded database quickstart.",
+      "keywords": ["Database overview", "libSQL and Turso Database", "Local development", "Cloud database quickstart", "Embedded database quickstart"]},
+    {
+      "topic": "Sync and change capture",
+      "file": "topics-sync-and-change-capture.json",
+      "summary": "Open when using Sync checkpoint, Sync conflict resolution, Local sync server, Partial sync bootstrap, Application sync quickstart, Change data capture.",
+      "keywords": ["Sync checkpoint", "Sync conflict resolution", "Local sync server", "Partial sync bootstrap", "Application sync quickstart", "Change data capture"]},
+    {
+      "topic": "Concurrent writes and encryption",
+      "file": "topics-concurrent-writes-and-encryption.json",
+      "summary": "Open when using Concurrent writes and MVCC, Database encryption.",
+      "keywords": ["Concurrent writes and MVCC", "Database encryption"]},
+    {
+      "topic": "2026 release history",
+      "file": "topics-release-history-2026.json",
+      "summary": "Open when checking the bundled 2026 Turso release dates and complete Added, Updated, Fixed or Changed records.",
+      "keywords": ["release history", "2026"]},
+    {
+      "topic": "2025 release history",
+      "file": "topics-release-history-2025.json",
+      "summary": "Open when checking the bundled 2025 Turso release dates and complete Added, Updated, Fixed or Changed records.",
+      "keywords": ["release history", "2025"]},
+    {
+      "topic": "2024 release history",
+      "file": "topics-release-history-2024.json",
+      "summary": "Open when checking the bundled 2024 Turso release dates and complete Added, Updated, Fixed or Changed records.",
+      "keywords": ["release history", "2024"]},
+    {
+      "topic": "Changelog source provenance",
+      "file": "topics-changelog-source-provenance.json",
+      "summary": "Open when reading Changelog source provenance and matching its exact source version, setup and conditions.",
+      "keywords": ["Changelog source provenance"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

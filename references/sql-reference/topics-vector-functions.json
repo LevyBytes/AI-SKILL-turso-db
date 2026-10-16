@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Vector float creation functions",
+      "file": "vector-float-creation-functions.md",
+      "summary": "Open when using Vector float creation functions.",
+      "keywords": ["Vector float creation functions"]},
+    {
+      "topic": "Vector alias quantization and binary creation",
+      "file": "vector-alias-quantization-and-binary-creation.md",
+      "summary": "Open when using Vector alias quantization and binary creation.",
+      "keywords": ["Vector alias quantization and binary creation"]},
+    {
+      "topic": "Vector cosine and euclidean distance",
+      "file": "vector-cosine-and-euclidean-distance.md",
+      "summary": "Open when using Vector cosine and euclidean distance.",
+      "keywords": ["Vector cosine and euclidean distance"]},
+    {
+      "topic": "Vector dot jaccard and extraction",
+      "file": "vector-dot-jaccard-and-extraction.md",
+      "summary": "Open when using Vector dot jaccard and extraction.",
+      "keywords": ["Vector dot jaccard and extraction"]},
+    {
+      "topic": "Vector concatenation and slicing",
+      "file": "vector-concatenation-and-slicing.md",
+      "summary": "Open when using Vector concatenation and slicing.",
+      "keywords": ["Vector concatenation and slicing"]},
+    {
+      "topic": "Vector storage and similarity examples",
+      "file": "vector-storage-and-similarity-examples.md",
+      "summary": "Open when using Vector storage and similarity examples.",
+      "keywords": ["Vector storage and similarity examples"]},
+    {
+      "topic": "Vector data conversion examples",
+      "file": "vector-data-conversion-examples.md",
+      "summary": "Open when using Vector data conversion examples.",
+      "keywords": ["Vector data conversion examples"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}

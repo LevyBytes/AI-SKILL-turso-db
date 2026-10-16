@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Extension loading uuid and regexp",
+      "file": "extension-loading-uuid-and-regexp.md",
+      "summary": "Open when using Extension loading uuid and regexp.",
+      "keywords": ["Extension loading uuid and regexp"]},
+    {
+      "topic": "Extension regexp and vector examples",
+      "file": "extension-regexp-and-vector-examples.md",
+      "summary": "Open when using Extension regexp and vector examples.",
+      "keywords": ["Extension regexp and vector examples"]},
+    {
+      "topic": "Extension time functions and durations",
+      "file": "extension-time-functions-and-durations.md",
+      "summary": "Open when using Extension time functions and durations.",
+      "keywords": ["Extension time functions and durations"]},
+    {
+      "topic": "Extension fulltext csv and percentiles",
+      "file": "extension-fulltext-csv-and-percentiles.md",
+      "summary": "Open when using Extension fulltext csv and percentiles.",
+      "keywords": ["Extension fulltext csv and percentiles"]},
+    {
+      "topic": "Extension generated number series",
+      "file": "extension-generated-number-series.md",
+      "summary": "Open when using Extension generated number series.",
+      "keywords": ["Extension generated number series"]},
+    {
+      "topic": "Reference Language Selection",
+      "file": "languages.md",
+      "summary": "Open when you need a language version of this skill's references other than English.",
+      "keywords": ["reference language", "translated references", "language selection"]}
+  ]
+}
