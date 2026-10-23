@@ -29,17 +29,17 @@ GET /v1/organizations/{organizationSlug}/groups/{groupName}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authorize the call with a Bearer authentication header whose value is `Bearer <token>`; `<token>` holds the auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug belonging to the target organization or user account.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.
 
@@ -47,6 +47,6 @@ The name of the group.
 
 Successful response
 
-**`group`** — object.
+**`group`**: object.
 
 Open when you need the nested `group` contract: [field details](group-response-fields.md).

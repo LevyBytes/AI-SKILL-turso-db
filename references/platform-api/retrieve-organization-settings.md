@@ -31,13 +31,13 @@ GET /v1/organizations/{organizationSlug}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 For authorization, send `Bearer <token>` and set `<token>` to your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug of the organization or user account being updated.
 
@@ -45,6 +45,6 @@ Slug of the organization or user account being updated.
 
 Successful response
 
-**`organization`** — object.
+**`organization`**: object.
 
 Open when you need the nested `organization` contract: [field details](organization-response-fields.md).

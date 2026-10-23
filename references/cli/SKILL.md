@@ -1,8 +1,9 @@
 ---
 name: cli
-description: Use when installing or updating the Turso CLI, authenticating, managing API or database tokens, configuring database access rules, creating or inspecting databases, using the SQL shell and local development server, managing groups or organizations, selecting account plans, or using headless mode and command help.
+description: "Use when installing or updating the Turso CLI, authenticating, managing API or database tokens, configuring database access rules, creating or inspecting databases, using the SQL shell and local development server, managing groups or organizations, selecting account plans, or using headless mode and command help."
+license: Apache-2.0
 metadata:
-  last-updated: '2026-10-10'
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

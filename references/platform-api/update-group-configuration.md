@@ -24,17 +24,17 @@ PATCH /v1/organizations/{organizationSlug}/groups/{groupName}/configuration
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Set the Bearer authentication header to `Bearer <token>` using your auth token as `<token>`.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the selected organization or user account.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.
 
@@ -44,7 +44,7 @@ application/json
 
 Configuration that will be applied to the selected group.
 
-**`delete_protection`** — boolean.
+**`delete_protection`**: boolean.
 
 Keep the group from being deleted.
 
@@ -58,7 +58,7 @@ Example:
 
 Successful response
 
-**`delete_protection`** — boolean.
+**`delete_protection`**: boolean.
 
 Indicates whether group deletion is blocked.
 

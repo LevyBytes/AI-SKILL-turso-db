@@ -75,4 +75,4 @@ db, err := sql.Open("turso", "mydb.db?experimental=multiprocess_wal")
 
 - [Experimental Features](https://docs.turso.tech/sql-reference/experimental-features) - enabling experimental features on every supported surface
 - [Transactions](https://docs.turso.tech/sql-reference/statements/transactions) - WAL concurrency behavior and `BEGIN CONCURRENT`
-- [Compatibility](https://docs.turso.tech/sql-reference/compatibility) — SQLite compatibility matrix
+- [Compatibility](https://docs.turso.tech/sql-reference/compatibility): SQLite compatibility matrix

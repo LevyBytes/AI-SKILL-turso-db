@@ -25,7 +25,7 @@ flowchart LR
 
 AgentFS references for giving coding agents an inspectable filesystem and persistent working state. The material connects isolated overlays, activity records and shared sessions with the commands and SDKs used to manage them.
 
-Use for AgentFS agent filesystems, copy-on-write overlays, audit logs, MCP and NFS access, shared sessions, sandboxed coding workflows, Turso Cloud sync, installation and CLI commands, or Python, Rust and TypeScript SDK storage and tool-call APIs. Preserve the documented SDK language, platform and availability limits.
+Use for AgentFS agent filesystems, copy-on-write overlays, audit logs, MCP and NFS access, shared sessions, sandboxed coding workflows, Turso Cloud sync, installation and CLI commands, or Python, Rust and TypeScript SDK storage and tool-call APIs.
 
 ## What this skill helps with
 
@@ -49,4 +49,4 @@ Select the documented platform and SDK before adapting an example. MCP, NFS, sha
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.turso.tech/agentfs) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

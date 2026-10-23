@@ -36,13 +36,13 @@ Additional groups can be created only on Scaler, Pro, and Enterprise plans.
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Provide the Bearer authentication header in the `Bearer <token>` format; set `<token>` to your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization or user account slug.
 
@@ -52,15 +52,15 @@ application/json
 
 Data used to create a new group.
 
-**`name`** — string; required.
+**`name`**: string; required.
 
 Name assigned to the new group.
 
-**`location`** — string; required.
+**`location`**: string; required.
 
 Location key assigned to the new group.
 
-**`extensions`** — string or string[].
+**`extensions`**: string or string[].
 
 Extensions enabled for new databases created in this group. For vector extensions, users should use the native [libSQL vector datatype](https://docs.turso.tech/features/ai-and-embeddings) instead.
 
@@ -70,7 +70,7 @@ Available options: `all`
 
 Successful response
 
-**`group`** — object.
+**`group`**: object.
 
 The newly created group
 

@@ -39,13 +39,13 @@ This endpoint lists tokens that are valid for one organization, including org-sc
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send a Bearer authentication header as `Bearer <token>`; `<token>` must be your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account.
 
@@ -55,6 +55,6 @@ Slug for the organization or user account.
 
 Successful response
 
-**`tokens`** — object[].
+**`tokens`**: object[].
 
 Open when you need the nested `tokens` contract: [field details](organization-token-response-fields.md).

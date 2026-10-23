@@ -26,13 +26,13 @@ GET /v1/organizations/{organizationSlug}/members
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authorize the request with `Bearer <token>` as the Bearer header value; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization slug or user account slug.
 
@@ -42,6 +42,6 @@ Organization slug or user account slug.
 
 Successful response
 
-**`members`** — object[].
+**`members`**: object[].
 
 Open when you need the nested `members` contract: [field details](organization-member-response-fields.md).

@@ -34,13 +34,13 @@ To add someone who has not registered with Turso, use [create an invite](https:/
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Set the Bearer authorization header to `Bearer <token>` and use your auth token for `<token>`.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug identifying the organization, or a user account slug.
 
@@ -50,11 +50,11 @@ application/json
 
 Member record to add.
 
-**`username`** — string.
+**`username`**: string.
 
 Username for an existing Turso user.
 
-**`role`** — enum&lt;string&gt;; default: member.
+**`role`** - enum&lt;string&gt;; default: member.
 
 Role assigned to the user.
 
@@ -64,6 +64,6 @@ Available options: `admin`, `member`, `viewer`
 
 Successful response
 
-**`member`** — unspecified.
+**`member`**: unspecified.
 
-**`role`** — unspecified.
+**`role`**: unspecified.

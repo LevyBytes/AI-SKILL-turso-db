@@ -37,17 +37,17 @@ GET /v1/organizations/{organizationSlug}/databases/{databaseName}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Include Bearer authentication with `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug of the organization or user account.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.
 
@@ -55,6 +55,6 @@ The name of the database.
 
 Successful response
 
-**`database`** — object.
+**`database`**: object.
 
 Open when you need the nested `database` contract: [field details](database-response-fields.md).

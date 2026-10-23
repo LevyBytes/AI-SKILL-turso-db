@@ -20,17 +20,17 @@ DELETE /v1/organizations/{organizationSlug}/databases/{databaseName}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send the Bearer authentication header as `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization or user account slug value.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.
 
@@ -38,7 +38,7 @@ The name of the database.
 
 Successful response
 
-**`database`** — string.
+**`database`**: string.
 
 Name of the deleted database.
 

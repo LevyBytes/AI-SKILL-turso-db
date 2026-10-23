@@ -1,9 +1,10 @@
 ---
 name: turso-db
-description: Use when working with Turso Database, Turso Cloud, libSQL, AgentFS, Turso CLI, Turso Platform API, SDKs, SQL reference, sync, migrations, auth tokens, groups, organizations, vector search, embedded replicas, local development, SQLite compatible databases, or Turso connection code.
+description: "Use when working with Turso Database, Turso Cloud, libSQL, AgentFS, Turso CLI, Turso Platform API, SDKs, SQL reference, sync, migrations, auth tokens, groups, organizations, vector search, embedded replicas, local development, SQLite compatible databases, or Turso connection code."
+license: Apache-2.0
 metadata:
   skill-type: "collection"
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

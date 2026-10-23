@@ -27,13 +27,13 @@ GET /v2/organizations/{organizationSlug}/invites
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use Bearer authentication in the `Bearer <token>` header form, with `<token>` set to your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization slug, or the matching user account slug.
 
@@ -43,6 +43,6 @@ Organization slug, or the matching user account slug.
 
 Successful response
 
-**`invites`** — object[].
+**`invites`**: object[].
 
 Open when you need the nested `invites` contract: [field details](organization-invite-list-fields.md).

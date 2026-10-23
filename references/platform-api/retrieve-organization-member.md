@@ -24,17 +24,17 @@ GET /v1/organizations/{organizationSlug}/members/{username}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send Bearer credentials as `Bearer <token>`; substitute your auth token for `<token>`.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization or user account slug.
 
-**`username`** — string; required.
+**`username`**: string; required.
 
 Username identifying a Turso user or organization member.
 
@@ -42,6 +42,6 @@ Username identifying a Turso user or organization member.
 
 Successful response
 
-**`member`** — object.
+**`member`**: object.
 
 Open when you need the nested `member` contract: [field details](organization-member-response-fields.md).

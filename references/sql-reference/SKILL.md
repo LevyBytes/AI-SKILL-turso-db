@@ -1,8 +1,9 @@
 ---
 name: sql-reference
-description: Use when checking Turso SQL syntax and SQLite compatibility, tursodb CLI flags and shell commands, data types, expressions, extensions, aggregate/array/date-time/FTS/JSON/math/scalar/vector/window functions, PRAGMAs, multi-process access, schema statements, custom types and domains, SELECT and row changes, transactions, analysis or vacuum. Preserve experimental feature gates and binding-specific configuration.
+description: "Use when checking Turso SQL syntax and SQLite compatibility, tursodb CLI flags and shell commands, data types, expressions, extensions, aggregate/array/date-time/FTS/JSON/math/scalar/vector/window functions, PRAGMAs, multi-process access, schema statements, custom types and domains, SELECT and row changes, transactions, analysis or vacuum."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

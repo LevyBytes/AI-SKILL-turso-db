@@ -1,8 +1,9 @@
 ---
 name: agentfs
-description: Use for AgentFS agent filesystems, copy-on-write overlays, audit logs, MCP and NFS access, shared sessions, sandboxed coding workflows, Turso Cloud sync, installation and CLI commands, or Python, Rust and TypeScript SDK storage and tool-call APIs. Preserve the documented SDK language, platform and availability limits.
+description: "Use for AgentFS agent filesystems, copy-on-write overlays, audit logs, MCP and NFS access, shared sessions, sandboxed coding workflows, Turso Cloud sync, installation and CLI commands, or Python, Rust and TypeScript SDK storage and tool-call APIs."
+license: Apache-2.0
 metadata:
-  last-updated: '2026-10-10'
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

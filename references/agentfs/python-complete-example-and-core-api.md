@@ -4,55 +4,7 @@
 
 ### Complete Example
 
-```
-import asyncio
-import time
-from agentfs_sdk import AgentFS, AgentFSOptions
-
-async def main():
-    async with await AgentFS.open(AgentFSOptions(id='demo-agent')) as agent:
-        # Store configuration
-        await agent.kv.set('agent:config', {
-            'model': 'gpt-4',
-            'temperature': 0.7
-        })
-
-        # Create a research document
-        research = """
-        # Research Notes
-
-        ## Topic: AgentFS
-
-        AgentFS provides persistent storage for AI agents.
-        """
-
-        await agent.fs.write_file('/research/agentfs.md', research)
-
-        # Track a simulated tool call
-        call_id = await agent.tools.start('web_search', {
-            'query': 'AgentFS documentation'
-        })
-
-        # Simulate some work
-        await asyncio.sleep(0.1)
-
-        await agent.tools.success(call_id, {
-            'results_count': 5,
-            'top_result': 'https://docs.turso.tech/agentfs'
-        })
-
-        # List what we created
-        files = await agent.fs.readdir('/research')
-        print(f"Files: {files}")
-
-        # Get tool stats
-        stats = await agent.tools.get_stats()
-        for stat in stats:
-            print(f"{stat.name}: {stat.total_calls} calls")
-
-asyncio.run(main())
-
-```
+The complete program is in the [upstream source](https://raw.githubusercontent.com/tursodatabase/turso-docs/fb78fbb00393f0a9eeab1f302a2bfa48c1725384/agentfs/sdk/python.mdx).
 
 ### API Reference
 

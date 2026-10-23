@@ -28,13 +28,13 @@ Invitations require the scaler plan or a higher plan. Send an invite using eithe
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Supply Bearer auth using `Bearer <token>`; here, `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug identifying either the organization or the user account.
 
@@ -44,15 +44,15 @@ application/json
 
 User details for the Turso invitation and the organization they will join. Include exactly one of email or username.
 
-**`email`** — string.
+**`email`**: string.
 
 Email address for the invitee. Provide exactly one of email or username.
 
-**`username`** — string.
+**`username`**: string.
 
 Username for an existing Turso user to invite. Provide exactly one of email or username.
 
-**`role`** — enum&lt;string&gt;; default: member.
+**`role`** - enum&lt;string&gt;; default: member.
 
 Role assigned to the user.
 
@@ -64,6 +64,6 @@ Available options: `admin`, `member`, `viewer`
 
 Successful response
 
-**`invited`** — object.
+**`invited`**: object.
 
 Open when you need the nested `invited` contract: [field details](organization-invite-created-fields.md).

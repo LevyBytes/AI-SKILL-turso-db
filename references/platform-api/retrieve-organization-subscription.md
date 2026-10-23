@@ -25,13 +25,13 @@ GET /v1/organizations/{organizationSlug}/subscription
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use `Bearer <token>` for Bearer authentication; `<token>` represents your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug that identifies the organization or user account.
 
@@ -41,6 +41,6 @@ Slug that identifies the organization or user account.
 
 Successful response
 
-**`subscription`** — object.
+**`subscription`**: object.
 
 Open when you need the nested `subscription` contract: [field details](organization-subscription-response-fields.md).

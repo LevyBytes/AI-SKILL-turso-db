@@ -5,9 +5,9 @@
 ## Using a dump locally
 
 For local Turso development, developers can choose either approach below:
-- SQLite — local SQLite database file
-- Turso CLI — managed libSQL server
-- Turso Database — remote Turso database
+- SQLite: local SQLite database file
+- Turso CLI: managed libSQL server
+- Turso Database: remote Turso database
 
 ### Using a dump locally
 

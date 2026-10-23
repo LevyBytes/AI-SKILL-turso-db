@@ -21,27 +21,27 @@ POST /v1/organizations/{organizationSlug}/databases/{databaseName}/auth/tokens
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Provide a Bearer authentication header as `Bearer <token>`, where `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug identifying the organization or user account.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.
 
 #### Query Parameters
 
-**`expiration`** — string; default: never.
+**`expiration`** - string; default: never.
 
 Token lifetime, for example 2w1d30m.
 
-**`authorization`** — enum&lt;string&gt;; default: full-access.
+**`authorization`** - enum&lt;string&gt;; default: full-access.
 
 Token authorization level, either full-access or read-only.
 
@@ -53,7 +53,7 @@ application/json
 
 Extra token context, including any required claims.
 
-**`permissions`** — object.
+**`permissions`**: object.
 
 The permissions for the token.
 
@@ -63,6 +63,6 @@ Open when you need the nested `permissions` contract: [field details](token-atta
 
 Successful response
 
-**`jwt`** — string.
+**`jwt`**: string.
 
 The generated authorization token (JWT).

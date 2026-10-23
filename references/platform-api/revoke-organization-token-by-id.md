@@ -22,17 +22,17 @@ This endpoint requires the token **ID** instead of its name, because multiple us
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use the authorization header `Bearer <token>`, where `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account.
 
-**`tokenId`** — string; required.
+**`tokenId`**: string; required.
 
 Token ID to revoke, taken from the list endpoint.
 
@@ -42,7 +42,7 @@ Token ID to revoke, taken from the list endpoint.
 
 Successful response
 
-**`token`** — string.
+**`token`**: string.
 
 ID of the token that was revoked.
 

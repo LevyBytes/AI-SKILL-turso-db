@@ -33,16 +33,16 @@ You may transfer groups only to organizations that you own or where you are an a
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Pass a Bearer authentication header in the shape `Bearer <token>` and set `<token>` to your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account in the path.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.

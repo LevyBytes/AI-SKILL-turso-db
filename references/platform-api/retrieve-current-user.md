@@ -28,7 +28,7 @@ GET /v1/user
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send a Bearer auth header in the form `Bearer <token>`, with `<token>` replaced by your auth token.
 
@@ -38,6 +38,6 @@ Send a Bearer auth header in the form `Bearer <token>`, with `<token>` replaced 
 
 Successful response
 
-**`user`** — object.
+**`user`**: object.
 
 Open when you need the nested `user` contract: [field details](current-user-response-fields.md).

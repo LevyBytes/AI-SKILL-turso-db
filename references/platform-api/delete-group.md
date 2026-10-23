@@ -29,17 +29,17 @@ DELETE /v1/organizations/{organizationSlug}/groups/{groupName}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 The request uses a Bearer authentication header: `Bearer <token>`, where `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 The organization slug or user account slug.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.
 
@@ -47,6 +47,6 @@ The name of the group.
 
 Successful response
 
-**`group`** — object.
+**`group`**: object.
 
 Open when you need the nested `group` contract: [field details](group-response-fields.md).

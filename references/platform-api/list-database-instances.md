@@ -28,17 +28,17 @@ GET /v1/organizations/{organizationSlug}/databases/{databaseName}/instances
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Pass Bearer authentication as `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account being addressed.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.
 
@@ -48,6 +48,6 @@ The name of the database.
 
 Successful response
 
-**`instances`** — object[].
+**`instances`**: object[].
 
 Open when you need the nested `instances` contract: [field details](database-instance-response-fields.md).

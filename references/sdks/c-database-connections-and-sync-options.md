@@ -21,7 +21,7 @@ libsql_setup((libsql_config_t){0});
 
 ### In-Memory Databases
 
- For non-persistent use cases, libSQL can connect to [in-memory databases]([https:/www.sqlite.org/inmemorydb.htm](https:/www.sqlite.org/inmemorydb.htm):
+ For non-persistent use cases, libSQL can connect to [in-memory databases](https://www.sqlite.org/inmemorydb.html):
 
 ```
 libsql_database_t db = libsql_database_init((libsql_database_desc_t){.path = ":memory:"});

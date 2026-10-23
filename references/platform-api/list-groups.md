@@ -31,13 +31,13 @@ GET /v1/organizations/{organizationSlug}/groups
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use the Bearer header value `Bearer <token>` to authenticate; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Identifier slug for the organization or user account.
 
@@ -47,6 +47,6 @@ Identifier slug for the organization or user account.
 
 Successful response
 
-**`groups`** — object[].
+**`groups`**: object[].
 
 Open when you need the nested `groups` contract: [field details](group-response-fields.md).

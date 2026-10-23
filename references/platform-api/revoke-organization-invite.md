@@ -22,17 +22,17 @@ Invites require the scaler plan or a higher plan.
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authenticate with a Bearer header formatted as `Bearer <token>`; replace `<token>` with your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization, or for the user account.
 
-**`email`** — string; required.
+**`email`**: string; required.
 
 Email address used for the invited user.
 

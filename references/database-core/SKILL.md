@@ -1,8 +1,9 @@
 ---
 name: database-core
-description: Use when working with Turso Database core concepts, libSQL distinctions, embedded or cloud quickstarts, local development, agent databases, persistent AI memory, code indexing, content caching, encrypted secrets, vector search, sync, change data capture, concurrent writes, encryption or versioned database release history.
+description: "Use when working with Turso Database core concepts, libSQL distinctions, embedded or cloud quickstarts, local development, agent databases, persistent AI memory, code indexing, content caching, encrypted secrets, vector search, sync, change data capture, concurrent writes, encryption or versioned database release history."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

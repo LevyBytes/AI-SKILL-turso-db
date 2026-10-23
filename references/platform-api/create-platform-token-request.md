@@ -26,12 +26,12 @@ The response shows `token` only once. Save it securely, and do not share it or c
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use a Bearer authentication header in the format `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`tokenName`** — string; required.
+**`tokenName`**: string; required.
 
 Name assigned to the api token.

@@ -20,7 +20,7 @@ GET /v1/auth/validate
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authenticate by sending the header value `Bearer <token>`; `<token>` is your auth token.
 
@@ -30,7 +30,7 @@ Authenticate by sending the header value `Bearer <token>`; `<token>` is your aut
 
 Successful response
 
-**`exp`** — integer.
+**`exp`**: integer.
 
 Expiration time for the supplied token, represented as unix epoch seconds; `-1` means it does not expire.
 

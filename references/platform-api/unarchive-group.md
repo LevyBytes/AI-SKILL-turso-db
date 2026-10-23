@@ -31,17 +31,17 @@ On the free plan, databases are archived after 10 days without activity. The API
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 For authorization, send a Bearer authentication header with `Bearer <token>` as its value; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization or user account slug for this request.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.
 
@@ -49,7 +49,7 @@ The name of the group.
 
 Successful response
 
-**`group`** — object.
+**`group`**: object.
 
 The group that was unarchived
 

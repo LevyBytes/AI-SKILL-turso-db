@@ -25,7 +25,7 @@ flowchart LR
 
 Turso Platform API references for provisioning and administering hosted database resources. Endpoint families keep request fields, response contracts and authentication requirements close to the resource operation they describe.
 
-Use when calling the Turso Platform API for authentication and scoped tokens, audit logs, database and group lifecycle, configuration, SQL credentials, SQLite uploads, locations, organizations, v2 invites, members, invoices, subscriptions, plans, usage, response codes, TypeScript provisioning or current user details. Preserve exact HTTP methods, endpoint versions, hostnames and token roles.
+Use when calling the Turso Platform API for authentication and scoped tokens, audit logs, database and group lifecycle, configuration, SQL credentials, SQLite uploads, locations, organizations, v2 invites, members, invoices, subscriptions, plans, usage, response codes, TypeScript provisioning or current user details.
 
 ## What this skill helps with
 
@@ -49,4 +49,4 @@ Use the authentication role and endpoint version specified by the selected opera
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.turso.tech/api-reference) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

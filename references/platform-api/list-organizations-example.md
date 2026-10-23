@@ -31,6 +31,6 @@ GET /v1/organizations
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Provide Bearer authentication as `Bearer <token>`, where `<token>` contains your auth token.

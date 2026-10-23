@@ -27,7 +27,7 @@ GET /v1/locations
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Bearer authentication header of the form `Bearer <token>`, where `<token>` is your auth token.
 
@@ -37,7 +37,7 @@ Bearer authentication header of the form `Bearer <token>`, where `<token>` is yo
 
 Successful response
 
-**`locations`** — object.
+**`locations`**: object.
 
 A mapping of location codes to location names.
 

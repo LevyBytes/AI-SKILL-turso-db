@@ -49,4 +49,4 @@ Follow the language routes in SKILL.md for Python, Rust, Go, C, Java, Kotlin, Sw
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.turso.tech/sdk) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

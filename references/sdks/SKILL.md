@@ -1,8 +1,9 @@
 ---
 name: sdks
-description: Use when connecting applications to Turso with TypeScript, JavaScript, Python, Rust, Go, Java, Dart, Flutter, Kotlin, Swift, Ruby, PHP or C; selecting local, remote or sync SDKs; configuring ActiveRecord, ORMs and web frameworks; using SQL over HTTP, database authentication, scoped tokens, JWKS or permissions.
+description: "Use when connecting applications to Turso with TypeScript, JavaScript, Python, Rust, Go, Java, Dart, Flutter, Kotlin, Swift, Ruby, PHP or C; selecting local, remote or sync SDKs; configuring ActiveRecord, ORMs and web frameworks; using SQL over HTTP, database authentication, scoped tokens, JWKS or permissions."
+license: Apache-2.0
 metadata:
-  last-updated: '2026-10-10'
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

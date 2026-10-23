@@ -31,16 +31,16 @@ GET /v1/organizations/{organizationSlug}/databases/{databaseName}/configuration
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authenticate with a Bearer header formatted as `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.

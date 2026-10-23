@@ -20,13 +20,13 @@ DELETE /v1/auth/api-tokens/{tokenName}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Provide Bearer authentication in the header, using `Bearer <token>` with `<token>` set to your auth token.
 
 #### Path Parameters
 
-**`tokenName`** — string; required.
+**`tokenName`**: string; required.
 
 Name assigned to the api token.
 
@@ -36,7 +36,7 @@ Name assigned to the api token.
 
 Successful response
 
-**`token`** — string.
+**`token`**: string.
 
 The revoked token name.
 

@@ -37,23 +37,23 @@ Audit Logs require the scaler plan or a higher plan.
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send authentication as a Bearer header: `Bearer <token>`, replacing `<token>` with your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account.
 
 #### Query Parameters
 
-**`page_size`** — integer.
+**`page_size`**: integer.
 
 Maximum items returned per page. Defaults to 100.
 
-**`page`** — integer.
+**`page`**: integer.
 
 Page number to retrieve. Defaults to 1.
 
@@ -63,10 +63,10 @@ Page number to retrieve. Defaults to 1.
 
 Successful response
 
-**`audit_logs`** — object[].
+**`audit_logs`**: object[].
 
 Open when you need the nested `audit_logs` contract: [field details](audit-log-response-fields.md).
 
-**`pagination`** — object.
+**`pagination`**: object.
 
 Open when you need the nested `pagination` contract: [field details](audit-log-response-fields.md).

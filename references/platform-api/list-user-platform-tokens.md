@@ -33,7 +33,7 @@ GET /v1/auth/api-tokens
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authenticate with a Bearer header formatted as `Bearer <token>`, replacing `<token>` with your auth token.
 
@@ -43,6 +43,6 @@ Authenticate with a Bearer header formatted as `Bearer <token>`, replacing `<tok
 
 Successful response
 
-**`tokens`** — object[].
+**`tokens`**: object[].
 
 Open when you need the nested `tokens` contract: [field details](token-list-response-fields.md).

@@ -25,8 +25,8 @@ admin-bot       my-org/default        full-access                               
 
 - **Scope** shows how the token is bound:
   - `all` - no organization restriction; the token can act on every organization associated with the caller.
-  - `<org>` — organization-scoped.
-  - `<org>/<group>` — group-scoped.
+  - `<org>`: organization-scoped.
+  - `<org>/<group>`: group-scoped.
 
 - **Permissions** shows the grant recorded for group-scoped tokens:
   - `—` when no explicit scope is set, which applies to unrestricted and org-scoped tokens.

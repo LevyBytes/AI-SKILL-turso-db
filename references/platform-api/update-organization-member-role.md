@@ -27,17 +27,17 @@ PATCH /v1/organizations/{organizationSlug}/members/{username}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use the Bearer header value `Bearer <token>` and place your auth token in `<token>`.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug of the relevant organization or user account.
 
-**`username`** — string; required.
+**`username`**: string; required.
 
 Username of the Turso user or organization member.
 
@@ -45,7 +45,7 @@ Username of the Turso user or organization member.
 
 application/json
 
-**`role`** — enum&lt;string&gt;; required.
+**`role`**: enum&lt;string&gt;; required.
 
 New role to assign to the member.
 
@@ -55,6 +55,6 @@ Available options: `admin`, `member`, `viewer`
 
 Successful response
 
-**`member`** — object.
+**`member`**: object.
 
 Open when you need the nested `member` contract: [field details](organization-member-role-response-fields.md).

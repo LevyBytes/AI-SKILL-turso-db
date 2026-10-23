@@ -26,21 +26,21 @@ GET /v1/organizations/{organizationSlug}/databases/{databaseName}/instances/{ins
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Set the Bearer authentication header to `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.
 
-**`instanceName`** — string; required.
+**`instanceName`**: string; required.
 
 Instance name, meaning the location code.
 
@@ -50,6 +50,6 @@ Instance name, meaning the location code.
 
 Successful response
 
-**`instance`** — object.
+**`instance`**: object.
 
 Open when you need the nested `instance` contract: [field details](database-instance-response-fields.md).

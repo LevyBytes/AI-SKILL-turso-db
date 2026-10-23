@@ -23,27 +23,27 @@ After creation, tokens are not retrievable and cannot be revoked one at a time.
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authenticate with a Bearer header written as `Bearer <token>`; replace `<token>` with your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.
 
 #### Query Parameters
 
-**`expiration`** — string; default: never.
+**`expiration`** - string; default: never.
 
 Set when the token expires, for example 2w1d30m.
 
-**`authorization`** — enum&lt;string&gt;; default: full-access.
+**`authorization`** - enum&lt;string&gt;; default: full-access.
 
 Authorization level granted to the token: full-access or read-only.
 
@@ -55,7 +55,7 @@ application/json
 
 Extra context, such as claims the token must include.
 
-**`permissions`** — object.
+**`permissions`**: object.
 
 The permissions for the token.
 
@@ -65,6 +65,6 @@ Open when you need the nested `permissions` contract: [field details](token-atta
 
 Successful response
 
-**`jwt`** — string.
+**`jwt`**: string.
 
 The generated authorization token (JWT).

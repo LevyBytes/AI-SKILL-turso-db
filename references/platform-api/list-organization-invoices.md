@@ -29,19 +29,19 @@ GET /v1/organizations/{organizationSlug}/invoices
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Pass a Bearer authentication header as `Bearer <token>`; `<token>` must be your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug value for the organization or user account.
 
 #### Query Parameters
 
-**`type`** — enum&lt;string&gt;.
+**`type`**: enum&lt;string&gt;.
 
 Invoice type to retrieve.
 
@@ -53,7 +53,7 @@ Available options: `all`, `upcoming`, `issued`
 
 Successful response
 
-**`invoices`** — object[].
+**`invoices`**: object[].
 
 Invoices returned for the organization.
 

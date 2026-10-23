@@ -20,17 +20,17 @@ DELETE /v1/organizations/{organizationSlug}/members/{username}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Include a Bearer auth header in the `Bearer <token>` shape, using your auth token as `<token>`.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the target organization or user account.
 
-**`username`** — string; required.
+**`username`**: string; required.
 
 Username for either a Turso user or an organization member.
 
@@ -38,4 +38,4 @@ Username for either a Turso user or an organization member.
 
 Successful response
 
-**`member`** — any.
+**`member`**: any.

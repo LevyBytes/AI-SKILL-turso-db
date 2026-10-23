@@ -25,7 +25,7 @@ flowchart LR
 
 Turso SQL references for checking query syntax, functions, schema operations and SQLite compatibility. The material connects SQL operations with the feature gates and binding conditions that determine where they can be used.
 
-Use when checking Turso SQL syntax and SQLite compatibility, tursodb CLI flags and shell commands, data types, expressions, extensions, aggregate/array/date-time/FTS/JSON/math/scalar/vector/window functions, PRAGMAs, multi-process access, schema statements, custom types and domains, SELECT and row changes, transactions, analysis or vacuum. Preserve experimental feature gates and binding-specific configuration.
+Use when checking Turso SQL syntax and SQLite compatibility, tursodb CLI flags and shell commands, data types, expressions, extensions, aggregate/array/date-time/FTS/JSON/math/scalar/vector/window functions, PRAGMAs, multi-process access, schema statements, custom types and domains, SELECT and row changes, transactions, analysis or vacuum.
 
 ## What this skill helps with
 
@@ -50,4 +50,4 @@ Check experimental feature flags and binding requirements before adapting a quer
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.turso.tech/sql-reference/cli/getting-started) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

@@ -1,8 +1,9 @@
 ---
 name: turso-cloud
-description: Use for Turso Cloud IP and VPC allow rules, durability, BYOK encryption, SQLite migration and limits, vector search, ATTACH, database branching, Edge Replicas, Embedded Replicas and deployment, Multi-DB Schemas, point-in-time recovery, AWS PrivateLink, extension versions and usage quotas. Preserve bundled availability, provider, plan and date restrictions.
+description: "Use for Turso Cloud IP and VPC allow rules, durability, BYOK encryption, SQLite migration and limits, vector search, ATTACH, database branching, Edge Replicas, Embedded Replicas and deployment, Multi-DB Schemas, point-in-time recovery, AWS PrivateLink, extension versions and usage quotas."
+license: Apache-2.0
 metadata:
-  last-updated: '2026-10-10'
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

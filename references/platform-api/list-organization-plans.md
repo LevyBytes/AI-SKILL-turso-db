@@ -40,13 +40,13 @@ GET /v1/organizations/{organizationSlug}/plans
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Authenticate by sending `Bearer <token>` as the Bearer value, with `<token>` containing your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the organization or user account being queried.
 
@@ -56,7 +56,7 @@ Slug for the organization or user account being queried.
 
 Successful response
 
-**`plans`** — object[].
+**`plans`**: object[].
 
 List of available plans.
 

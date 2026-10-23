@@ -20,17 +20,17 @@ GET /v1/organizations/{organizationSlug}/groups/{groupName}/configuration
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send a Bearer auth header formatted as `Bearer <token>`; use `<token>` as the authentication token value.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug identifying the organization or user account.
 
-**`groupName`** — string; required.
+**`groupName`**: string; required.
 
 The name of the group.
 
@@ -40,7 +40,7 @@ The name of the group.
 
 Successful response
 
-**`delete_protection`** — boolean.
+**`delete_protection`**: boolean.
 
 Block deletion of the group.
 

@@ -35,13 +35,13 @@ PATCH /v1/organizations/{organizationSlug}
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use Bearer authentication in the header as `Bearer <token>`; `<token>` should be the auth token for the request.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug identifying the organization or user account.
 
@@ -51,11 +51,11 @@ application/json
 
 The updated organization details.
 
-**`overages`** — boolean.
+**`overages`**: boolean.
 
 Controls whether organization overages are enabled or disabled.
 
-**`require_mfa`** — boolean.
+**`require_mfa`**: boolean.
 
 Make multi-factor authentication mandatory for every organization member. Before turning on this requirement, the requesting user must already have MFA enabled for their own account.
 
@@ -65,7 +65,7 @@ Make multi-factor authentication mandatory for every organization member. Before
 
 Successful response
 
-**`organization`** — object.
+**`organization`**: object.
 
 The updated organization.
 

@@ -10,52 +10,7 @@
 
  For workloads requiring **offline writes**, **bidirectional sync**, or **multi-writer convergence**, use `tursogo` with `NewTursoSyncDb`. Reads and writes both stay local, and synchronization is controlled directly with `Push()` / `Pull()`. [embedded replicas](https://docs.turso.tech/features/embedded-replicas) can synchronize data from the remote database into a local SQLite file and send writes through the remote primary database:
 
-```
-package main
-
-import (
-  "database/sql"
-  "fmt"
-  "log"
-  "os"
-  "path/filepath"
-
-  "github.com/tursodatabase/go-libsql"
-)
-
-func main() {
-    if err := run(); err != nil {
-        log.Fatal(err)
-    }
-}
-
-func run() error {
-    dbName := "local.db"
-    primaryUrl := "libsql://[DATABASE].turso.io"
-    authToken := "..."
-
-    dir, err := os.MkdirTemp("", "libsql-*")
-    if err != nil {
-        return fmt.Errorf("create temporary directory: %w", err)
-    }
-    defer os.RemoveAll(dir)
-
-    dbPath := filepath.Join(dir, dbName)
-
-    connector, err := libsql.NewEmbeddedReplicaConnector(dbPath, primaryUrl,
-      libsql.WithAuthToken(authToken),
-    )
-    if err != nil {
-        return fmt.Errorf("create connector: %w", err)
-    }
-    defer connector.Close()
-
-    db := sql.OpenDB(connector)
-    defer db.Close()
-    return nil
-}
-
-```
+The complete program is in the [upstream source](https://raw.githubusercontent.com/tursodatabase/turso-docs/fb78fbb00393f0a9eeab1f302a2bfa48c1725384/sdk/go/reference.mdx).
 
  Embedded Replicas require file system access.
 

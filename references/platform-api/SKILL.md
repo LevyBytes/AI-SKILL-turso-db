@@ -1,8 +1,9 @@
 ---
 name: platform-api
-description: Use when calling the Turso Platform API for authentication and scoped tokens, audit logs, database and group lifecycle, configuration, SQL credentials, SQLite uploads, locations, organizations, v2 invites, members, invoices, subscriptions, plans, usage, response codes, TypeScript provisioning or current user details. Preserve exact HTTP methods, endpoint versions, hostnames and token roles.
+description: "Use when calling the Turso Platform API for authentication and scoped tokens, audit logs, database and group lifecycle, configuration, SQL credentials, SQLite uploads, locations, organizations, v2 invites, members, invoices, subscriptions, plans, usage, response codes, TypeScript provisioning or current user details."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

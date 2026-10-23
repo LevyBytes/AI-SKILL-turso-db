@@ -39,27 +39,27 @@ GET /v1/organizations/{organizationSlug}/databases
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use a Bearer authentication header in the form `Bearer <token>`; `<token>` is your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug of the target organization or user account.
 
 #### Query Parameters
 
-**`group`** — string.
+**`group`**: string.
 
 Filter databases by group name.
 
-**`schema`** — string.
+**`schema`**: string.
 
 Schema database name used to retrieve databases under that parent schema.
 
-**`parent`** — string.
+**`parent`**: string.
 
 Limit database branch results by parent database ID.
 
@@ -69,6 +69,6 @@ Limit database branch results by parent database ID.
 
 Successful response
 
-**`databases`** — object[].
+**`databases`**: object[].
 
 Open when you need the nested `databases` contract: [field details](database-response-fields.md).

@@ -4,17 +4,17 @@
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Use a Bearer auth header formatted as `Bearer <token>`, with `<token>` set to your auth token.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Organization or user account slug.
 
-**`databaseName`** — string; required.
+**`databaseName`**: string; required.
 
 The name of the database.
 
@@ -24,15 +24,15 @@ application/json
 
 Configuration settings to apply to the selected database.
 
-**`size_limit`** — string.
+**`size_limit`**: string.
 
 Maximum database size, expressed in bytes. Unit-suffixed values are accepted too, such as 1mb, 256mb, 1gb.
 
-**`allow_attach`** — boolean; deprecated.
+**`allow_attach`**: boolean; deprecated.
 
 Controls whether databases may be attached to the current database.
 
-**`block_reads`** — boolean.
+**`block_reads`**: boolean.
 
 Block all database reads.
 
@@ -40,7 +40,7 @@ Example:
 
 `false`
 
-**`block_writes`** — boolean.
+**`block_writes`**: boolean.
 
 Block all database writes.
 
@@ -48,7 +48,7 @@ Example:
 
 `false`
 
-**`delete_protection`** — boolean.
+**`delete_protection`**: boolean.
 
 Stops deletion of the database.
 
@@ -56,7 +56,7 @@ Example:
 
 `true`
 
-**`allowed_ips`** — string[].
+**`allowed_ips`**: string[].
 
 Allowed IP addresses and CIDR blocks. Connections are accepted only from these sources. Use an empty array to remove all entries. Leave omitted to keep the current setting.
 
@@ -67,7 +67,7 @@ Example:
 
 ```
 
-**`allowed_aws_vpc_ids`** — string[].
+**`allowed_aws_vpc_ids`**: string[].
 
 Allowed AWS VPC endpoint IDs (vpce-...). Connections must come through one of these endpoints. Use an empty array to remove all entries. Leave omitted to keep the current setting.
 

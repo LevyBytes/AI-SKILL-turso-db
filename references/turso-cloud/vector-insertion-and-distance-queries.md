@@ -50,7 +50,7 @@ ORDER BY distance ASC;
 ### Understanding Distance Results
 
  `vector_distance_cos` computes cosine distance, defined as:
-- Cosine Distance = 1 — [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
+- Cosine Distance = 1 - [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
  Cosine distance has a range from 0 to 2:
 - Values near 0 mean the vectors are almost identical or exactly the same.
 - Values near 1 mean the vectors are orthogonal, or perpendicular.

@@ -62,13 +62,13 @@ GET /v1/organizations/{organizationSlug}/usage
 
 #### Authorizations
 
-**`Authorization`** — string; header; required.
+**`Authorization`**: string; header; required.
 
 Send the authorization header with Bearer authentication as `Bearer <token>`; use your auth token for `<token>`.
 
 #### Path Parameters
 
-**`organizationSlug`** — string; required.
+**`organizationSlug`**: string; required.
 
 Slug for the target organization or user account.
 
@@ -78,7 +78,7 @@ Slug for the target organization or user account.
 
 Successful response
 
-**`organization`** — object.
+**`organization`**: object.
 
 Organization usage object with totals for rows read, rows written, and total storage size (in bytes).
 
