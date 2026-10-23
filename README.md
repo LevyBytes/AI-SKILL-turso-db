@@ -1,5 +1,7 @@
 # Turso DB
 
+[![AgentShield Security](https://merx.help/badge/A+.svg)](https://merx.help/shield)
+
 ```mermaid
 ---
 config:
